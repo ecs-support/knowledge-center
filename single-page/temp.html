@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>โครงสร้่างข้อมูล</title>
-    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
 <body class="stackedit">
@@ -13,9 +13,14 @@
         <div class="stackedit__toc">
 
             <ul>
-                <li><a href="#โครงสร้างข้อมูลใบขนสินค้าขาเข้า">โครงสร้างข้อมูล</a>
-                   
-                        
+                <li><a href="#โครงสร้างข้อมูลใบขนสินค้าขาเข้า">โครงสร้างข้อมูลใบขนสินค้าขาเข้า</a>
+                    <ul>
+                        <li><a href="#โครงสร้างข้อมูลใบขนสินค้าขาเข้า-แบ่งได้เป็น-6-ส่วนดังนี้">โครงสร้างข้อมูลใบขนสินค้าขาเข้า
+                                แบ่งได้เป็น 6 ส่วนดังนี้</a></li>
+                        <li><a href="#เงื่อนไขการบันทึกข้อมูล-ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้">เงื่อนไขการบันทึกข้อมูล
+                                ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้</a></li>
+                        <li><a href="#อักษรย่อ-ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล">อักษรย่อ
+                                ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล</a>
                             <ul>
                                 <li><a href="#import-declaration-control">Import Declaration Control</a></li>
                                 <li><a href="#import-invoice-control">Import Invoice Control</a></li>
@@ -23,7 +28,7 @@
                                 <li><a href="#import-invoice-duty">Import Invoice Duty</a></li>
                                 <li><a href="#import-invoice-permit">Import Invoice Permit</a></li>
                                 <li><a href="#import-invoice-deposit">Import Invoice Deposit</a></li>
-                            
+                            </ul>
                         </li>
                     </ul>
                 </li>
@@ -37,38 +42,38 @@
             <h2 id="โครงสร้างข้อมูลใบขนสินค้าขาเข้า-แบ่งได้เป็น-6-ส่วนดังนี้">โครงสร้างข้อมูลใบขนสินค้าขาเข้า
                 แบ่งได้เป็น 6 ส่วนดังนี้</h2>
             <ol>
-                <li><a href="#import-declaration-control">Import Declaration Control</a> ประกอบด้วย 73
+                <li><a href="#import-declaration-control"><strong>Import Declaration Control</strong></a> ประกอบด้วย 73
                     Fields</li>
-                <li><a href="#import-invoice-control">Import Invoice Control</a> ประกอบด้วย 35 Fields
+                <li><a href="#import-invoice-control"><strong>Import Invoice Control</strong></a> ประกอบด้วย 35 Fields
                 </li>
-                <li><a href="#import-invoice-detail">Import Invoice Detail</a> ประกอบด้วย 76 Fields
+                <li><a href="#import-invoice-detail"><strong>Import Invoice Detail</strong></a> ประกอบด้วย 76 Fields
                 </li>
-                <li><a href="#import-invoice-duty">Import Invoice Detail (Duty)</a> ประกอบด้วย 14
+                <li><a href="#import-invoice-duty"><strong>Import Invoice Detail (Duty)</strong></a> ประกอบด้วย 14
                     Fields</li>
-                <li><a href="#import-invoice-permit">Import Invoice Detail (Permit)</a> ประกอบด้วย 3
+                <li><a href="#import-invoice-permit"><strong>Import Invoice Detail (Permit)</strong></a> ประกอบด้วย 3
                     Fields</li>
-                <li><a href="#import-invoice-deposit">Import Invoice Detail (Deposit)</a> ประกอบด้วย 2
+                <li><a href="#import-invoice-deposit"><strong>Import Invoice Detail (Deposit)</strong></a> ประกอบด้วย 2
                     Fields</li>
             </ol>
             <h2 id="เงื่อนไขการบันทึกข้อมูล-ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้">เงื่อนไขการบันทึกข้อมูล
                 ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้</h2>
             <ol>
-                <li>หาก Field ใด กำหนดให้ต้องระบุค่า <strong>(Value = M)</strong> แต่ผู้บันทึกไม่สามารถหาข้อมูลได้
-                    <ul>
-                        <li>สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A</li>
-                        <li>สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)</li>
-                    </ul>
-                </li>
+                <li>หาก Field ใด กำหนดให้ต้องระบุค่า <strong>(Value = M)</strong> แต่ผู้บันทึกไม่สามารถหาข้อมูลได้</li>
+            </ol>
+            <ul>
+                <li>สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A</li>
+                <li>สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)</li>
+            </ul>
+            <ol start="2">
                 <li>หาก Field ใด กำหนดให้ไม่ต้องระบุค่า <strong>(Value = O)</strong> และผู้บันทึกไม่สามารถหาข้อมูลได้
                     ก็ไม่ต้องบันทึกค่าใด ๆ</li>
                 <li>หาก Field ใด กำหนดให้ต้องระบุค่า เมื่อเข้าเงื่อนไขที่กำหนด <strong>(Value = C)</strong>
-                    แต่ผู้บันทึกไม่สามารถหาข้อมูลได้
-                    <ul>
-                        <li>สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A</li>
-                        <li>สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)</li>
-                    </ul>
-                </li>
+                    แต่ผู้บันทึกไม่สามารถหาข้อมูลได้</li>
             </ol>
+            <ul>
+                <li>สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A</li>
+                <li>สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)</li>
+            </ul>
             <h2 id="อักษรย่อ-ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล">อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล</h2>
 
             <table>
@@ -81,7 +86,7 @@
                 <tbody>
                     <tr>
                         <td align="center">n3</td>
-                        <td>ข้อมูลชนิดตัวเลข (Numeric Characters) คงที่ คือ 3 ตัวอักษร</td>
+                        <td>ชนิดตัวเลข (Numeric Characters) คงที่ คือ 3 ตัวอักษร</td>
                     </tr>
                     <tr>
                         <td align="center">a3</td>
@@ -101,11 +106,11 @@
                     </tr>
                     <tr>
                         <td align="center">an…3</td>
-                        <td>ข้อมูลชนิดตัวอักษรหรือตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร</td>
+                        <td>ชนิดตัวอักษรหรือตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร</td>
                     </tr>
                     <tr>
                         <td align="center">n…16,2</td>
-                        <td>ความยาวข้อมูลแปรผันตามความยาวสูงสุด 16 ตัวอักษร รวมความยาวทศนิยมสูงสุด 2 ตัวอักษร</td>
+                        <td>ชนิดตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 16 ตัวอักษรรวมความยาวทศนิยมสูงสุด 2 ตัวอักษร</td>
                     </tr>
                 </tbody>
             </table>
