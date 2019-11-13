@@ -2382,8 +2382,8 @@ template {
 body,
 html {
     color: rgba(0, 0, 0, .75);
-    font-size: 22px;
-    font-family: "Kanit Light",    sans-serif;
+    font-size: 20px;
+    font-family: "noto_sans_thai",    sans-serif;
     
     font-variant-ligatures: common-ligatures;
     line-height: 1.67;
@@ -2411,6 +2411,7 @@ h3,
 h4,
 h5,
 h6 {
+    font-family: "Kanit Light",    sans-serif;
     margin: 1.8em 0;
     line-height: 1.33
 }
@@ -2449,7 +2450,7 @@ a:hover {
 code,
 pre,
 samp {
-    font-family: "kanit",    sans-serif;   
+    font-family: "kanit Light",    sans-serif;   
     font-size: .85em
 }
 
@@ -2523,14 +2524,14 @@ mark {
 }
 
 kbd {
-    font-family: "kanit",  sans-serif;    
+    font-family: "kanit Light",  sans-serif;    
     background-color: #fff;
     border: 1px solid rgba(63, 63, 63, .25);
     border-radius: 3px;
     box-shadow: 0 1px 0 rgba(63, 63, 63, .25);
     color: #333;
     display: inline-block;
-    font-size: 1.2em;
+    font-size: 1em;
     margin: 0 .1em;
     padding: .1em .6em;
     white-space: nowrap
@@ -2588,7 +2589,7 @@ img {
 
 .stackedit__toc ul ul {
     color: #888;
-    font-size: 1.1em
+    font-size: .8em
 }
 
 .stackedit__toc ul ul a {
