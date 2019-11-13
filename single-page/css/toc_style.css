@@ -165,10 +165,7 @@
 }
 
 .katex {
-    font: normal 1.21em "noto_sans_thai", sans-serif;
-    KaTeX_Main,
-    Times New Roman,
-    serif;
+    font: normal 1.21em "noto_sans_thai", sans-serif; KaTeX_Main, Times New Roman, serif;
     line-height: 1.2;
     text-indent: 0;
     text-rendering: auto
@@ -216,18 +213,15 @@
 }
 
 .katex .textrm {
-    font-family: "noto_sans_thai", sans-serif;
-    KaTeX_Main
+    font-family: "noto_sans_thai",sans-serif;KaTeX_Main
 }
 
 .katex .textsf {
-    font-family: "noto_sans_thai", sans-serif;
-    KaTeX_SansSerif
+    font-family: "noto_sans_thai",    sans-serif;    KaTeX_SansSerif
 }
 
 .katex .texttt {
-    font-family: "noto_sans_thai", sans-serif;
-    KaTeX_Typewriter
+    font-family: "noto_sans_thai",    sans-serif;    KaTeX_Typewriter
 }
 
 .katex .mathdefault {
@@ -2194,8 +2188,8 @@ main {
 }
 
 pre {
-    font-family: "noto_sans_thai", sans-serif;
-
+    font-family: "noto_sans_thai",    sans-serif;
+  
     font-size: 1.2em
 }
 
@@ -2219,7 +2213,7 @@ strong {
 code,
 kbd,
 samp {
-    font-family: "noto_sans_thai", sans-serif;
+    font-family: "noto_sans_thai",    sans-serif;
     font-size: 1.2em
 }
 
@@ -2275,7 +2269,7 @@ input,
 optgroup,
 select,
 textarea {
-    font-family: "Pridi", sans-serif;
+    font-family: "Pridi",    sans-serif;
     font-size: 120%;
     line-height: 1.15;
     margin: 0
@@ -2390,10 +2384,10 @@ html {
     color: rgba(0, 0, 0, .75);
     font-size: 20px;
     font-family: "noto_sans_thai",
-        sans-serif;
-
+    sans-serif;
+    
     font-variant-ligatures: common-ligatures;
-    line-height: 1.77;
+    line-height: 1.67;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
 }
@@ -2418,7 +2412,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Kanit Light", sans-serif;
+    font-family: "Kanit Light",    sans-serif;
     margin: 1.8em 0;
     line-height: 1.33
 }
@@ -2457,7 +2451,7 @@ a:hover {
 code,
 pre,
 samp {
-    font-family: "kanit Light", sans-serif;
+    font-family: "kanit Light",    sans-serif;   
     font-size: .85em
 }
 
@@ -2531,7 +2525,7 @@ mark {
 }
 
 kbd {
-    font-family: "kanit Light", sans-serif;
+    font-family: "kanit Light",  sans-serif;    
     background-color: #fff;
     border: 1px solid rgba(63, 63, 63, .25);
     border-radius: 3px;
@@ -2582,7 +2576,7 @@ img {
     margin-right: auto;
     padding-left: 30px;
     padding-right: 30px;
-    max-width: 950px
+    max-width: 750px
 }
 
 .stackedit__toc ul {
