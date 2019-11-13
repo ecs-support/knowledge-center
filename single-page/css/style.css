@@ -2146,7 +2146,7 @@
 /*! normalize-scss | MIT/GPLv2 License | bit.ly/normalize-scss */
 html {
     line-height: 1.15;
-    -ms-text-size-adjust: 100%;
+    -ms-text-size-adjust: 120%;
     -webkit-text-size-adjust: 100%
 }
 
@@ -2190,7 +2190,7 @@ main {
 pre {
     font-family: "noto_sans_thai",    sans-serif;
   
-    font-size: 1em
+    font-size: 1.2em
 }
 
 a {
@@ -2214,7 +2214,7 @@ code,
 kbd,
 samp {
     font-family: "noto_sans_thai",    sans-serif;
-    font-size: 1em
+    font-size: 1.2em
 }
 
 dfn {
@@ -2269,8 +2269,8 @@ input,
 optgroup,
 select,
 textarea {
-    font-family: "noto_sans_thai",    sans-serif;
-    font-size: 100%;
+    font-family: "Pridi",    sans-serif;
+    font-size: 120%;
     line-height: 1.15;
     margin: 0
 }
@@ -2382,8 +2382,8 @@ template {
 body,
 html {
     color: rgba(0, 0, 0, .75);
-    font-size: 18px;
-    font-family: "noto_sans_thai",    sans-serif;
+    font-size: 22px;
+    font-family: "Kanit Light",    sans-serif;
     
     font-variant-ligatures: common-ligatures;
     line-height: 1.67;
@@ -2449,7 +2449,7 @@ a:hover {
 code,
 pre,
 samp {
-    font-family: "noto_sans_thai",    sans-serif;   
+    font-family: "kanit",    sans-serif;   
     font-size: .85em
 }
 
@@ -2523,14 +2523,14 @@ mark {
 }
 
 kbd {
-    font-family: "noto_sans_thai",  sans-serif;    
+    font-family: "kanit",  sans-serif;    
     background-color: #fff;
     border: 1px solid rgba(63, 63, 63, .25);
     border-radius: 3px;
     box-shadow: 0 1px 0 rgba(63, 63, 63, .25);
     color: #333;
     display: inline-block;
-    font-size: 1em;
+    font-size: 1.2em;
     margin: 0 .1em;
     padding: .1em .6em;
     white-space: nowrap
@@ -2588,7 +2588,7 @@ img {
 
 .stackedit__toc ul ul {
     color: #888;
-    font-size: .9em
+    font-size: 1.1em
 }
 
 .stackedit__toc ul ul a {
