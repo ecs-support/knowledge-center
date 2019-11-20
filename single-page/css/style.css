@@ -887,8 +887,10 @@ section {
     display: block
 }
 
-h1 {
-    font-size: 2em;
+h1,
+h2 {
+    font-size: 1.5em;
+    color:#2A4B7C;
     margin: .67em 0
 }
 
@@ -1138,7 +1140,9 @@ h5,
 h6 {
     font-family: "Kanit Light", sans-serif;
     margin: 1.8em 0;
-    line-height: 1.33
+    line-height: 1;
+    font-weight: 600;
+    font-variant-ligatures: common-ligatures;
 }
 
 h1:after,
