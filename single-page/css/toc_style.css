@@ -2382,9 +2382,10 @@ template {
 body,
 html {
     color: rgba(0, 0, 0, .75);
-    font-size: 20px;
-    font-family: "noto_sans_thai",
+    font-size: 1.3em;
+    font-family: "TH Sarabun New",
     sans-serif;
+    font-weight: 600;
     
     font-variant-ligatures: common-ligatures;
     line-height: 1.67;
@@ -2590,7 +2591,7 @@ img {
 
 .stackedit__toc ul ul {
     color: #888;
-    font-size: .8em
+    font-size: 1em
 }
 
 .stackedit__toc ul ul a {
