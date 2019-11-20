@@ -61,10 +61,6 @@
     color: #999
 }
 
-.prism .namespace,
-.token.pre.gfm .namespace {
-    opacity: .7
-}
 
 .prism .token.boolean,
 .prism .token.constant,
