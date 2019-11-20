@@ -2387,14 +2387,14 @@ template {
 
 body,
 html {
-    color: rgba(0, 0, 0, .75);
+    color: #333333;
     font-size: 1.3em;
     font-family: "TH Sarabun New",
     sans-serif;
-    font-weight: 600;
+    font-weight: 400;
 
     font-variant-ligatures: common-ligatures;
-    line-height: 1.77;
+    line-height: 1.325;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
 }
