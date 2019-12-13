@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>คู่มือใบขนสินค้าขาเข้า on ECS Knowledge Center</title>
+    <title>คู่มือใบขนสินค้าขาเข้า on Knowledge Center</title>
     <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2/</link>
-    <description>Recent content in คู่มือใบขนสินค้าขาเข้า on ECS Knowledge Center</description>
+    <description>Recent content in คู่มือใบขนสินค้าขาเข้า on Knowledge Center</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="https://ecs-support.github.io/knowledge-center/customs-clearance/docs/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2/index.xml" rel="self" type="application/rss+xml" />
@@ -158,8 +158,8 @@
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2/incoterms/</guid>
       <description>INCOTERMS Incoterms (International Commercial Terms) เป็นข้อกำหนดการส่งมอบสินค้า (Term of Shipment) ระหว่างผู้ซื้อกับผู้ขายที่เป็นสากล ซึ่งกำหนดขึ้นโดยสภาหอการค้านานาชาติ (International Chamber of Commerce) ได้มีการประชุมบรรดาสมาชิกสภาหอการค้าระหว่างประเทศ ทุก 10 ปี เพื่อวางหลักเกณฑ์ข้อตกลงในการส่งมอบสินค้าระหว่างประเทศ เริ่มใช้ในปี ค.ศ. 1963 ฉบับปัจจุบันปรับปรุงแก้ไขเมื่อ ค.ศ. 2010 ประกาศใช้เมื่อ 1 มกราคม ค.ศ. 2011 เพื่อให้กฎเกณฑ์ดังกล่าวสอดคล้องกับหลักปฏิบัติทางการค้าระหว่างประเทศและในประเทศในปัจจุบัน โดยกําหนดให้ขอบเขตของ Incoterms @ 2010 จํากัดอยู่เฉพาะเรื่องที่เกี่ยวข้องกับสิทธิและหน้าที่ของคู่สัญญาซื้อขาย ในเรื่องการสส่งมอบสินค้าที่ขาย ว่าโดยนัยของสินค้า ที่จับต้องได้ (Tangible Goods) เท่านั้น ไม่รวมถึง ที่จับต้องไม่ได้
-แบ่งตามรูปแบบการขนส่งสินค้า  กลุ่มการขนส่งรูปแบบใดรูปแบบหนึ่งหรือหลายรูปแบบ (Multimodal transport) มี 7 เงื่อนไข คือ EXW, FCA, CPT, CIP, DAT, DAP และ DDP
- กลุ่มการขนส่งทางทะเลหรือทางน้ำ (Sea and waterways transport) มี 4 เงื่อนไขคือ FAS, FOB, CFR และ CIF</description>
+ข้อตกลงการส่งมอบของในทางการค้าระหว่างประเทศ (International Commercial Terms : Incoterms) ข้อตกลงการส่งมอบของในทางการค้าระหว่างประเทศ เป็นข้อตกลงที่กำหนดโดยหอการค้าระหว่างประเทศ เพื่อใช้แปลความข้อตกลงการค้าต่างประเทศ ให้เกิดความเข้าใจในหน้าที่และความรับผิดชอบระหว่างผู้ซื้อและผู้ขาย ประกอบด้วยข้อตกลง 4 กลุ่ม จำนวน 11 ข้อตกลง ดังต่อไปนี้
+Group E (การออกจากสถานที่) EXW (1) EXW (…….name Point within the place of Seller) ย่อจากคำว่า “Ex Works” เงื่อนไข การส่งมอบนี้ ผู้ขายจะสิ้นสุดภาระการส่งมอบสินค้าตามสัญญาก็ต่อเมื่อ ผู้ขายได้จัดให้สินค้าพร้อมสำหรับ การส่งมอบ ณ สถานที่ของผู้ขายเอง (Delivery point) โดยผู้ขายมิต้องรับผิดชอบในการขนสินค้าขึ้นยานพาหนะ ไม่ต้องทำพิธีการส่งออก (Customs Clearance) ค่าใช้จ่ายต่าง ๆ ในการขนสินค้า (Transport) จากสถานที่ของผู้ขายไปยังจุดหมายปลายทาง และความเสี่ยงภัยต่าง ๆ เป็นของผู้ซื้อ</description>
     </item>
     
     <item>
@@ -268,12 +268,16 @@
     </item>
     
     <item>
-      <title>26. การตรวจสอบระหว่างใบขนสินค้ากับ Manifest</title>
+      <title>26. การตัดบัญชีใบขนสินค้ากับรายงานการนำของเข้า</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%9A_manifest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%9A_manifest/</guid>
-      <description> การตรวจสอบระหว่างใบขนสินค้ากับ Manifest    ใบขนสินค้า &amp;amp; Manifest เรือ รถไฟ บก อากาศ ไปรษณีย์ ผู้โดยสารนำพา     Vessel Name Y Y - Y - -   Discharge Port Y Y Y Y Y Y   Arrival Date Y Y Y Y Y Y   Master Bill of Lading - - Y Y - -   House Bill of Lading Y Y Y Y Y Y   Company English Name Y Y Y Y Y Y   Total Package Amount(จำนวนหีบห่อรวม) = = &amp;gt;, = = = =   Total Package Unit(ลักษณะหีบห่อรวม) = = = = = =   Gross Weight(น้ำหนักรวม) = = &amp;gt;, = = = =   Gross Weight Unit(หน่วยของน้ำหนักรวม) = = = = = =   Release Port Y Y Y Y Y Y    </description>
+      <description>การตัดบัญชีใบขนสินค้ากับรายงานการนำของเข้า Table of Content
+ การตรวจสอบข้อมูลใบขนสินค้ากับข้อมูล Manifest การตรวจสอบระหว่างใบขนสินค้ากับ Manifest เลขที่ใบอนุญาตให้ผ่านแดน (ศ.บ. 1) กรณีการนำเข้าทางบกที่ใช้ ศ.บ. 1 หลายฉบับ การตรวจสอบข้อมูลใบขนสินค้ากับข้อมูล Manifest  การยื่นใบขนสินค้าขาเข้าและการชำระค่าภาษีอากร หรือวางประกันค่าภาษีอากรสำหรับใบขนสินค้า ขาเข้าทุกประเภท ให้สามารถกระทำได้ทั้งก่อนและหลังวันเรือเข้า โดยผู้นำของเข้าหรือตัวแทนต้องสำแดงชื่อเรือ วันเรือเข้า ไว้ในใบขนสินค้าขาเข้า ให้ตรงตามข้อมูล Manifest
+ กรณีที่มีการเปลี่ยนแปลงวันเรือเข้า ภายหลังการปฏิบัติพิธีการและชำระค่าภาษีอากรหรือวางประกันแล้ว
+ หากเป็นเหตุให้มีการเปลี่ยนแปลงอัตราแลกเปลี่ยนเงินตราต่างประเทศ อัตราอากร ให้ผู้นำของเข้าหรือตัวแทนยื่นคำร้องขอแก้ไขข้อมูลใบขนสินค้าขาเข้านั้น ต่อหน่วยบริการศุลกากรของ ด่านศุลกากรที่นำของเข้า หรือโรงพักสินค้าหรือที่มั่นคงซึ่งเป็นที่ตรวจและเก็บสินค้าดังกล่าว กรณีมีผลกระทบค่าภาษีอากรให้ผู้นำของเข้าหรือตัวแทนชำระค่าภาษีอากรหรือวางประกันค่าภาษีอากรให้ถูกต้องก่อน แล้วจึงจะสามารถรับการตรวจปล่อยสินค้าต่อไป  ข้อมูลบัญชีสินค้า (Manifest)
+     Seq. Field Name Format Field Description     1 Vessel Name an..35 ชื่อยานพาหนะ   2 Discharge Port n.</description>
     </item>
     
     <item>
