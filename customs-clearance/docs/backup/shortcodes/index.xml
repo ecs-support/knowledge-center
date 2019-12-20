@@ -36,7 +36,7 @@
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/backup/shortcodes/expand/</guid>
       <description>Expand Expand shortcode can help to decrease clutter on screen by hiding part of text. Expand content by clicking on it.
-Example Default {{&amp;lt; expand &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}}  Expand↕Markdown content Lorem markdownum insigne&amp;hellip;With Custom Label {{&amp;lt; expand &amp;quot;Custom Label&amp;quot; &amp;quot;...&amp;quot; &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}}  Custom Label.</description>
+Example Default {{&amp;lt; expand &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}}  Custom↕Markdown content Lorem markdownum insigne&amp;hellip;With Custom Label {{&amp;lt; expand &amp;quot;Custom Label&amp;quot; &amp;quot;...&amp;quot; &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}}  Custom Label↕Markdown content Lorem markdownum insigne.</description>
     </item>
     
     <item>
