@@ -5,7 +5,8 @@
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="รหัสประเภทรถ"><meta property="og:title" content="รหัสประเภทรถ" />
-<meta property="og:description" content="รหัสประเภทรถ (Car Type)  REFCAR     NO. CarTypeCode CarTypeName     1 1000 รถขนาดเล็ก   2 1100 กระบะบรรทุก   3 1101 กระบะบรรทุก(พื้นเรียบ)   4 1102 กระบะบรรทุก(ท้ายลาด)   5 1103 กระบะบรรทุก(มีข้างเสริม)   6 1104 กระบะบรรทุก(มีเครื่องทุ่นแรง)   7 1105 กระบะบรรทุก(แบบยกได้)   8 1106 กระบะบรรทุกมีข้างเสริมมีเครื่องทุ่นแรง   9 1107 กระบะบรรทุกยกได้มีข้างเสริม   10 1108 กระบะบรรทุกยกได้มีข้างเสริมมีเครื่องทุ่นแรง   11 1109 กระบะบรรทุกวางตู้คอนเทนเนอร์   12 1110 กระบะบรรทุกมีข้างเสริมมีหลังคา   13 1111 กระบะบรรทุกท้ายลาดมีเครื่องทุ่นแรง   14 1112 กระบะบรรทุก(ท้ายลาดมีข้างเสริมและติดตั้งเครื่องทุ่นแรง)   15 1113 กระบะบรรทุกพื้นเรียบ (ติดตั้งเครื่องทุ่นแรง)   16 1114 กระบะบรรทุกมีข้างเสริมมีหลังคามีเครื่องทุ่นแรง   17 1115 กระบะบรรทุก (แบบยกได้มีเครื่องทุ่นแรง)   18 1200 ตู้บรรทุก   19 1201 ตู้บรรทุกมีเครื่องทุ่นแรง   20 1202 ตู้บรรทุกเฉพาะกิจ   21 1203 ตู้บรรทุกติดตั้งลิฟท์ขนถ่ายสินค้า   22 1204 ตู้บรรทุกติดตั้งเครื่องทำความเย็น   23 1205 ตู้บรรทุกติดตั้งเครื่องทำความเย็น, ลิฟท์ขนถ่ายสินค้า   24 1300 บรรทุกของเหลว   25 1301 บรรทุกของเหลว(น้ำนม)   26 1302 บรรทุกของเหลว(น้ำมันพืช)   27 1303 บรรทุกของเหลว(น้ำแข็ง)   28 1304 บรรทุกของเหลว(น้ำเชื่อม/กากน้ำตาล/โมลาส)   29 1305 บรรทุกของเหลว(น้ำยางพารา)   30 1306 บรรทุกของเหลว(น้ำ)   31 1307 บรรทุกของเหลว(คลอรีนเหลว)   32 1308 บรรทุกของเหลว(กากกาแฟ พีบี." />
+<meta property="og:description" content="รหัสประเภทรถ (Car Type) 
+   NO. CarTypeCode CarTypeName     1 1000 รถขนาดเล็ก   2 1100 กระบะบรรทุก   3 1101 กระบะบรรทุก(พื้นเรียบ)   4 1102 กระบะบรรทุก(ท้ายลาด)   5 1103 กระบะบรรทุก(มีข้างเสริม)   6 1104 กระบะบรรทุก(มีเครื่องทุ่นแรง)   7 1105 กระบะบรรทุก(แบบยกได้)   8 1106 กระบะบรรทุกมีข้างเสริมมีเครื่องทุ่นแรง   9 1107 กระบะบรรทุกยกได้มีข้างเสริม   10 1108 กระบะบรรทุกยกได้มีข้างเสริมมีเครื่องทุ่นแรง   11 1109 กระบะบรรทุกวางตู้คอนเทนเนอร์   12 1110 กระบะบรรทุกมีข้างเสริมมีหลังคา   13 1111 กระบะบรรทุกท้ายลาดมีเครื่องทุ่นแรง   14 1112 กระบะบรรทุก(ท้ายลาดมีข้างเสริมและติดตั้งเครื่องทุ่นแรง)   15 1113 กระบะบรรทุกพื้นเรียบ (ติดตั้งเครื่องทุ่นแรง)   16 1114 กระบะบรรทุกมีข้างเสริมมีหลังคามีเครื่องทุ่นแรง   17 1115 กระบะบรรทุก (แบบยกได้มีเครื่องทุ่นแรง)   18 1200 ตู้บรรทุก   19 1201 ตู้บรรทุกมีเครื่องทุ่นแรง   20 1202 ตู้บรรทุกเฉพาะกิจ   21 1203 ตู้บรรทุกติดตั้งลิฟท์ขนถ่ายสินค้า   22 1204 ตู้บรรทุกติดตั้งเครื่องทำความเย็น   23 1205 ตู้บรรทุกติดตั้งเครื่องทำความเย็น, ลิฟท์ขนถ่ายสินค้า   24 1300 บรรทุกของเหลว   25 1301 บรรทุกของเหลว(น้ำนม)   26 1302 บรรทุกของเหลว(น้ำมันพืช)   27 1303 บรรทุกของเหลว(น้ำแข็ง)   28 1304 บรรทุกของเหลว(น้ำเชื่อม/กากน้ำตาล/โมลาส)   29 1305 บรรทุกของเหลว(น้ำยางพารา)   30 1306 บรรทุกของเหลว(น้ำ)   31 1307 บรรทุกของเหลว(คลอรีนเหลว)   32 1308 บรรทุกของเหลว(กากกาแฟ พีบี." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/cartype/" />
 
@@ -16,7 +17,7 @@
 <link rel="stylesheet" href="/knowledge-center/customs-clearance/book.min.143b9dbcc788acdbb7cf4e3c919e5c13f3d194f98329a6ae00d609318531f6f6.css" integrity="sha256-FDudvMeIrNu3z048kZ5cE/PRlPmDKaauANYJMYUx9vY=">
 
 
-<script defer src="/knowledge-center/customs-clearance/en.search.min.43b792b60a50781daf7d32f580dd765e01c08b814fc754685812b02ec48f1c1b.js" integrity="sha256-Q7eStgpQeB2vfTL1gN12XgHAi4FPx1RoWBKwLsSPHBs="></script>
+<script defer src="/knowledge-center/customs-clearance/en.search.min.a5e54cd5cb84a0123cd1437b3c15ab1a044f9d63c409f19fd855db23cfc4dbc5.js" integrity="sha256-peVM1cuEoBI80UN7PBWrGgRPnWPECfGf2FXbI8/E28U="></script>
 
 <!--
 Made with Book Theme
@@ -294,6 +295,26 @@ https://github.com/alex-shpak/hugo-book
       
         <li>
 
+  <a href="/knowledge-center/customs-clearance/docs/reference/area/" >
+      รหัสสถานที่
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/knowledge-center/customs-clearance/docs/reference/unit/" >
+      รหัสหน่วยสินค้า
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
   <a href="/knowledge-center/customs-clearance/docs/reference/package/" >
       ลักษณะหีบห่อ
   </a>
@@ -438,9 +459,8 @@ https://github.com/alex-shpak/hugo-book
 
 <h1 id="รห-สประเภทรถ-car-type">รหัสประเภทรถ (Car Type)</h1>
 
-<ul>
-<li>REFCAR</li>
-</ul>
+<p><br>
+<input class="form-control col-sm-6 border-danger" id="myInput" type="text" placeholder="Search.."></p>
 
 <table>
 <thead>
@@ -2253,6 +2273,25 @@ https://github.com/alex-shpak/hugo-book
 </tr>
 </tbody>
 </table>
+
+<script>
+function filterTable(event) {
+    var filter = event.target.value.toUpperCase();
+    var rows = document.querySelector(".markdown table tbody").rows;
+    
+    for (var i = 0; i < rows.length; i++) {
+        var firstCol = rows[i].cells[1].textContent.toUpperCase();
+        var secondCol = rows[i].cells[2].textContent.toUpperCase();
+        if (firstCol.indexOf(filter) > -1 || secondCol.indexOf(filter) > -1) {
+            rows[i].style.display = "";
+        } else {
+            rows[i].style.display = "none";
+        }      
+    }
+}
+
+document.querySelector('#myInput').addEventListener('keyup', filterTable, false);
+</script>
 
 <blockquote>
 <p><a href="http://www.customs.go.th/list_strc_download.php?lang=th&amp;left_menu=nmenu_esevice_006&amp;current_id=14232a324147505e4f">วันที่ปรับปรุงล่าสุด 31 ส.ค. 2559</a></p>
