@@ -9,7 +9,7 @@ body {
 .title_coundown {
   font-family: "Prompt";
   font-weight: 200;
-  font-size:3em;
+  font-size:2em;
   text-align: center;
   margin-bottom:1em;
   color:rgba(2, 255, 255, 0.7); 
@@ -20,9 +20,9 @@ body {
 
 @keyframes neon_box { 
   from { 
-      box-shadow: 0 0 35px rgba(2, 255, 255, 0.15),   
+      box-shadow: 0px 0px 30px rgba(2, 254, 255, 0.8),
                    0 0 40px #2BBF03, 
-                   0 0 55px #02feff;
+                   0 0 35px rgba(2, 255, 255, 0.15);
   } 
 
 }
@@ -54,6 +54,8 @@ body {
   
   display: flex;
   flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
   
   
   
@@ -62,7 +64,7 @@ body {
 display: flex;
 flex-direction: row;
 position: absolute;
-
+width:100%;
 }
 .content-end{
 align-self: flex-end;
@@ -132,6 +134,7 @@ position: absolute;
   transition: box-shadow 3s ease;
   text-align: center;
   line-height: 100px;
+  
 }
 
 .semi_arc:hover {
@@ -156,6 +159,7 @@ position: absolute;
   animation: rotate 4s linear infinite;
   text-align: center;
   line-height: 129px;
+  
 }
 
 .semi_arc_2:after {
@@ -478,6 +482,8 @@ html, body {
   margin : auto;
   background: rgba(0, 0, 0, 0.8);
   line-height: 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #date {

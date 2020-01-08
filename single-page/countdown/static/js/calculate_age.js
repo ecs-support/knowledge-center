@@ -1,5 +1,7 @@
     // Set the date we're counting down to
-    var BirthDate = new Date("July 03, 2014 15:00:00").getTime();
+    
+    var birth_day = "July 03, 2014 15:12:00";
+    var BirthDate = new Date(birth_day).getTime();
 
     // Update the count down every 1 second
     var x = setInterval(function () {
@@ -38,6 +40,10 @@
       document.getElementById("hour_age").innerHTML = hour_age;
       document.getElementById("minute_age").innerHTML = minute_age;
       document.getElementById("second_age").innerHTML = second_age;
+      document.getElementById("title_age").innerHTML = "ด.ช.พชรพล วงศ์สง่า [" + birth_day +' ]';
+
+
+      
      
 
       // If the count down is over, write some text 
