@@ -1,4 +1,20 @@
-    // Set the date we're counting down to
+// Type Script
+var i = 0;
+var txt = "กรุณาเลือกทำรายการจากเมนูด้านซ้าย";
+var speed = 80;
+
+function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("start_title").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
+
+
+
+
+// Set the date we're counting down to
     var countDownDate = new Date("Jan 11, 2020 08:00:00").getTime();
 
     // Update the count down every 1 second

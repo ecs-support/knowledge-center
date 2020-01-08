@@ -14,8 +14,25 @@ body {
   margin-bottom:1em;
   color:rgba(2, 255, 255, 0.7); 
   animation: neon 3s ease-in-out infinite alternate; 
-
 } 
+
+
+.title_start {
+  width:100%;
+  font-family: "Prompt";
+  font-weight: 400;
+  font-size: 3em;
+  text-align: center;
+  margin-top: 1em;
+ 
+  text-shadow: 0 0 35px rgba(2, 255, 255, 0.15),
+  0 0 40px #2BBF03,
+  0 0 55px #02feff;
+  color: #02feff;
+  
+
+}
+
 
 
 @keyframes neon_box { 
