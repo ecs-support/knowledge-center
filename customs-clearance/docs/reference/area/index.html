@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="รหัสสถานที่"><meta property="og:title" content="รหัสสถานที่" />
-<meta property="og:description" content="รหัสสถานที่ (AREA CODE)           NO. รหัสสถานที่ ชื่อสถานที่ สถานที่ตรวจปล่อย(ขาออก) สถานที่รับบรรทุก(ขาออก) สถานที่ตรวจปล่อย(ขาเข้า) สถานที่รับบรรทุก(ขาเข้า)     1 0010 กรมศุลกากร N N N N   2 0011 สิทธิ์ BOI (สำหรับใบขนสินค้าโอนย้ายภายในประเทศ) N N Y Y   3 0019 สิทธิ์ 19 ทวิ (สำหรับใบขนสินค้าโอนย้ายภายในประเทศ) N N Y Y   4 0100 กองคลัง (กคล.) N N Y Y   5 0101 ฝ่ายพิธีการนำเข้าที่ 1 สพข." />
+<meta property="og:description" content="รหัสสถานที่ (AREA CODE)     .container-fluid { width:100%; margin: 10px auto; } td { font-size: 14px; font-weight:300 } th { font-size: 14.5px; font-weight:500 }         NO. รหัสสถานที่ ชื่อสถานที่ ตรวจปล่อย(ขาออก) รับบรรทุก(ขาออก) ตรวจปล่อย(ขาเข้า) รับบรรทุก(ขาเข้า)     1 0010 กรมศุลกากร N N N N   2 0011 สิทธิ์ BOI (สำหรับใบขนสินค้าโอนย้ายภายในประเทศ) N N Y Y   3 0019 สิทธิ์ 19 ทวิ (สำหรับใบขนสินค้าโอนย้ายภายในประเทศ) N N Y Y   4 0100 กองคลัง (กคล." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/area/" />
 
@@ -16,7 +16,7 @@
 <link rel="stylesheet" href="/knowledge-center/customs-clearance/book.min.956e546da8576977008cfb80e7d2428c32c0a5ac3d9010c1e957b555825cb8c5.css" integrity="sha256-lW5UbahXaXcAjPuA59JCjDLApaw9kBDB6Ve1VYJcuMU=">
 
 
-<script defer src="/knowledge-center/customs-clearance/en.search.min.933fd0caeac493707f10a1f162d6637b06bfe834d17559f6b2da82a938e1f711.js" integrity="sha256-kz/QyurEk3B/EKHxYtZjewa/6DTRdVn2stqCqTjh9xE="></script>
+<script defer src="/knowledge-center/customs-clearance/en.search.min.777ac08c8b8bc130d2b1aff275d80751ddabb241aa40be2680faf5c59aa937be.js" integrity="sha256-d3rAjIuLwTDSsa/yddgHUd2rskGqQL4mgPr1xZqpN74="></script>
 
 <!--
 Made with Book Theme
@@ -500,10 +500,27 @@ https://github.com/alex-shpak/hugo-book
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous"></p>
 
-<div class="container-fluid">
+<style>
+
+.container-fluid {
+  width:100%;
+  margin: 10px auto;
+}
+td {
+  font-size: 14px;
+  font-weight:300
+}
+th {
+  font-size: 14.5px;
+  font-weight:500
+}
+
+</style>
+
+<div class="container-fluid" col-md-12 border-danger>
 <br>
- <div class="input-group">
-    <input type="text" class="form-control col-sm-7 border-danger" id="myInput" placeholder="ค้นหา...">
+ <div class="input-group" col-md-12 border-danger >
+    <input type="text" class="form-control col-md-12 border-danger" id="myInput" placeholder="ค้นหา...">
     <div class="input-group-append">
       <button class="btn btn-danger" type="button">
         <i class="fa fa-search text-white "></i>
@@ -517,10 +534,10 @@ https://github.com/alex-shpak/hugo-book
 <th align="center">NO.</th>
 <th>รหัสสถานที่</th>
 <th>ชื่อสถานที่</th>
-<th align="center">สถานที่ตรวจปล่อย(ขาออก)</th>
-<th align="center">สถานที่รับบรรทุก(ขาออก)</th>
-<th align="center">สถานที่ตรวจปล่อย(ขาเข้า)</th>
-<th align="center">สถานที่รับบรรทุก(ขาเข้า)</th>
+<th align="center">ตรวจปล่อย(ขาออก)</th>
+<th align="center">รับบรรทุก(ขาออก)</th>
+<th align="center">ตรวจปล่อย(ขาเข้า)</th>
+<th align="center">รับบรรทุก(ขาเข้า)</th>
 </tr>
 </thead>
 
@@ -10487,24 +10504,27 @@ https://github.com/alex-shpak/hugo-book
 </tbody>
 </table>
 
-<script>
+<p><script>
 function filterTable(event) {
     var filter = event.target.value.toUpperCase();
-    var rows = document.querySelector(".markdown table tbody").rows;
-    
-    for (var i = 0; i < rows.length; i++) {
-        var firstCol = rows[i].cells[1].textContent.toUpperCase();
-        var secondCol = rows[i].cells[2].textContent.toUpperCase();
-        if (firstCol.indexOf(filter) > -1 || secondCol.indexOf(filter) > -1) {
-            rows[i].style.display = "";
-        } else {
-            rows[i].style.display = "none";
-        }      
-    }
-}
+    var rows = document.querySelector(&ldquo;.markdown table tbody&rdquo;).rows;</p>
 
-document.querySelector('#myInput').addEventListener('keyup', filterTable, false);
+<pre><code>for (var i = 0; i &lt; rows.length; i++) {
+    var firstCol = rows[i].cells[1].textContent.toUpperCase();
+    var secondCol = rows[i].cells[2].textContent.toUpperCase();
+    if (firstCol.indexOf(filter) &gt; -1 || secondCol.indexOf(filter) &gt; -1) {
+        rows[i].style.display = &quot;&quot;;
+    } else {
+        rows[i].style.display = &quot;none&quot;;
+    }      
+}
+</code></pre>
+
+<p>}</p>
+
+<p>document.querySelector(&lsquo;#myInput&rsquo;).addEventListener(&lsquo;keyup&rsquo;, filterTable, false);
 </script>
+</div></p>
 
 <blockquote>
 <p>ปรับปรุงล่าสุด : 27 มกราคม 2563</p>
