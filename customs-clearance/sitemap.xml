@@ -47,6 +47,10 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/trade-protection/anti-dumping/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/boi/boi-raw-material/</loc>
   </url>
   
@@ -91,6 +95,10 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/trade-protection/cvd/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/country/</loc>
   </url>
   
@@ -132,6 +140,10 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/transit/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/trade-protection/sg/</loc>
   </url>
   
   <url>
@@ -293,7 +305,11 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/anti-dumping-cunrervailing/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/trade-protection/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/anti-dumping-cunrervailing/</loc>
   </url>
   
   <url>
@@ -424,6 +440,10 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/re-export/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/</loc>
   </url>
   
 </urlset>
