@@ -35,6 +35,10 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/excise_announcement_list/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/</loc>
   </url>
   
@@ -71,10 +75,6 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/price_structure/</loc>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/calculate-cif/</loc>
   </url>
   
@@ -96,6 +96,10 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs/customs-information-contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/excise_announcement_product_list/</loc>
   </url>
   
   <url>
@@ -123,10 +127,6 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/search_by_product/</loc>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/free-trade-area/asean/</loc>
   </url>
   
@@ -136,10 +136,6 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/declaration-no/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/calculate_excise/</loc>
   </url>
   
   <url>
@@ -171,6 +167,10 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/search_by_product/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/free-trade-area/acn/</loc>
   </url>
   
@@ -199,7 +199,15 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/price_structure/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/contact-registration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/calculate_excise/</loc>
   </url>
   
   <url>
@@ -456,14 +464,6 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/re-export/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/excise_announcement_list/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/excise_announcement_product_list/</loc>
   </url>
   
 </urlset>
