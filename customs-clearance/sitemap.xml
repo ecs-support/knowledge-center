@@ -345,6 +345,10 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/goods-control-list-structure/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/%E0%B8%82%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%83%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2/</loc>
   </url>
   
@@ -474,7 +478,17 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-26T17:04:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/</loc>
+    <lastmod>2019-11-26T17:04:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/newfunction/</loc>
+    <lastmod>2019-11-26T17:04:13+07:00</lastmod>
   </url>
   
   <url>
@@ -497,11 +511,11 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/re-export/</loc>
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/re-export/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/restricted-goods/</loc>
   </url>
   
 </urlset>

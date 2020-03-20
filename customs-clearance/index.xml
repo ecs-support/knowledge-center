@@ -5,7 +5,7 @@
     <link>https://ecs-support.github.io/knowledge-center/customs-clearance/</link>
     <description>Recent content in ECS@Support on Knowledge Center</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2019 17:04:13 +0700</lastBuildDate>
     
 	<atom:link href="https://ecs-support.github.io/knowledge-center/customs-clearance/index.xml" rel="self" type="application/rss+xml" />
     
@@ -484,7 +484,7 @@ E-Bill Payment
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/part-4/</guid>
-      <description> ภาค 4 ของที่ได้รับยกเว้นอากร รายการสุทธินํากลับ (Re- Importation Certificate) ภาค 4 ประเภท 1  Re-Importation Certificate = Y (ในส่วนของ Export Declaration Detail) Export Tariff = 1PART4 Privilege Code = 004 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก  รายการส่งกลับไปซ่อม (Re- Importation Certificate) ภาค 4 ประเภท 2  Re-Importation Certificate = Y (ในส่วนของ Export Declaration Detail) Export Tariff = 2PART4 Privilege Code = 004 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก Declaration No = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง ซึ่งนําของเข้ามาครั ้งแรก Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง  สิทธิ์ Re-Export ของส่งออกที่เป็นของที่นําเข้ามาไม่เกิน 2 ปี และยังไม่ได้เปลี่ยนแปลงรูปร่างลักษณะแต่ประการใด (ภาค 4 ประเภท 18)  Re-Export = Y (ในส่วนของ Export Declaration Detail) Privilege Code = 004 Export Tariff = 18PART4 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก Declaration No = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง  สิทธิ์ส่งออกทัณฑ์บนนําเข้าชั่วคราว ของที่นําเข้ามาพร้อมกับตน หรือนําเข้ามาเป็นการชั่วคราวและ จะส่งกลับออกไปภายในไม่เกินหกเดือนนับตั้งแต่วันที่นําเข้ามา (ภาค 4 ประเภท 3)  Re-Export = Y (ในส่วนของ Export Declaration Detail) Privilege Code = 004 Export Tariff = 3PART4 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก Declaration No = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง ซึ่งนําของเข้ามาตามมาตรา 28 Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง  </description>
+      <description>ภาค 4 ของที่ได้รับยกเว้นอากร 1 ภาค 4 รายการสุทธินำกลับ...1 ภาค 4 รายการสุทธินำกลับ  Re-Importation Certificate = Y (ในส่วนของ Export Declaration Detail) Export Tariff = 1PART4 Privilege Code = 004 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก  2 ภาค 4 รายการนำกลับไปซ่อม...2 ภาค 4 รายการนำกลับไปซ่อม  Re-Importation Certificate = Y (ในส่วนของ Export Declaration Detail) Export Tariff = 2PART4 Privilege Code = 004 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก Declaration No = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง ซึ่งนําของเข้ามาครั้งแรก Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง  3 ภาค 4 สิทธิ์ส่งออกทัณฑ์บนนําเข้าชั่วคราว.</description>
     </item>
     
     <item>
@@ -750,6 +750,15 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
  กรณีมีสูตรการผลิต ระบุเลขที่สูตรการผลิต (Model Number) เวอร์ชั่นของสูตรการผลิต (ModelVersion) และเลขประจำตัวผู้เสียภาษีอากรของบริษัทผู้ยื่นสูตรการผลิต (Model Company Tax Number) ด้วย
   ผู้นำของเข้า ส่งใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ (A) ให้ระบุค่าดังนี้
  ระบุ Release Port = รหัสสถานที่ตรวจปล่อยของคลังสินค้าทัณฑ์ที่นำออก ที่ส่วนควบคุมในใบขนสินค้า</description>
+    </item>
+    
+    <item>
+      <title>โครงสร้างใบกำกับการขนย้าย</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/goods-control-list-structure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/goods-control-list-structure/</guid>
+      <description>โครงสร้างข้อมูลใบกำกับการขนย้ายสินค้า ใบกํากับการขนย้ายสินค้า แบ่งออกเป็น 2 ส่วน ได้แก่  Goods Transition Control ประกอบด้วย 31 Field Goods Transition Detail ประกอบด้วย 8 Field  เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้  หาก Field ใด กำหนดให้ต้องระบุค่า (Value = M) แต่ผู้บันทึกไม่สามารถหาข้อมูลได้ สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์) หาก Field ใด กำหนดให้ไม่ต้องระบุค่า (Value = O) และผู้บันทึกไม่สามารถหาข้อมูลได้ ก็ไม่ต้องบันทึกค่าใด ๆ หาก Field ใด กำหนดให้ต้องระบุค่า เมื่อเข้าเงื่อนไขที่กำหนด (Value = C) แต่ผู้บันทึกไม่สามารถหาข้อมูลได้ สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)   อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล    อักษรย่อ คำอธิบาย     n3 ข้อมูลชนิดตัวเลข (Numeric Characters) คงที่คือ 3 ตัวอักษร   a3 ข้อมูลชนิดตัวอักษร (Alphabetic Characters) คงที่คือ 3 ตัวอักษร   an3 ข้อมูลชนิดตัวอักษรหรือตัวเลข คงที่ คือ 3 ตัวอักษร   n.</description>
     </item>
     
     <item>
@@ -1067,6 +1076,15 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
     </item>
     
     <item>
+      <title>Newfunction</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/newfunction/</link>
+      <pubDate>Tue, 26 Nov 2019 17:04:13 +0700</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/newfunction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>(Hu)go Template Primer</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
@@ -1103,6 +1121,16 @@ Follow the following steps:
 การส่งของกลับออกไปโดยที่ของยังอยู่ในอารักขาของศุลกากร (ยังมิได้นำของออกไปจากศุลกากร) ให้ยื่นใบขนสินค้าขาเข้าและใบขนสินค้าขาออกพร้อมกันต่อหน่วยงานพิธีการของ ท่าที่นำเข้า เพื่อขออนุมัติให้ทำ Re-export ก่อนที่จะให้ หน่วยงานตรวจปล่อยดำเนินการต่อไป การเรียกเก็บอากรขาเข้าแยกเป็น 3 กรณี
  ถ้าผู้ส่งของออกส่งของออกทางท่าเดียวกับที่นำเข้า เช่น นำเข้าทางท่าเรือกรุงเทพและ ส่งออกทางท่าเรือกรุงเทพ ให้ชำระเฉพาะอากรขาเข้าเพียง 1 ใน 10 ส่วน แต่ไม่เกิน 1,000.- บาท ตัวอย่างเช่น
  มูลค่าอากรของ ๆ นั้นเมื่อนำเข้าเท่ากับ 9,500 บาท ก็ชำระอากรเพียง 950 บาท กรณีที่มูลค่าอากรเกินกว่า 10,000.</description>
+    </item>
+    
+    <item>
+      <title>ของต้องห้ามต้องกำกัด</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/restricted-goods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/restricted-goods/</guid>
+      <description>ของต้องห้ามต้องกำกัด ของต้องห้าม ของต้องห้าม หมายถึงของที่มีกฎหมายกำหนดห้ามนำเข้ามาหรือส่งออกไปนอกราชอาณาจักรโดยเด็ดขาด และในบางกรณีห้ามการส่งผ่านด้วย ผู้ใดนำสินค้าต้องห้ามเข้ามาหรือส่งออกไปนอกราชอาณาจักรจะมีความผิดต้องรับโทษตามกฎหมายที่เกี่ยวข้องและเป็นความผิดตามมาตรา 244 และ มาตรา 246 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 ด้วย ตัวอย่างสินค้าต้องห้ามในการนำเข้า-ส่งออก มีดังนี้
+ วัตถุลามก การนำเข้าและส่งออกวัตถุลามก ไม่ว่าจะอยู่ในรูปแบบหนังสือ ภาพเขียน ภาพพิมพ์ ภาพระบายสี สิ่งที่พิมพ์ขึ้น รูปภาพ ภาพโฆษณา เครื่องหมาย รูปถ่าย และภาพยนตร์ลามกหรือวัตถุลามกอื่น ๆ สินค้าที่มีตราหรือลวดลายเป็นรูปธงชาติ ยาเสพติดให้โทษ เงินตรา พันธบัตร ใบสำคัญรับดอกเบี้ยพันธบัตรอันเป็นของปลอมหรือแปลง เหรียญกษาปณ์ที่ทำให้น้ำหนักลดลงโดยทุจริต ดวงตราแผ่นดิน รอยตราแผ่นดินหรือพระปรมาภิไธย ดวงตราหรือรอยตราของทางราชการอันเป็นของปลอม สินค้าละเมิดลิขสิทธิ์ เช่น แถบบันทึกเสียง (เทปเพลง) แผ่นบันทึกเสียง (คอมแพคดิสก์) แถบบันทึกภาพ (วีดีโอเทป) โปรแกรม คอมพิวเตอร์ หนังสือ หรือสินค้าอื่นใดที่ทำซ้ำหรือดัดแปลงงานอันมีลิขสิทธิ์ของผู้อื่น สินค้าปลอมแปลงหรือเลียนแบบเครื่องหมายการค้า  ของต้องกำกัด ของต้องกำกัด หมายถึงสินค้าที่มีกฎหมายกำหนดว่าหากจะมีการนำเข้า-ส่งออกหรือผ่านราชอาณาจักรจะต้องได้รับอนุญาตหรือปฏิบัติให้ครบถ้วนตามที่กำหนดไว้ในกฎหมายนั้น ๆ เช่น ต้องมีใบอนุญาตการนำเข้าและส่งออก ต้องปฏิบัติตามประกาศอันเกี่ยวกับฉลากหรือใบรับรองการวิเคราะห์ หรือเอกสารกำกับยา เป็นต้น ผู้ใดนำของต้องกำกัดเข้ามา หรือส่งออก หรือส่งผ่านราชอาณาจักรโดยมิได้รับอนุญาตหรือไม่ปฏิบัติตามกฎหมายที่กำหนดไว้ให้ครบถ้วน จะมีความผิดตามที่กำหนดไว้ในกฎหมายนั้น ๆ และเป็นความผิดตามมาตรา 244 และ มาตรา 246 แห่งพระราชบัญญัติศุลกากร พ.</description>
     </item>
     
   </channel>
