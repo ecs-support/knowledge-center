@@ -5,7 +5,7 @@
     <link>https://ecs-support.github.io/knowledge-center/customs-clearance/</link>
     <description>Recent content in ECS@Support on Knowledge Center</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Nov 2019 17:04:13 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ecs-support.github.io/knowledge-center/customs-clearance/index.xml" rel="self" type="application/rss+xml" />
     
@@ -67,10 +67,10 @@
     
     <item>
       <title>ข้อมูลทางวิชาการ</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs/announce/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/announce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs/announce/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/announce/</guid>
       <description>ข้อมูลทางวิชาการ พระราชบัญญัติศุลกากร พ.ศ. 2560 (คำแปลภาษาอังกฤษ) CUSTOMS ACT B.E. 2560 (2017)
 คำศัพท์ภาษาอังกฤษตามพระราชบัญญัติศุลกากร 2560
 พระราชบัญญัติศุลกากร พ.ศ. 2560
@@ -1076,15 +1076,6 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
     </item>
     
     <item>
-      <title>Newfunction</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/newfunction/</link>
-      <pubDate>Tue, 26 Nov 2019 17:04:13 +0700</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/newfunction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>(Hu)go Template Primer</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
@@ -1129,9 +1120,10 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/specific-local-vessel/</guid>
-      <description> การตรวจปล่อยสินค้าขาออกในเขตพื้นที่สำนักงานศุลกากรท่าเรือกรุงเทพ(สทก.) เพื่อบรรทุกลงเรือเฉพาะเขต และรับบรรทุกที่สำนักงานศุลกากรท่าเรือแหลมฉบัง (สทบ.)  ที่มาบทความ : กรมศุลกากร
-วันที่ปรับปรุงล่าสุด : 13 มีนาคม 2563
- </description>
+      <description>การตรวจปล่อยสินค้าขาออกในเขตพื้นที่สำนักงานศุลกากรท่าเรือกรุงเทพ(สทก.) เพื่อบรรทุกลงเรือเฉพาะเขต และรับบรรทุกที่สำนักงานศุลกากรท่าเรือแหลมฉบัง (สทบ.) โครงการบรรจุสินค้าในเขตท่าเรือกรุงเทพ เพื่อบรรทุกลงเรือชายฝั่ง (เฉพาะเขต) ไปท่าเรือแหลมฉบัง ช่วยอำนวยความสะดวกให้แก่ผู้ประกอบการ โดยให้ท่าเรือกรุงเทพ เป็นท่าตรวจปล่อยของตู้สินค้าขาออก (Release Port) ซึ่งมีการตรวจสอบน้ำหนักมวลรวมตู้สินค้า (Verified Gross Mass : VGM) และตรวจสอบสถานะการตรวจปล่อยสินค้า (Green/Red Line) ผ่านระบบ e-Matching พร้อมทั้งมีการเอกซเรย์ (X-RAY) ตู้สินค้าจากเจ้าหน้าที่ศุลกากรท่าเรือกรุงเทพ
+จึงทำให้สามารถตรวจปล่อยจากสำนักงานศุลกากรท่าเรือกรุงเทพจุดเดียวเบ็ดเสร็จ โดยไม่ต้องผ่านพิธีการศุลกากรที่ท่าเรือแหลมฉบังอีก มีความปลอดภัยสูง ขนส่งสินค้าได้ตามเวลาที่กำหนด และเป็นมิตรกับสิ่งแวดล้อม อีกทั้งช่วยลดระยะเวลารอคอยท่า และลดเวลาปฏิบัติงานลง เนื่องจากมีพื้นที่กองเก็บตู้สินค้าติดท่าเทียบเรือ สามารถบริหารจัดการท่าเทียบเรือได้อย่างมีประสิทธิภาพ ในการรองรับปริมาณตู้สินค้า และเรือชายฝั่งที่มีแนวโน้มเพิ่มมากขึ้น ลดค่าใช้จ่ายในระบบโลจิสติกส์ ลดขั้นตอนเอกสาร สามารถเชื่อมโยงข้อมูลอิเล็กทรอนิกส์แบบจุดเดียวเบ็ดเสร็จ ในส่วนของการบรรจุสินค้าท่าเรือกรุงเทพ มีคลังสินค้าเพื่อการบรรจุสินค้าขาออกโดยเฉพาะ มีการรักษาความปลอดภัยอย่างเข้มงวดด้วยระบบบันทึกภาพ CCTV ตลอด 24 ชั่วโมง เพิ่มความเชื่อมั่นให้แก่ผู้ใช้บริการได้เป็นอย่างดี
+ประกาศที่่เกี่ยวข้อง  ประกาศการท่าเรือแห่งประเทศไทย เรื่อง วิธีปฏิบัติในการบรรจุสินค้าขาออกและกองเก็บตู้สินค้าที่บรรทุกลงเรือเฉพาะเขตท่าเรือกรุงเทพ. ไปขึ้นเรือตู้สินค้า ณ ท่ารับบรรทุกที่ได้รับอนุญาตจากกรมศุลกากร (Load Port) [ดาวน์โหลดประกาศ]
+ ประกาศกรมศุลกากร ที่ 37/ 2561 เรื่อง พิธีการศุลกากรส่งออกว่าด้วยการตรวจปล่อยสินค้าขาออกในเขตพื้นที่สำนักงานศุลกากรท่าเรือกรุงเทพ เพื่อบรรทุกลงเรือเฉพาะเขต (Specific Local Vessel) และรับบรรทุกที่สำนักงานศุลกากรท่าเรือแหลมฉบัง [ดาวน์โหลดประกาศ]</description>
     </item>
     
     <item>
