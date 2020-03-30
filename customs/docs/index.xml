@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Goldydocs – Documentation</title>
-    <link>/docs/</link>
+    <link>https://ecs-support.github.io/knowledge-center/customs/docs/</link>
     <description>Recent content in Documentation on Goldydocs</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://ecs-support.github.io/knowledge-center/customs/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Checklist กฎว่าด้วยถิ่นกำเนิดสินค้า</title>
-      <link>/docs/free-trade-area/checklist/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/free-trade-area/checklist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/free-trade-area/checklist/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/free-trade-area/checklist/</guid>
       <description>
         
         
@@ -42,10 +42,10 @@
     
     <item>
       <title>Docs: Using Pandas and Python to Explore Your Dataset</title>
-      <link>/docs/overview/example/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/overview/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/overview/example/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/overview/example/</guid>
       <description>
         
         
@@ -1095,8 +1095,8 @@ This will show the franchises with the most games played:&lt;/p&gt;
 &lt;p&gt;Give your users next steps from the Overview. For example:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/getting-started/&#34;&gt;Getting Started&lt;/a&gt;: Get started with $project&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/examples/&#34;&gt;Examples&lt;/a&gt;: Check out some example code!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/knowledge-center/customs/getting-started/&#34;&gt;Getting Started&lt;/a&gt;: Get started with $project&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/knowledge-center/customs/examples/&#34;&gt;Examples&lt;/a&gt;: Check out some example code!&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -1104,10 +1104,10 @@ This will show the franchises with the most games played:&lt;/p&gt;
     
     <item>
       <title>Docs: Bed and Chair Metrics</title>
-      <link>/docs/tasks/beds/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/tasks/beds/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tasks/beds/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/tasks/beds/</guid>
       <description>
         
         
@@ -1492,10 +1492,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: Configuring Ponycopters</title>
-      <link>/docs/tasks/ponycopters/configuring-ponycopters/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/tasks/ponycopters/configuring-ponycopters/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tasks/ponycopters/configuring-ponycopters/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/tasks/ponycopters/configuring-ponycopters/</guid>
       <description>
         
         
@@ -1880,10 +1880,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: WTO</title>
-      <link>/docs/free-trade-area/wto/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/free-trade-area/wto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/free-trade-area/wto/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/free-trade-area/wto/</guid>
       <description>
         
         
@@ -1941,10 +1941,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: ระบบราคาแกตต์</title>
-      <link>/docs/overview/price/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/overview/price/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/overview/price/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/overview/price/</guid>
       <description>
         
         
@@ -2246,8 +2246,8 @@ This is a warning with a title.
 &lt;p&gt;Give your users next steps from the Overview. For example:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/getting-started/&#34;&gt;Getting Started&lt;/a&gt;: Get started with $project&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/examples/&#34;&gt;Examples&lt;/a&gt;: Check out some example code!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/knowledge-center/customs/getting-started/&#34;&gt;Getting Started&lt;/a&gt;: Get started with $project&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/knowledge-center/customs/examples/&#34;&gt;Examples&lt;/a&gt;: Check out some example code!&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -2255,10 +2255,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: Launching Ponycopters</title>
-      <link>/docs/tasks/ponycopters/launching-ponycopters/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/tasks/ponycopters/launching-ponycopters/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tasks/ponycopters/launching-ponycopters/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/tasks/ponycopters/launching-ponycopters/</guid>
       <description>
         
         
@@ -2643,10 +2643,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: อาเซียน - จีน (ASEAN - China)</title>
-      <link>/docs/free-trade-area/acn/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/free-trade-area/acn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/free-trade-area/acn/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/free-trade-area/acn/</guid>
       <description>
         
         
@@ -2685,10 +2685,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: Multi-Bear Domicile Setup</title>
-      <link>/docs/tutorials/multi-bear/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/tutorials/multi-bear/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tutorials/multi-bear/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/tutorials/multi-bear/</guid>
       <description>
         
         
@@ -3073,10 +3073,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: Porridge Assessment</title>
-      <link>/docs/tasks/porridge/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/tasks/porridge/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tasks/porridge/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/tasks/porridge/</guid>
       <description>
         
         
@@ -3461,10 +3461,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: อาเซียน-เกาหลี (ASEAN - Korea)</title>
-      <link>/docs/free-trade-area/ak/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/free-trade-area/ak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/free-trade-area/ak/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/free-trade-area/ak/</guid>
       <description>
         
         
@@ -3527,10 +3527,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: Another Task</title>
-      <link>/docs/tasks/task/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/tasks/task/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tasks/task/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/tasks/task/</guid>
       <description>
         
         
@@ -3915,10 +3915,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: Another Tutorial</title>
-      <link>/docs/tutorials/tutorial2/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/tutorials/tutorial2/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tutorials/tutorial2/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/tutorials/tutorial2/</guid>
       <description>
         
         
@@ -4303,10 +4303,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: ความตกลงหุ้นส่วนเศรษฐกิจที่ใกล้ชิดไทย-ญี่ปุ่น (Japan-Thailand Economic Partnership Agreement: JTEPA)</title>
-      <link>/docs/free-trade-area/jtepa/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/free-trade-area/jtepa/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/docs/free-trade-area/jtepa/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/free-trade-area/jtepa/</guid>
       <description>
         
         
@@ -4337,10 +4337,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: อาเซียน-ฮ่องกง (ASEAN – Hong Kong)</title>
-      <link>/docs/free-trade-area/ahk/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/free-trade-area/ahk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/free-trade-area/ahk/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/free-trade-area/ahk/</guid>
       <description>
         
         
@@ -4426,10 +4426,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: การรับรองถิ่นกำเนิดสินค้าด้วยตนเอง (Self - Certification)</title>
-      <link>/docs/free-trade-area/asean/self-certification/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/free-trade-area/asean/self-certification/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/docs/free-trade-area/asean/self-certification/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/free-trade-area/asean/self-certification/</guid>
       <description>
         
         
@@ -4470,10 +4470,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: Example Page</title>
-      <link>/docs/getting-started/example-page/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/getting-started/example-page/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/getting-started/example-page/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/getting-started/example-page/</guid>
       <description>
         
         
@@ -4858,10 +4858,10 @@ This is a warning with a title.
     
     <item>
       <title>Docs: Parameter Reference</title>
-      <link>/docs/reference/parameter-reference/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/reference/parameter-reference/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/reference/parameter-reference/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/reference/parameter-reference/</guid>
       <description>
         
         

@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Goldydocs – Overview</title>
-    <link>/docs/overview/</link>
+    <link>https://ecs-support.github.io/knowledge-center/customs/docs/overview/</link>
     <description>Recent content in Overview on Goldydocs</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/overview/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://ecs-support.github.io/knowledge-center/customs/docs/overview/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Using Pandas and Python to Explore Your Dataset</title>
-      <link>/docs/overview/example/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/overview/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/overview/example/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/overview/example/</guid>
       <description>
         
         
@@ -1068,8 +1068,8 @@ This will show the franchises with the most games played:&lt;/p&gt;
 &lt;p&gt;Give your users next steps from the Overview. For example:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/getting-started/&#34;&gt;Getting Started&lt;/a&gt;: Get started with $project&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/examples/&#34;&gt;Examples&lt;/a&gt;: Check out some example code!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/knowledge-center/customs/getting-started/&#34;&gt;Getting Started&lt;/a&gt;: Get started with $project&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/knowledge-center/customs/examples/&#34;&gt;Examples&lt;/a&gt;: Check out some example code!&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -1077,10 +1077,10 @@ This will show the franchises with the most games played:&lt;/p&gt;
     
     <item>
       <title>Docs: ระบบราคาแกตต์</title>
-      <link>/docs/overview/price/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/docs/overview/price/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/overview/price/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/docs/overview/price/</guid>
       <description>
         
         
@@ -1382,8 +1382,8 @@ This will show the franchises with the most games played:&lt;/p&gt;
 &lt;p&gt;Give your users next steps from the Overview. For example:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/getting-started/&#34;&gt;Getting Started&lt;/a&gt;: Get started with $project&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/examples/&#34;&gt;Examples&lt;/a&gt;: Check out some example code!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/knowledge-center/customs/getting-started/&#34;&gt;Getting Started&lt;/a&gt;: Get started with $project&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/knowledge-center/customs/examples/&#34;&gt;Examples&lt;/a&gt;: Check out some example code!&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
