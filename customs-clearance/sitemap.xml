@@ -207,10 +207,6 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/</loc>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/part-4/</loc>
   </url>
   
@@ -263,7 +259,7 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/service/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/</loc>
   </url>
   
   <url>
@@ -296,6 +292,10 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/container-code/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/service/</loc>
   </url>
   
   <url>
@@ -544,6 +544,10 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/restricted-goods/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/test-embed/</loc>
   </url>
   
   <url>

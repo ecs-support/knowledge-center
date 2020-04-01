@@ -9,5 +9,14 @@
 	<atom:link href="https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>ข้อมูลพื้นฐานสถานศึกษาในประเทศไทย</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/test-embed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/test-embed/</guid>
+      <description> ข้อมูลพื้นฐานสถานศึกษาในประเทศไทย   </description>
+    </item>
+    
   </channel>
 </rss>
