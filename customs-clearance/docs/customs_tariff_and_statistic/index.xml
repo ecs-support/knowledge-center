@@ -9,27 +9,5 @@
 	<atom:link href="https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>การยกเว้นอากรตามภาค 4</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/part-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/part-4/</guid>
-      <description>การยกเว้นอากรตามภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530 1 ภาค 4 รายการสุทธินำกลับ...1 ภาค 4 รายการสุทธินำกลับ ของที่ส่งออกรวมทั้งของที่ส่งกลับออกไป ซึ่งนำกลับเข้ามา ภายในหนึ่งปีโดยไม่เปลี่ยนแปลงลักษณะหรือรูปแต่ประการใด และในเวลาที่ส่งออกนั้นได้รับใบสุทธิสำหรับนำกลับเข้ามาแล้วได้รับยกเว้นอากร ให้ผู้ขอยกเว้นอากร จัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้
- ระบุ Re - Importation Certificate = Y ที่ส่วนรายการในใบขนสินค้า
- การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า
- ระบุ Import Tariff = 1PART4 ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า
- อัตราอากร ใช้ Tariff Code และ Tariff Sequence อากร ยกเว้น (บันทึก Exemption Rate = 100%) VAT ยกเว้น (บันทึก Exemption Rate = 100%) บันทึกเลขที่ใบขนสินค้าขาออกและรายการที่ของใบขนสินค้าขาออกที่อ้างถึง</description>
-    </item>
-    
-    <item>
-      <title>ข้อมูลพื้นฐานสถานศึกษาในประเทศไทย</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/test-embed/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/test-embed/</guid>
-      <description> ข้อมูลพื้นฐานสถานศึกษาในประเทศไทย   </description>
-    </item>
-    
   </channel>
 </rss>

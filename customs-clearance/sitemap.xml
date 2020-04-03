@@ -255,10 +255,6 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/part-4/</loc>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/assessment-request/</loc>
   </url>
   
@@ -497,22 +493,12 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/</loc>
-    <lastmod>2019-11-26T17:04:13+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/</loc>
-    <lastmod>2019-11-26T17:04:13+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/newfunction/</loc>
-    <lastmod>2019-11-26T17:04:13+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -528,6 +514,10 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/</loc>
   </url>
   
   <url>
@@ -548,10 +538,6 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/restricted-goods/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/test-embed/</loc>
   </url>
   
   <url>

@@ -5,7 +5,7 @@
     <link>https://ecs-support.github.io/knowledge-center/customs-clearance/</link>
     <description>Recent content in ECS@Support on Knowledge Center</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Nov 2019 17:04:13 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ecs-support.github.io/knowledge-center/customs-clearance/index.xml" rel="self" type="application/rss+xml" />
     
@@ -612,19 +612,6 @@ E-Bill Payment
     </item>
     
     <item>
-      <title>การยกเว้นอากรตามภาค 4</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/part-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/part-4/</guid>
-      <description>การยกเว้นอากรตามภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530 1 ภาค 4 รายการสุทธินำกลับ...1 ภาค 4 รายการสุทธินำกลับ ของที่ส่งออกรวมทั้งของที่ส่งกลับออกไป ซึ่งนำกลับเข้ามา ภายในหนึ่งปีโดยไม่เปลี่ยนแปลงลักษณะหรือรูปแต่ประการใด และในเวลาที่ส่งออกนั้นได้รับใบสุทธิสำหรับนำกลับเข้ามาแล้วได้รับยกเว้นอากร ให้ผู้ขอยกเว้นอากร จัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้
- ระบุ Re - Importation Certificate = Y ที่ส่วนรายการในใบขนสินค้า
- การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า
- ระบุ Import Tariff = 1PART4 ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า
- อัตราอากร ใช้ Tariff Code และ Tariff Sequence อากร ยกเว้น (บันทึก Exemption Rate = 100%) VAT ยกเว้น (บันทึก Exemption Rate = 100%) บันทึกเลขที่ใบขนสินค้าขาออกและรายการที่ของใบขนสินค้าขาออกที่อ้างถึง</description>
-    </item>
-    
-    <item>
       <title>ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/assessment-request/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1120,15 +1107,6 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
     </item>
     
     <item>
-      <title>Newfunction</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/newfunction/</link>
-      <pubDate>Tue, 26 Nov 2019 17:04:13 +0700</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/newfunction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>(Hu)go Template Primer</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
@@ -1212,15 +1190,6 @@ Follow the following steps:
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/interesting-facts/restricted-goods/</guid>
       <description>ของต้องห้ามต้องกำกัด ของต้องห้าม ของต้องห้าม หมายถึงของที่มีกฎหมายกำหนดห้ามนำเข้ามาหรือส่งออกไปนอกราชอาณาจักรโดยเด็ดขาด และในบางกรณีห้ามการส่งผ่านด้วย ผู้ใดนำสินค้าต้องห้ามเข้ามาหรือส่งออกไปนอกราชอาณาจักรจะมีความผิดต้องรับโทษตามกฎหมายที่เกี่ยวข้องและเป็นความผิดตามมาตรา 244 และ มาตรา 246 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 ด้วย ตัวอย่างสินค้าต้องห้ามในการนำเข้า-ส่งออก มีดังนี้
  วัตถุลามก การนำเข้าและส่งออกวัตถุลามก ไม่ว่าจะอยู่ในรูปแบบหนังสือ ภาพเขียน ภาพพิมพ์ ภาพระบายสี สิ่งที่พิมพ์ขึ้น รูปภาพ ภาพโฆษณา เครื่องหมาย รูปถ่าย และภาพยนตร์ลามกหรือวัตถุลามกอื่น ๆ สินค้าที่มีตราหรือลวดลายเป็นรูปธงชาติ ยาเสพติดให้โทษ เงินตรา พันธบัตร ใบสำคัญรับดอกเบี้ยพันธบัตรอันเป็นของปลอมหรือแปลง เหรียญกษาปณ์ที่ทำให้น้ำหนักลดลงโดยทุจริต ดวงตราแผ่นดิน รอยตราแผ่นดินหรือพระปรมาภิไธย ดวงตราหรือรอยตราของทางราชการอันเป็นของปลอม สินค้าละเมิดลิขสิทธิ์ เช่น แถบบันทึกเสียง (เทปเพลง) แผ่นบันทึกเสียง (คอมแพคดิสก์) แถบบันทึกภาพ (วีดีโอเทป) โปรแกรม คอมพิวเตอร์ หนังสือ หรือสินค้าอื่นใดที่ทำซ้ำหรือดัดแปลงงานอันมีลิขสิทธิ์ของผู้อื่น สินค้าปลอมแปลงหรือเลียนแบบเครื่องหมายการค้า  ของต้องกำกัด ของต้องกำกัด หมายถึงสินค้าที่มีกฎหมายกำหนดว่าหากจะมีการนำเข้า-ส่งออกหรือผ่านราชอาณาจักรจะต้องได้รับอนุญาตหรือปฏิบัติให้ครบถ้วนตามที่กำหนดไว้ในกฎหมายนั้น ๆ เช่น ต้องมีใบอนุญาตการนำเข้าและส่งออก ต้องปฏิบัติตามประกาศอันเกี่ยวกับฉลากหรือใบรับรองการวิเคราะห์ หรือเอกสารกำกับยา เป็นต้น ผู้ใดนำของต้องกำกัดเข้ามา หรือส่งออก หรือส่งผ่านราชอาณาจักรโดยมิได้รับอนุญาตหรือไม่ปฏิบัติตามกฎหมายที่กำหนดไว้ให้ครบถ้วน จะมีความผิดตามที่กำหนดไว้ในกฎหมายนั้น ๆ และเป็นความผิดตามมาตรา 244 และ มาตรา 246 แห่งพระราชบัญญัติศุลกากร พ.</description>
-    </item>
-    
-    <item>
-      <title>ข้อมูลพื้นฐานสถานศึกษาในประเทศไทย</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/test-embed/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/customs_tariff_and_statistic/test-embed/</guid>
-      <description> ข้อมูลพื้นฐานสถานศึกษาในประเทศไทย   </description>
     </item>
     
     <item>
