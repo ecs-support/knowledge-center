@@ -5,4 +5,4 @@
 
 ## Reference
 - [พิกัดอัตราศุลกากร และรหัสสถิติที่ต้องมีใบอนุญาต](https://ecs-support.github.io/knowledge-center/single-page/permission.html)
-- [รหัสสถานที่กรมศุลกากร](https://ecs-support.github.io/knowledge-center/single-page/area-code.html)
+- [รหัสสถานที่กรมศุลกากร](https://ecs-support.github.io/knowledge-center/single-page/area_code.html)
