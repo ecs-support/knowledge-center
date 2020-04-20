@@ -12,12 +12,12 @@ body {
 }
 
 table {
-    width: 100%;
+    width: 95%;
 
 }
 
 .container-fluid {
-    min-width: 100%;
+    min-width: 95%;
     margin: 10px;
 
 }
