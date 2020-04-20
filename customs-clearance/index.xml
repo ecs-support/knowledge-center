@@ -5,7 +5,7 @@
     <link>https://ecs-support.github.io/knowledge-center/customs-clearance/</link>
     <description>Recent content in ECS@Support on Knowledge Center</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Nov 2019 17:04:13 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ecs-support.github.io/knowledge-center/customs-clearance/index.xml" rel="self" type="application/rss+xml" />
     
@@ -672,19 +672,6 @@ E-Bill Payment
     </item>
     
     <item>
-      <title>การยกเว้นอากรตามภาค 4</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/part-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/part-4/</guid>
-      <description>การยกเว้นอากรตามภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530 1 ภาค 4 รายการสุทธินำกลับ...1 ภาค 4 รายการสุทธินำกลับ ของที่ส่งออกรวมทั้งของที่ส่งกลับออกไป ซึ่งนำกลับเข้ามา ภายในหนึ่งปีโดยไม่เปลี่ยนแปลงลักษณะหรือรูปแต่ประการใด และในเวลาที่ส่งออกนั้นได้รับใบสุทธิสำหรับนำกลับเข้ามาแล้วได้รับยกเว้นอากร ให้ผู้ขอยกเว้นอากร จัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้
- ระบุ Re - Importation Certificate = Y ที่ส่วนรายการในใบขนสินค้า
- การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า
- ระบุ Import Tariff = 1PART4 ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า
- อัตราอากร ใช้ Tariff Code และ Tariff Sequence อากร ยกเว้น (บันทึก Exemption Rate = 100%) VAT ยกเว้น (บันทึก Exemption Rate = 100%) บันทึกเลขที่ใบขนสินค้าขาออกและรายการที่ของใบขนสินค้าขาออกที่อ้างถึง</description>
-    </item>
-    
-    <item>
       <title>ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/assessment-request/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1267,15 +1254,6 @@ Group E (การออกจากสถานที่) EXW (1) EXW (…….n
     </item>
     
     <item>
-      <title>Newfunction</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/newfunction/</link>
-      <pubDate>Tue, 26 Nov 2019 17:04:13 +0700</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/newfunction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>(Hu)go Template Primer</title>
       <link>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
@@ -1312,15 +1290,6 @@ Follow the following steps:
 การส่งของกลับออกไปโดยที่ของยังอยู่ในอารักขาของศุลกากร (ยังมิได้นำของออกไปจากศุลกากร) ให้ยื่นใบขนสินค้าขาเข้าและใบขนสินค้าขาออกพร้อมกันต่อหน่วยงานพิธีการของ ท่าที่นำเข้า เพื่อขออนุมัติให้ทำ Re-export ก่อนที่จะให้ หน่วยงานตรวจปล่อยดำเนินการต่อไป การเรียกเก็บอากรขาเข้าแยกเป็น 3 กรณี
  ถ้าผู้ส่งของออกส่งของออกทางท่าเดียวกับที่นำเข้า เช่น นำเข้าทางท่าเรือกรุงเทพและ ส่งออกทางท่าเรือกรุงเทพ ให้ชำระเฉพาะอากรขาเข้าเพียง 1 ใน 10 ส่วน แต่ไม่เกิน 1,000.- บาท ตัวอย่างเช่น
  มูลค่าอากรของ ๆ นั้นเมื่อนำเข้าเท่ากับ 9,500 บาท ก็ชำระอากรเพียง 950 บาท กรณีที่มูลค่าอากรเกินกว่า 10,000.</description>
-    </item>
-    
-    <item>
-      <title>ข้อมูลพื้นฐานสถานศึกษาในประเทศไทย</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/test-embed/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/test-embed/</guid>
-      <description> ข้อมูลพื้นฐานสถานศึกษาในประเทศไทย   </description>
     </item>
     
   </channel>
