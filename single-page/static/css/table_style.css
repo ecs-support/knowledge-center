@@ -6,40 +6,33 @@
 @import url("https: //cdn.datatables.net/fixedheader/3.1.6/css/fixedHeader.bootstrap.min.css");
 @import url("https://cdn.datatables.net/responsive/2.2.3/css/responsive.bootstrap.min.css");
 
-
-
 body {
     font-family: "Sarabun", sans-serif;
     letter-spacing: .22px;
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
 }
 
 table {
-    width: 90%;
+    width: 95%;
 
 }
 
-
-
 .container-fluid {
-    max-width: 90%;
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    max-width: 95%;
+    margin: 10px;
+
 }
 
 thead th {
-    font-size: 1em;
-    font-weight: 500;
-    background-color: #003366;
-    color: white;
-    text-align: center;
+     font-size: 1em;
+     font-weight: 500;
+     background-color: #003366;
+     color: white;
+     text-align: center;
+ }
+
+
+tr {
+    font-size: 16px;
 }
 
 tr:hover {
@@ -53,16 +46,6 @@ h2 {
     font-weight: 400;
     color: #003366;
     text-align: center;
-}
-
-th,
-td {
-    overflow: hidden;
-    /* this is what fixes the expansion */
-    text-overflow: ellipsis;
-    /* not supported in all browsers, but I accepted the tradeoff */
-    white-space: nowrap;
-    padding: 15px;
 }
 
 .txt-update {
