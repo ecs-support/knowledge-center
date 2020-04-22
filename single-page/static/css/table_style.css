@@ -9,17 +9,12 @@
 body {
     font-family: "Sarabun", sans-serif;
     letter-spacing: .22px;
-    overflow: hidden;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    padding: 0;
+    
 }
 
 table {
     width: 100%;
-    margin-left: auto;
-    margin-right: auto;
+   
 
 }
 
@@ -38,6 +33,15 @@ thead th {
      color: white;
      text-align: center;
  }
+   th,
+   td {
+       overflow: hidden;
+       /* this is what fixes the expansion */
+       text-overflow: ellipsis;
+       /* not supported in all browsers, but I accepted the tradeoff */
+       white-space: nowrap;
+       padding: 15px;
+   }
 
 
 tr {
