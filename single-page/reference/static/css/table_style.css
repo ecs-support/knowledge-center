@@ -11,7 +11,16 @@ body {
     letter-spacing: .22px;
     
 }
+ .logo_ecs {
+     width: 7em;
+     padding-top: 10px;
 
+ }
+ .topleft {
+     position: absolute;
+     top: 0;
+     left: 16px;
+ }
 table {
     width: 100%;
     margin-left: auto;
