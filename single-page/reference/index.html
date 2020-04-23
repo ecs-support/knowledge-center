@@ -51,11 +51,12 @@
         }
         .mb-5 {
             font-family: "Lato", sans-serif;
-            letter-spacing: .4px;
+            letter-spacing: .5px;
             font-size:4em;
-            margin-bottom: 1em;
-            text-align: center;
-            font-weight: 700;   
+            margin-bottom: .5em;
+            text-align: left;
+            font-weight: 500;  
+            margin-left:1.2em;          
             
         }
 
@@ -67,17 +68,19 @@
         /* Position text in the middle */
         .middle {
             position: absolute;
-            top: 50%;
+            top: 40%;
             left: 45%;
             transform: translate(-50%, -50%);
             text-align: center;
         }
 
-        #sel1 {
+        .custom-select {
             
            font-family: "Kanit", sans-serif;
            letter-spacing: .22px;
-            text-align: center;
+            text-align: left;
+            color:#003366;
+            font-weight: 600;
         }
     </style>
 </head>
@@ -93,13 +96,16 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xl-9 mx-auto">
-                        <h1 class="mb-5">Reference file:</h1>
+                        <h1 class="mb-5">Reference data:</h1>
                     </div>                    
-                    <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">                       
+                    <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">     
+                        
                         <form >
                             <div class="form-row">
-                                <div class="col-12 col-md-9 mb-2 mb-lg-0">                                    
-                                <select class="custom-select custom-select-danger border-danger"id="select"                                         name="select_ref">
+                                <div class="col-12 col-md-9 mb-2 mb-md-0">    
+                                    
+                                <select class="custom-select custom-select-lg custom-select-danger border-danger"
+                                    id="select" name="select_ref">
                                        <option value="" selected>Select reference file</option>
                                        <option value="exchange_rate">อัตราแลกเปลี่ยนกรมศุลกากร</option>
                                         <option value="permission">พิกัดอัตราศุลกากร และรหัสสถิติที่ต้องมีใบอนุญาต</option>
@@ -119,7 +125,7 @@
                                 </div>
                                 <div class="col-12 col-md-3">
                                     <button  type="submit" id="btn_submit"
-                                        class="btn btn-block btn-md btn-danger">Submit</button>
+                                        class="btn btn-block btn-lg btn-danger">Submit</button>
                                 </div>
                             </div>
                         </form>
