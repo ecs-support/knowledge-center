@@ -96,21 +96,24 @@
                         <h1 class="mb-5">Reference file:</h1>
                     </div>                    
                     <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">                       
-                        <form>
+                        <form >
                             <div class="form-row">
                                 <div class="col-12 col-md-9 mb-2 mb-md-0">                                    
                                 <select class="custom-select custom-select-danger border-danger"id="select"                                         name="select_ref">
                                        <option value="" selected>Select reference file</option>
+                                       <option value="exchange_rate">อัตราแลกเปลี่ยนกรมศุลกากร</option>
                                         <option value="permission">พิกัดอัตราศุลกากร และรหัสสถิติที่ต้องมีใบอนุญาต</option>
                                         <option value="exampt">รหัสยกเว้นไม่ต้องมีใบอนุญาต/ใบรับรอง</option>
                                         <option value="area_code">รหัสสถานที่กรมศุลกากร</option>
                                         <option value="container_size">ขนาดและประเภทตู้สินค้า</option>
+                                        <option value="country_code">รหัสประเทศ (Country Code)</option>
 
 
                                     </select>                                        
                                 </div>
                                 <div class="col-12 col-md-3">
-                                    <button type="submit" class="btn btn-block btn-md btn-danger">Submit</button>
+                                    <button  type="submit" id="btn_submit"
+                                        class="btn btn-block btn-md btn-danger">Submit</button>
                                 </div>
                             </div>
                         </form>
@@ -126,13 +129,25 @@
         </div>
 
 <script>
-    function selectRef(event) {
-        var ref =  event.target.value;
-        var files = ref +".html"
-        document.location = files
-        //location.replace(files)       
-    }
-    document.querySelector('#select').addEventListener('change', selectRef, false);
+ //   function selectRef(even) {
+       // var ref = document.getElementById("#select");
+   //    var ref = custom-select.val
+    //    console.log(ref);
+   //     var files = ref +".html"
+        //document.location = files
+   //     location.replace(files)       
+   // 
+   // document.getElementById("btn_submit").onclick = selectRef();  
+  function selectRef(event) {
+  var ref = event.target.value;
+  var files = ref +".html"
+  document.location = files
+  //location.replace(files)
+  }
+  document.querySelector('#select').addEventListener('change', selectRef, false);
+
+        
+    
 </script>
 
 
