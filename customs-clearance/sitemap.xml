@@ -87,7 +87,7 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/exchange-rate/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/reference/exchange-rate/</loc>
   </url>
   
   <url>
@@ -143,11 +143,11 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/country/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/reference/country/</loc>
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/area/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/reference/area/</loc>
   </url>
   
   <url>
@@ -191,11 +191,11 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/province/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/reference/province/</loc>
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/unit/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/reference/unit/</loc>
   </url>
   
   <url>
@@ -211,7 +211,7 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/package/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/reference/package/</loc>
   </url>
   
   <url>
@@ -243,7 +243,7 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/cartype/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/reference/cartype/</loc>
   </url>
   
   <url>
@@ -291,6 +291,10 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/part-4/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/restricted-goods/</loc>
   </url>
   
@@ -303,7 +307,7 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/exempt/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/reference/exempt/</loc>
   </url>
   
   <url>
@@ -331,7 +335,7 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/reference/container-code/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/reference/container-code/</loc>
   </url>
   
   <url>
@@ -565,12 +569,22 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/</loc>
+    <lastmod>2019-11-26T17:04:13+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/</loc>
+    <lastmod>2019-11-26T17:04:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/newfunction/</loc>
+    <lastmod>2019-11-26T17:04:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -589,15 +603,15 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/</loc>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/re-export/</loc>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import_car/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/backup/convert_md_to_html/</loc>
   </url>
   
 </urlset>

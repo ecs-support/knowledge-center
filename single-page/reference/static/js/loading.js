@@ -18,7 +18,7 @@ $(document).ready(function () {
       $(".loading-page").fadeOut();
       $(".container-fluid").fadeIn();
     }
-  }, 50);
+  }, 40);
 });
 
 
