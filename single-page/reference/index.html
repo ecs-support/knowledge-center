@@ -87,7 +87,8 @@
 
 <body>
     <div class="bg responsive">
-        <a href="https://ecs-support.github.io/knowledge-center/customs-clearance/">
+      
+        
         <img src="static/img/ECS_Logo_2020.png" class="float-left logo_ecs">
 
         <!-- Masthead -->
@@ -106,7 +107,7 @@
                                     
                                 <select class="custom-select custom-select-lg custom-select-danger border-danger"
                                     id="select" name="select_ref">
-                                       <option value="" selected>Select reference data</option>
+                                       <option value="#" selected>Select reference data</option>
                                        <option value="exchange_rate">อัตราแลกเปลี่ยนกรมศุลกากร</option>
                                         <option value="permission">พิกัดอัตราศุลกากร และรหัสสถิติที่ต้องมีใบอนุญาต</option>
                                         <option value="exampt">รหัสยกเว้นไม่ต้องมีใบอนุญาต/ใบรับรอง</option>
@@ -155,13 +156,14 @@
    // document.getElementById("btn_submit").onclick = selectRef();  
   function selectRef(event) {
   var ref = event.target.value;
+  
   var files = ref +".html"
   document.location = files
   //location.replace(files)
   }
   document.querySelector('#select').addEventListener('change', selectRef, false);
 
-        
+    
     
 </script>
 
