@@ -5,6 +5,8 @@ $(document).ready(function () {
     scrollY: 600,
     scrollX: 700,
   });
+ 
+  $ .fn.dataTable.FixedHeader(table);
+  $(".container-fluid").hide();
 
-  $.fn.dataTable.FixedHeader(table);
 });
