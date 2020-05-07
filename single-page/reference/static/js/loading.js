@@ -16,6 +16,7 @@ $(document).ready(function () {
     if (counter == 101) {
       clearInterval(i);
       $(".loading-page").fadeOut();
+      $(".container-table").show();
       $(".container-table").fadeIn();
     }
   }, 40);
