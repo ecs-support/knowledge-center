@@ -7,6 +7,6 @@ $(document).ready(function () {
   });
  
   $ .fn.dataTable.FixedHeader(table);
-  $(".container-fluid").hide();
+  
 
 });
