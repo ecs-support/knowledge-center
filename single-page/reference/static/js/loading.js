@@ -1,5 +1,5 @@
 $(document).ready(function () {
-   $(".container-fluid").hide();
+   $(".container-table").hide();
   var counter = 0;
   var c = 0;
   var i = setInterval(function () {
@@ -16,7 +16,7 @@ $(document).ready(function () {
     if (counter == 101) {
       clearInterval(i);
       $(".loading-page").fadeOut();
-      $(".container-fluid").fadeIn();
+      $(".container-table").fadeIn();
     }
   }, 40);
 });
