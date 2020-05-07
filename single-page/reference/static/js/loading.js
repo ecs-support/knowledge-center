@@ -17,9 +17,19 @@ $(document).ready(function () {
       clearInterval(i);
       $(".loading-page").fadeOut();
       $(".container-table").show();
-      $(".container-table").fadeIn();
+     
     }
   }, 40);
+
+  var table = $("#table_ref").DataTable({
+    responsive: true,
+    scroller: true,
+    scrollY: 600,
+    scrollX: 700,
+  });
+
+  $ .fn.dataTable.FixedHeader(table);
+
 });
 
 
