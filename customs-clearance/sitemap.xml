@@ -35,10 +35,6 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/</loc>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/</loc>
   </url>
   
@@ -63,6 +59,10 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/customs-clearance-export/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/trade-protection/anti-dumping/</loc>
   </url>
   
@@ -72,6 +72,10 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/price/gatt_valuation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/customs-clearance-export/land/</loc>
   </url>
   
   <url>
@@ -119,6 +123,10 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/excise_announcement_product_list/</loc>
   </url>
   
@@ -132,6 +140,10 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/reserve-hs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/customs-clearance-export/ship/</loc>
   </url>
   
   <url>
@@ -184,6 +196,10 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/search_by_product/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/customs-clearance-export/air/</loc>
   </url>
   
   <url>
@@ -365,6 +381,10 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/price/wooden_goods/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/transfer-of-goods/bond/</loc>
   </url>
   
@@ -525,22 +545,12 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/</loc>
-    <lastmod>2019-11-26T17:04:13+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/</loc>
-    <lastmod>2019-11-26T17:04:13+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/newfunction/</loc>
-    <lastmod>2019-11-26T17:04:13+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/posts/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -556,6 +566,10 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/functions/</loc>
   </url>
   
   <url>
