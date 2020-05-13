@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nelson Bighetti | ECS Knowledge Center</title>
-    <link>https://dragon-library.github.io/docs/author/nelson-bighetti/</link>
-      <atom:link href="https://dragon-library.github.io/docs/author/nelson-bighetti/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ecs-support.github.io/knowledge-center/temp/author/nelson-bighetti/</link>
+      <atom:link href="https://ecs-support.github.io/knowledge-center/temp/author/nelson-bighetti/index.xml" rel="self" type="application/rss+xml" />
     <description>Nelson Bighetti</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Little Dragon©2020</copyright>
     <image>
-      <url>https://dragon-library.github.io/docs/author/nelson-bighetti/avatar_hu9c0cdb97929754257117a119e95d28a3_5619_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://ecs-support.github.io/knowledge-center/temp/author/nelson-bighetti/avatar_hu9c0cdb97929754257117a119e95d28a3_5619_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Nelson Bighetti</title>
-      <link>https://dragon-library.github.io/docs/author/nelson-bighetti/</link>
+      <link>https://ecs-support.github.io/knowledge-center/temp/author/nelson-bighetti/</link>
     </image>
     
   </channel>
