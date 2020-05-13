@@ -35,10 +35,6 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/</loc>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/excise_announcement_list/</loc>
   </url>
   
@@ -47,7 +43,11 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/company/%E0%B8%BA%E0%B8%BA%E0%B8%B4%E0%B8%B4broker/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/company/customs_broker/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/customs-clearance/road/</loc>
   </url>
   
   <url>
@@ -59,7 +59,11 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/customs-clearance-export/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/customs-clearance/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/customs-clearance/</loc>
   </url>
   
   <url>
@@ -75,7 +79,7 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/customs-clearance-export/land/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/customs-clearance/road/</loc>
   </url>
   
   <url>
@@ -115,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/company/%E0%B8%BA%E0%B8%BA%E0%B8%B4%E0%B8%B4broker/register_expire/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/company/customs_broker/register_expire/</loc>
   </url>
   
   <url>
@@ -124,6 +128,14 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/customs-clearance/sea/</loc>
   </url>
   
   <url>
@@ -143,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/customs-clearance-export/ship/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/customs-clearance/sea/</loc>
   </url>
   
   <url>
@@ -168,6 +180,10 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/visitor-registration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/customs-clearance/air/</loc>
   </url>
   
   <url>
@@ -199,7 +215,7 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/customs-clearance-export/air/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/customs-clearance/air/</loc>
   </url>
   
   <url>
@@ -232,6 +248,10 @@
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/restricted-goods/dangerous_goods/</loc>
   </url>
   
   <url>
@@ -381,10 +401,6 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/price/wooden_goods/</loc>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/tax-incentive/tax-incentive_guide/transfer-of-goods/bond/</loc>
   </url>
   
@@ -397,7 +413,7 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/restricted-goods/dangerous-goods/</loc>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/price/wooden_goods/</loc>
   </url>
   
   <url>
