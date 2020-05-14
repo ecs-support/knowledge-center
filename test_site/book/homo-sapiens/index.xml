@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homo Sapiens - A Brief History of Humankind | ECS Knowledge Center</title>
+    <title>Homo Sapiens - A Brief History of Humankind | ECS</title>
     <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/</link>
       <atom:link href="https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/index.xml" rel="self" type="application/rss+xml" />
     <description>Homo Sapiens - A Brief History of Humankind</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Little Dragon©2020</copyright><lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ecs-support.github.io/knowledge-center/test_site/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Homo Sapiens - A Brief History of Humankind</title>
