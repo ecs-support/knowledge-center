@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ECS Knowledge Center</title>
-    <link>https://ecs-support.github.io/knowledge-center/temp/</link>
-      <atom:link href="https://ecs-support.github.io/knowledge-center/temp/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ecs-support.github.io/knowledge-center/test_site/</link>
+      <atom:link href="https://ecs-support.github.io/knowledge-center/test_site/index.xml" rel="self" type="application/rss+xml" />
     <description>ECS Knowledge Center</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Little Dragon©2020</copyright><lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ecs-support.github.io/knowledge-center/temp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ecs-support.github.io/knowledge-center/test_site/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>ECS Knowledge Center</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/</link>
     </image>
     
     <item>
       <title>(Review-01) Homo Deus – A Brief History of Tomorrow</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/review-1/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/review-1/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/review-1/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/review-1/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://t0.blockdit.com/photos/2019/11/5ddc7fc6ab78db27a211b3ad.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -644,9 +644,9 @@ ISBN : 1784703931
     
     <item>
       <title>สรุปหนังสือ Sapiens - A Brief History of Humankind</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/review-1/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/review-1/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/review-1/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/review-1/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://images-se-ed.com/ws/Storage/Originals/978616/301/9786163016560L.jpg?h=3ea1d17655a35e145c05d27799718197&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -913,9 +913,9 @@ Animism หรือ ลัทธิที่เชื่อว่าทุก�
     
     <item>
       <title>ตอนที่ 1 - สามวาระใหม่แห่งอนาคต</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-1/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-1/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-1/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-1/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;โดย &lt;a href=&#34;https://www.facebook.com/suvinaip/posts/2394555527248241?hc_location=ufi&#34;&gt;ดร. สุวินัย ภรณวลัย&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -950,9 +950,9 @@ Animism หรือ ลัทธิที่เชื่อว่าทุก�
     
     <item>
       <title>Example Page 1</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/example/example1/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/example/example1/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/example/example1/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -985,9 +985,9 @@ Animism หรือ ลัทธิที่เชื่อว่าทุก�
     
     <item>
       <title>ตอนที่ 1 - A Revolution Begins</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/bill-gates/bill-gate-1/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/bill-gates/bill-gate-1/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/bill-gates/bill-gate-1/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/bill-gates/bill-gate-1/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://t0.blockdit.com/photos/2019/09/5d753819a4df570cbf22948b_800x0xcover_dZsRWDEk.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -1029,9 +1029,9 @@ Animism หรือ ลัทธิที่เชื่อว่าทุก�
     
     <item>
       <title>ตอนที่ 2 - The Standard</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/bill-gates/bill-gate-2/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/bill-gates/bill-gate-2/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/bill-gates/bill-gate-2/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/bill-gates/bill-gate-2/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://t0.blockdit.com/photos/2019/09/5d769d91d40e7e0ccef507c7_800x0xcover_tSTJ_iVv.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -1078,9 +1078,9 @@ Animism หรือ ลัทธิที่เชื่อว่าทุก�
     
     <item>
       <title>(Review-02) Homo Deus – A Brief History of Tomorrow</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/review-2/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/review-2/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/review-2/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/review-2/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://www.panasm.com/wp-content/uploads/2018/10/Homo-Deus-2016-Yuval-Noah-Harari.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -1321,9 +1321,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>สรุป Sapiens - A brief history of humankind</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/review-2/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/review-2/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/review-2/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/review-2/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/max/720/1*QYRBvdaqRElYItteHbEUhA.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;สรุปนี้เกิดจากมุมมองของโฮโมเซเปียนส์ที่เติบโตในปลายคริสต์ศตวรรษที่ 20 ถึงต้นคริสต์ศตวรรษที่ 21 ในระเบียบแบบแผนตามจินตนาการของรัฐชาติที่ไม่เคยถูกครอบครองโดยจักรวรรดิใดๆ เชื่อในความจริงตามจินตนาการของระบบตลาดเสรีและทุนนิยม อาจมีมุมมองเอนเอียงไปบ้างเนื่องจากจะเก็บสรุปไว้อ่านส่วนตัว&lt;/p&gt;
@@ -1405,9 +1405,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 2 - คำสาปเรื่องดีอุส</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-2/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-2/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-2/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-2/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;โดย &lt;a href=&#34;https://www.facebook.com/suvinaip/posts/2395884197115374?hc_location=ufi&#34;&gt;ดร. สุวินัย ภรณวลัย&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1448,9 +1448,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 1 - กำเนิด Sapiens</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-1/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-1/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-1/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-1/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://images-se-ed.com/ws/Storage/Originals/978616/301/9786163016560L.jpg?h=3ea1d17655a35e145c05d27799718197&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -1525,9 +1525,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>Example Page 2</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/example/example2/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/example/example2/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/example/example2/</guid>
       <description>
 
 &lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
@@ -1560,9 +1560,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ของตกค้าง</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/customs/import/overtime-goods/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/overtime-goods/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/customs/import/overtime-goods/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/overtime-goods/</guid>
       <description>
 
 &lt;p&gt;เนื่องจากก่อนหน้านี้พบว่า มีใบขนสินค้าผ่านแดน ที่ส่งข้อมูลหลักจากวันนำเข้า&lt;em&gt;เกิน 60 วัน&lt;/em&gt; ระบบกรมศุลกากรได้ Lock ไม่ให้ส่งข้อมูลใบขนสินค้าผ่านแดน ทำให้มีคำถามกลับเข้ามาถึงกฎหมายที่เกี่ยวข้อง และขั้นตอนการปฏิบัติพิธีการศุลกากรสำหร้ับเรื่องดังกล่าว ในส่วนของโปรแกรม เราจำเป็นต้องทราบว่าระบบหลังบ้านกรมศุลกากร จะทำการตรวจสอบและ lock สินค้าที่อยู่ในอารักขาของศุลกากร&lt;em&gt;เกิน 60 วัน&lt;/em&gt; นับแต่วันที่นําเข้า โดย&lt;em&gt;ไม่มีการยื่นใบขนสินค้า&lt;/em&gt; หรือ &lt;em&gt;ไม่ได้เสียอากรหรือวางประกันค่าอากรที่ศุลกากรเรียกเก็บ&lt;/em&gt; ไม่สามารถส่งข้อมูลทางอิเล็กทรอนิกส์ได้ เราจึงรวบรวมข้อกฎหมายและขั้นตอนการปฏิบัติของหน่วยงานต่าง ๆ ที่เกี่ยวข้องกับของตกค้าง เพื่อใช้ประกอบทำความเข้าใจ และใช้เป็นแนวทางในการแก้ปัญหาในเรื่องดังกล่าวดังนี้&lt;/p&gt;
@@ -1621,9 +1621,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 3 - Deal with the Devil</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/bill-gates/bill-gate-3/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/bill-gates/bill-gate-3/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/bill-gates/bill-gate-3/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/bill-gates/bill-gate-3/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://t0.blockdit.com/photos/2019/09/5d77f373df76a90cbe40fa30_800x0xcover_KZDrPhGf.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -1660,9 +1660,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>โฮโม เซเปียนส์ สัตว์มหัศจรรย์และถิ่นที่อยู่</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/review-3/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/review-3/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/review-3/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/review-3/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://gmlive.com/wp-content/uploads/2019/09/cropped-DE760E04-99FE-4F5A-A8AF-B303BC2651C2.jpeg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;เพราะสิ่งมีชีวิตที่จะเถียงออกมาเป็นภาษาคนได้ น่าจะมีแต่มนุษย์เท่านั้น&lt;/strong&gt;&lt;/p&gt;
@@ -1711,9 +1711,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 3 - เซเปียนส์ครองโลกได้อย่างไร</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-3/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-3/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-3/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-3/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;โดย &lt;a href=&#34;https://www.facebook.com/suvinaip/posts/2401906553179805?hc_location=ufi&#34;&gt;ดร. สุวินัย ภรณวลัย&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1744,9 +1744,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 2 - สิ่งที่ทำให้เราครองโลก</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-2/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-2/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-2/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-2/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -1826,9 +1826,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 4 - The Downfall of IBM</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/bill-gates/bill-gate-4/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/bill-gates/bill-gate-4/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/bill-gates/bill-gate-4/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/bill-gates/bill-gate-4/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://t0.blockdit.com/photos/2019/09/5d7938f2503a4425d945ee69_800x0xcover_26O6p8n6.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -1889,9 +1889,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 3 - ยุคแห่งการล่าสัตว์เก็บพืชผล</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-3/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-3/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-3/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-3/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -1951,9 +1951,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 4 - พลังของจิตวิสัยร่วม</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-4/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-4/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-4/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-4/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;โดย &lt;a href=&#34;https://www.facebook.com/suvinaip/posts/2403766552993805?hc_location=ufi&#34;&gt;ดร. สุวินัย ภรณวลัย&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1980,9 +1980,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 5 - Windows​ to the World</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/bill-gates/bill-gate-5/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/bill-gates/bill-gate-5/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/bill-gates/bill-gate-5/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/bill-gates/bill-gate-5/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://t0.blockdit.com/photos/2019/09/5d7a7fdfca05cd0a642d75e6_800x0xcover_YDjQUN8J.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -2016,9 +2016,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 4 - การหลอกลวงครั้งยิ่งใหญ่</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-4/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-4/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-4/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-4/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -2070,9 +2070,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 5 - ข้อตกลงเรื่องความทันสมัยกับเทวทัณฑ์</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-5/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-5/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-5/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-5/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;โดย &lt;a href=&#34;https://www.facebook.com/suvinaip/posts/2405168549520272?hc_location=ufi&#34;&gt;ดร. สุวินัย ภรณวลัย&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2096,9 +2096,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 5 - คุกที่มองไม่เห็น</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-5/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-5/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-5/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-5/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -2166,9 +2166,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 6 - ปลายทางของการปฏิวัติมนุษย์นิยมคืออภิมนุษย์</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-6/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-6/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-6/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-6/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;โดย &lt;a href=&#34;https://www.facebook.com/suvinaip/posts/2394555527248241?hc_location=ufi&#34;&gt;ดร. สุวินัย ภรณวลัย&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2207,9 +2207,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 6 - กำเนิดภาษาเขียน</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-6/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-6/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-6/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-6/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -2307,9 +2307,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 7 - ไม่มีทั้งเจตจำนงเสรีและวิญญาณในโลกของข้อมูลนิยม (dataism)</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-7/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-7/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-7/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-7/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;โดย &lt;a href=&#34;https://www.facebook.com/suvinaip/posts/2394555527248241?hc_location=ufi&#34;&gt;ดร. สุวินัย ภรณวลัย&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2334,9 +2334,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 7 - ความเหลื่อมล้ำ</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-7/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-7/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-7/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-7/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -2390,9 +2390,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 8 - เซเปียนส์กลายเป็นสิ่งชำรุดทางประวัติศาสตร์ได้อย่างไร</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-8/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-8/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-8/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-8/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;โดย &lt;a href=&#34;https://www.facebook.com/suvinaip/posts/2408962589140868&#34;&gt;ดร. สุวินัย ภรณวลัย&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2432,9 +2432,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 8 - โลกที่ถูกหลอมรวม</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-8/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-8/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-8/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-8/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -2481,9 +2481,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 9 - มิจฉาทิฐิที่ร้ายแรงที่สุดในยุคขัอมูลนิยม (dataism)</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-9/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-9/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-9/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-9/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;โดย &lt;a href=&#34;https://www.facebook.com/suvinaip/posts/2410953752275085&#34;&gt;ดร. สุวินัย ภรณวลัย&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2508,9 +2508,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 10 - พลังกุณฑาลินี คือเส้นทางสู่ด้านสว่างของ Homo Deus</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-10/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-10/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-10/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-10/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;โดย &lt;a href=&#34;https://www.facebook.com/suvinaip/posts/2411607062209754&#34;&gt;ดร. สุวินัย ภรณวลัย&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2551,9 +2551,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 9 - มนตราของเงินตรา</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-9/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-9/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-9/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-9/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -2605,9 +2605,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 11 - บทบาทของศาสนา</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-11/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-11/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-11/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-11/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -2654,9 +2654,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 10 - จักรวรรดิ</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-10/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-10/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-10/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-10/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -2703,9 +2703,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 11 - ทฤษฎีแห่งสรรพสิ่ง​(Theory​ of​ Everything)​ของลัทธิข้อมูลนิยมกับ​วิถีแห่งตัวตน</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-11/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-11/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-11/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-11/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;โดย &lt;a href=&#34;https://www.facebook.com/suvinaip/&#34;&gt;ดร. สุวินัย ภรณวลัย&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2729,9 +2729,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 12 - ศาสนาไร้พระเจ้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-12/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-12/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-12/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-12/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -2786,9 +2786,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 12 - เราต้องก้าวข้ามแต่หลอมรวมลัทธิข้อมูลนิยม</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-12/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-12/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-deus/deus-12/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-12/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;โดย &lt;a href=&#34;https://www.facebook.com/suvinaip/posts/2412198755483918&#34;&gt;ดร. สุวินัย ภรณวลัย&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2825,9 +2825,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 13 - ยุคแห่งความไม่รู้</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-13/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-13/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-13/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-13/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -2879,9 +2879,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 14 - 500 ปีแห่งความก้าวหน้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-14/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-14/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-14/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-14/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -2956,9 +2956,9 @@ Dataism (ขอบคุณภาพจาก Financial Times)&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 15 - เมื่อยุโรปครองโลก</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-15/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-15/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-15/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-15/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -3067,9 +3067,9 @@ Half-devil and half-child.&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 16 - สวัสดีทุนนิยม</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-16/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-16/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-16/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-16/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -3139,9 +3139,9 @@ Half-devil and half-child.&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 17 - จานอลูมิเนียมของนโปเลียน</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-17/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-17/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-17/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-17/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -3221,9 +3221,9 @@ Half-devil and half-child.&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 18 - ครอบครัวล่มสลาย</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-18/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-18/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-18/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-18/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -3326,9 +3326,9 @@ Half-devil and half-child.&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 19 - สุขสมบ่มิสม</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-19/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-19/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-19/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-19/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -3421,9 +3421,9 @@ Half-devil and half-child.&lt;/p&gt;
     
     <item>
       <title>ตอนที่ 20 - อวสาน Sapiens</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-20/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-20/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/book/homo-sapiens/sapiens-20/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-20/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -3516,9 +3516,9 @@ Half-devil and half-child.&lt;/p&gt;
     
     <item>
       <title>การปฏิบัติพิธีการศุลกากรกรณีผู้นำของเข้าแจ้งความสงวนสิทธิขอคืนอากรและการวางประกันเกี่ยวกับ ปัญหาพิกัดศุลกากร</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/customs/import/reserve-hs/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/reserve-hs/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/customs/import/reserve-hs/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/reserve-hs/</guid>
       <description>&lt;p&gt;เนื่องจากภายหลังพระราชบัญญัติศุลกากร พ.ศ. 2560 มีผลบังคับ กรมศุลกากรยังไม่มีประกาศแนวทางปฏิบัติ สำหรับกรณีที่ผู้นำของเข้าไม่แน่ใจ ในประเภทพิกัดที่จะสำแดง จึงขอวางประกัน/แจ้งความสงวนสิทธิคืนอากร เพื่อขอให้กรมศุลกากรพิจำรณาว่าจัดเข้าพิกัดใด แต่ปัจจุบันยังไม่มีแนวทางปฏิบัติให้ผู้ประกอบการ และเจ้าหน้าที่ดำเนินการ แนวทางการแก้ไขปัญหา กรมศุลกากรจึงกำหนดแนวทางให้หน่วยงานที่เกี่ยวข้องไปดำเนินการกำหนดแนวทางการปฏิบัติ และออกเป็นประกาศกรมศุลกากร สำหรับเรื่องดังกล่าว&lt;/p&gt;
 
 &lt;p&gt;ในระหว่างที่ยังดำเนินการออกประกาศไม่แล้วเสร็จ ให้ทุกหน่วยงานรับปฏิบัติพิธีการศุลกากรไป พลางก่อน จนกว่าจะมีประกาศกรมฯ และคำสั่งทั่วไปกรมฯ ให้มีผลบังคับใช้ โดยให้พนักงานศุลกากรที่ ทำหน้าที่ตรวจปล่อยสินค้าชักตัวอย่างตามระเบียบที่กำหนด และจัดส่งให้คณะทำงานพิจารณาปัญหาพิกัดอัตรา ศุลกากรประจำสำนักงานฯ ที่มีผู้แทนของสำนักพิกัดอัตราศุลกากรร่วมเป็นคณะทำงาน พิจารณาดำเนินการต่อไป&lt;/p&gt;
@@ -3540,10 +3540,749 @@ Half-devil and half-child.&lt;/p&gt;
     </item>
     
     <item>
-      <title>นำของเข้าทางบก</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/customs/import/customs-clearance/road/</link>
+      <title>Collections.Counter</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/post/collections/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/post/collections/</guid>
+      <description>&lt;p&gt;มอดูล collections ของไพธอนประกอบไปด้วยออบเจ็กต์จิปาถะที่อาจสะดวกที่จะใช้ในงานบางอย่าง เช่น collections.OrderedDict ที่ได้เขียนไปใน &lt;a href=&#34;https://phyblas.hinaboshi.com/20190706&#34;&gt;https://phyblas.hinaboshi.com/20190706&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;ในบทความนี้จะแนะนำออบเจ็กต์อีกตัวที่อาจมีโอกาสได้ใช้บ่อย คือ collections.Counter Counter เป็นออบเจ็กต์ที่ใช้งานสะดวก ในเวลาที่เราต้องการจะนับจำนวนของอะไรบางอย่างว่ามีอะไรอยู่เท่าไหร่ เช่น มีลิสต์ที่มีตัวเลขอยู่จำนวนหนึ่ง ต้องการจะนับดูว่ามีตัวเลขอะไรอยู่เท่าไหร่ ถ้าใช้ดิกชันนารีทั่วไป อาจเขียนได้แบบนี้&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;lislek = [12,10,11,12,14,11,11,13,11,10,13,12]
+naplek = {}
+for lek in lislek:
+    if(lek in naplek):
+        naplek[lek] += 1
+    else:
+        naplek[lek] = 1
+
+print(naplek) # ได้ {12: 3, 10: 2, 11: 4, 14: 1, 13: 2}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;แต่ถ้าใช้ Counter ก็จะทำได้โดยง่าย โดยแค่ใส่ลิสต์นั้นลงไปก็จะทำการนับให้เลย&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from collections import Counter
+
+lislek = [22,20,21,22,24,21,21,23,21,20,23,22]
+naplek = Counter(lislek)
+print(naplek) # ได้ Counter({21: 4, 22: 3, 20: 2, 23: 2, 24: 1})
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;ผลที่ได้จะได้เป็นออบเจ็กต์ Counter ที่เรียงลำดับตามจำนวนจากมากไปน้อยให้เลย&lt;/p&gt;
+
+&lt;p&gt;ออบเจ็กต์ Counter นี้โดยพื้นฐานแล้วมีส่วนคล้ายกับออบเจ็กต์ชนิดดิกชันนารี คือสามารถดูค่าได้โดยใส่คีย์ เพียงแต่ถ้าใส่คีย์ที่ไม่มีจะได้ค่า 0 และมีเมธอด .values() .keys() .items() และสามารถแปลงเป็นดิกชันนารีได้โดยง่าย&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(naplek[22]) # ได้ 3
+print(naplek[26]) # ได้ 0
+print(naplek.keys()) # ได้ dict_keys([22, 20, 21, 24, 23])
+print(naplek.values()) # ได้ dict_values([3, 2, 4, 1, 2])
+print(naplek.items()) # ได้ dict_items([(22, 3), (20, 2), (21, 4), (24, 1), (23, 2)])
+print(dict(naplek)) # ได้ {22: 3, 20: 2, 21: 4, 24: 1, 23: 2}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;ตั้งแต่ไพธอน 3.6 เป็นต้นไปดิกชันนารีจะเรียงอย่างมีลำดับ ดังนั้น Counter เมื่อแปลงเป็นดิกชันนารีแล้วลำดับในที่นี้จะเรียงตามลำดับก่อนหลังที่เริ่มเจอตัวแรก เหมือนอย่างในตัวอย่างแรกที่วนไล่ด้วย for สร้างดิกชันนารีขึ้นมาเอง&lt;/p&gt;
+
+&lt;p&gt;Counter นอกจากจะใช้กับลิสต์แล้วก็ยังใช้กับสายอักขระได้ด้วย โดยถ้าป้อนสายอักขระลงไปมันก็จะช่วยนับจำนวนให้ว่ามีอักษรตัวไหนอยู่กี่ตัว&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;napakson = Counter(&#39;จอดรถตรงตรอกยอมทนอดนอนอดกรนรอยลภมรดมดอกหอมบนขอนตรงคลองมอญ&#39;)
+print(napakson) # ได้ Counter({&#39;อ&#39;: 12, &#39;ร&#39;: 7, &#39;น&#39;: 6, &#39;ด&#39;: 5, &#39;ม&#39;: 5, &#39;ต&#39;: 3, &#39;ง&#39;: 3, &#39;ก&#39;: 3, &#39;ย&#39;: 2, &#39;ล&#39;: 2, &#39;จ&#39;: 1, &#39;ถ&#39;: 1, &#39;ท&#39;: 1, &#39;ภ&#39;: 1, &#39;ห&#39;: 1, &#39;บ&#39;: 1, &#39;ข&#39;: 1, &#39;ค&#39;: 1, &#39;ญ&#39;: 1})
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Counter ที่สร้างมาแล้วสามารถเพิ่มข้อมูลลงไปได้ เช่นโดยใช้ +=&lt;/p&gt;
+
+&lt;p&gt;เช่นอาจลองสร้าง Counter ว่างเปล่าแล้วค่อยๆใส่สมาชิกเพิ่มเข้าไป โดยไล่นับเพิ่มไปเรื่อยๆเช่น&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;lislek = [2,1,4,5,2,6,2,6,3,2,4,1,2,2,3,2,1,4,2,4]
+naplek = Counter()
+for lek in lislek:
+    naplek[lek] += 1
+
+print(naplek)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;หรืออาจใช้เมธอด .update() เพื่อทำการเพิ่มข้อมูลใส่เข้าไปเรื่อยๆเช่น&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;napakson = Counter()
+napakson.update(&#39;กนกพล&#39;)
+print(napakson) # ได้ Counter({&#39;ก&#39;: 2, &#39;น&#39;: 1, &#39;พ&#39;: 1, &#39;ล&#39;: 1})
+napakson.update(&#39;คนตลก&#39;)
+print(napakson) # ได้ Counter({&#39;ก&#39;: 3, &#39;น&#39;: 2, &#39;ล&#39;: 2, &#39;พ&#39;: 1, &#39;ค&#39;: 1, &#39;ต&#39;: 1})
+napakson.update(&#39;ตกคลอง&#39;)
+print(napakson) # ได้ Counter({&#39;ก&#39;: 4, &#39;ล&#39;: 3, &#39;น&#39;: 2, &#39;ค&#39;: 2, &#39;ต&#39;: 2, &#39;พ&#39;: 1, &#39;อ&#39;: 1, &#39;ง&#39;: 1})
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;นอกจากนี้ยังสามารถสร้างโดยแทนเลขจำนวนข้อมูลเข้าไป เช่นเดียวกับเวลาสร้างดิกชันนารีก็ได้&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;nap = Counter(a=7,b=2)
+print(nap) # ได้ Counter({&#39;a&#39;: 7, &#39;b&#39;: 2})
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;หรือจะสร้างโดยแปลงจากดิกชันนารีก็ได้&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;dic = {11: 2, 13: 4}
+nap = Counter(dic)
+print(nap) # ได้ Counter({13: 4, 11: 2})
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;กรณีที่สร้างด้วยวิธีนี้ ค่าอาจจะไม่ใช่ตัวเลขก็ได้ ไม่ทำให้เกิดข้อผิดพลาดอะไร แต่ถ้าตัวที่ไม่ใช่ตัวเลขถูกใส่ข้อมูลเพิ่มเช่นใช้เมธอด .update() ในสภาพแบบนั้นก็จะเกิดข้อผิดพลาด&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;nap = Counter({&amp;quot;ก&amp;quot;: &amp;quot;ข&amp;quot;, &amp;quot;ค&amp;quot;: &amp;quot;ง&amp;quot;})
+print(nap) # ได้ Counter({&#39;ค&#39;: &#39;ง&#39;, &#39;ก&#39;: &#39;ข&#39;})
+nap.update(&amp;quot;ก&amp;quot;) # ได้ TypeError: can only concatenate str (not &amp;quot;int&amp;quot;) to str
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;ถ้าใช้เมธอด .most_common() จะได้ลิสต์ของแต่ละคู่โดยเรียงจากมากไปน้อยตามจำนวนลำดับที่กำหนด แต่ถ้าไม่ได้ใส่เลขลำดับจะแสดงทั้งหมด&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;nap = Counter(&#39;สมพรสวดวนจนอรชรสองคนฉงนฉงวยงวยงงคอตกยอมนอนลงบนบก&#39;)
+print(nap.most_common(3)) # ได้ [(&#39;น&#39;, 7), (&#39;ง&#39;, 7), (&#39;อ&#39;, 5)]
+print(nap.most_common()) # ได้ [(&#39;น&#39;, 7), (&#39;ง&#39;, 7), (&#39;อ&#39;, 5), (&#39;ว&#39;, 4), (&#39;ส&#39;, 3), (&#39;ร&#39;, 3), (&#39;ย&#39;, 3), (&#39;ม&#39;, 2), (&#39;ค&#39;, 2), (&#39;ฉ&#39;, 2), (&#39;ก&#39;, 2), (&#39;บ&#39;, 2), (&#39;พ&#39;, 1), (&#39;ด&#39;, 1), (&#39;จ&#39;, 1), (&#39;ช&#39;, 1), (&#39;ต&#39;, 1), (&#39;ล&#39;, 1)]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;ถ้าใช้เมธอด .elements() จะได้อิเทอเรเตอร์ที่ไล่สมาชิกที่มีในนั้นทีละตัว&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;nap = Counter(&#39;ดวงกมลชงนมผงรอชมภมรบนดอน&#39;)
+print(nap) # ได้ Counter({&#39;ม&#39;: 4, &#39;ง&#39;: 3, &#39;น&#39;: 3, &#39;ด&#39;: 2, &#39;ช&#39;: 2, &#39;ร&#39;: 2, &#39;อ&#39;: 2, &#39;ว&#39;: 1, &#39;ก&#39;: 1, &#39;ล&#39;: 1, &#39;ผ&#39;: 1, &#39;ภ&#39;: 1, &#39;บ&#39;: 1})
+el = nap.elements()
+print(el) # ได้ &amp;lt;itertools.chain object at 0x10bbfae50&amp;gt;
+print(list(el)) # ได้ [&#39;ด&#39;, &#39;ด&#39;, &#39;ว&#39;, &#39;ง&#39;, &#39;ง&#39;, &#39;ง&#39;, &#39;ก&#39;, &#39;ม&#39;, &#39;ม&#39;, &#39;ม&#39;, &#39;ม&#39;, &#39;ล&#39;, &#39;ช&#39;, &#39;ช&#39;, &#39;น&#39;, &#39;น&#39;, &#39;น&#39;, &#39;ผ&#39;, &#39;ร&#39;, &#39;ร&#39;, &#39;อ&#39;, &#39;อ&#39;, &#39;ภ&#39;, &#39;บ&#39;]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;กรณีที่สร้างโดยกำหนดจำนวนเข้าไปโดยตรงก็จะออกมาเรียงตามลำดับที่ใส่โดยตัวเดียวกันอยู่ติดกัน&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;nap = Counter(na=3,ka=4,ma=2)
+print(list(nap.elements())) # ได้ [&#39;na&#39;, &#39;na&#39;, &#39;na&#39;, &#39;ka&#39;, &#39;ka&#39;, &#39;ka&#39;, &#39;ka&#39;, &#39;ma&#39;, &#39;ma&#39;]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Counter สามารถนำมาบวกลบกันได้ โดยการบวกจะเป็นการเอาสมาชิกที่มีมารวมกัน&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;a = Counter(&#39;ปลวกจกหนอนลงคอ&#39;)
+b = Counter(&#39;คงลอยคอลอยวน&#39;)
+print(a) # ได้ Counter({&#39;ล&#39;: 2, &#39;ก&#39;: 2, &#39;น&#39;: 2, &#39;อ&#39;: 2, &#39;ป&#39;: 1, &#39;ว&#39;: 1, &#39;จ&#39;: 1, &#39;ห&#39;: 1, &#39;ง&#39;: 1, &#39;ค&#39;: 1})
+print(b) # ได้ Counter({&#39;อ&#39;: 3, &#39;ค&#39;: 2, &#39;ล&#39;: 2, &#39;ย&#39;: 2, &#39;ง&#39;: 1, &#39;ว&#39;: 1, &#39;น&#39;: 1})
+print(a+b) # ได้ Counter({&#39;อ&#39;: 5, &#39;ล&#39;: 4, &#39;น&#39;: 3, &#39;ค&#39;: 3, &#39;ว&#39;: 2, &#39;ก&#39;: 2, &#39;ง&#39;: 2, &#39;ย&#39;: 2, &#39;ป&#39;: 1, &#39;จ&#39;: 1, &#39;ห&#39;: 1})
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;ส่วนการลบจะเอามาหักลบกัน เพียงแต่ถ้าติดลบหรือเป็น 0 จะหายไปเลย ไม่แสดง&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;a = Counter(&#39;พลพรรคครบสองคน&#39;)
+b = Counter(&#39;ลงคอรอครอบครอง&#39;)
+print(a) # ได้ Counter({&#39;ร&#39;: 3, &#39;ค&#39;: 3, &#39;พ&#39;: 2, &#39;ล&#39;: 1, &#39;บ&#39;: 1, &#39;ส&#39;: 1, &#39;อ&#39;: 1, &#39;ง&#39;: 1, &#39;น&#39;: 1})
+print(b) # ได้ Counter({&#39;อ&#39;: 4, &#39;ค&#39;: 3, &#39;ร&#39;: 3, &#39;ง&#39;: 2, &#39;ล&#39;: 1, &#39;บ&#39;: 1})
+print(a-b) # ได้ Counter({&#39;พ&#39;: 2, &#39;ส&#39;: 1, &#39;น&#39;: 1})
+print(b-a) # ได้ Counter({&#39;อ&#39;: 3, &#39;ง&#39;: 1})
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;นอกจากนี้ยังมีคุณสมบัติแปลกๆเช่นถ้ามีจำนวนทั้งบวกและลบอยู่ในนี้ หากเจอเครื่องหมายบวกจะกำจัดตัวที่เป็นลบ หากเจอเครื่องหมายลบจะเหลือแต่ตัวที่เป็นลบ และค่าจะกลายเป็นบวก&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;nap = Counter(ha=3,na=-2,ya=-4)
+print(+nap) # ได้ Counter({&#39;ha&#39;: 3})
+print(-nap) # ได้ Counter({&#39;ya&#39;: 4, &#39;na&#39;: 2})
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;สามารถใช้ตัวดำเนินการ &amp;amp; และ | ซึ่งจะให้ผลคล้ายกับการอินเตอร์เซ็กและยูเนียนกันของเซ็ต&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;a = Counter(&#39;สองสมรยอมลงคลองลอยคอ&#39;)
+b = Counter(&#39;รอชวนภมรดมดอมดอกขจร&#39;)
+print(a) # ได้ Counter({&#39;อ&#39;: 5, &#39;ง&#39;: 3, &#39;ล&#39;: 3, &#39;ส&#39;: 2, &#39;ม&#39;: 2, &#39;ย&#39;: 2, &#39;ค&#39;: 2, &#39;ร&#39;: 1})
+print(b) # ได้ Counter({&#39;ร&#39;: 3, &#39;อ&#39;: 3, &#39;ม&#39;: 3, &#39;ด&#39;: 3, &#39;ช&#39;: 1, &#39;ว&#39;: 1, &#39;น&#39;: 1, &#39;ภ&#39;: 1, &#39;ก&#39;: 1, &#39;ข&#39;: 1, &#39;จ&#39;: 1})
+print(a|b) # ได้ Counter({&#39;อ&#39;: 5, &#39;ง&#39;: 3, &#39;ม&#39;: 3, &#39;ร&#39;: 3, &#39;ล&#39;: 3, &#39;ด&#39;: 3, &#39;ส&#39;: 2, &#39;ย&#39;: 2, &#39;ค&#39;: 2, &#39;ช&#39;: 1, &#39;ว&#39;: 1, &#39;น&#39;: 1, &#39;ภ&#39;: 1, &#39;ก&#39;: 1, &#39;ข&#39;: 1, &#39;จ&#39;: 1})
+print(b&amp;amp;a) # ได้ Counter({&#39;อ&#39;: 3, &#39;ม&#39;: 2, &#39;ร&#39;: 1})
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;เมธอด .subtract() จะให้ผลคล้ายกับการเอามาลบกัน แต่จะเป็นการเปลี่ยนแปลง Counter ตัวทางซ้าย (ตัวที่ใช้เมธอด) แทนที่จะคืนค่า และจำนวนที่เป็น 0 และติดลบจะยังคงเหลืออยู่&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;a = Counter(&#39;ฝนตกตลอด&#39;)
+b = Counter(&#39;ตกตรงตรอก&#39;)
+print(a) # ได้ Counter({&#39;ต&#39;: 2, &#39;ฝ&#39;: 1, &#39;น&#39;: 1, &#39;ก&#39;: 1, &#39;ล&#39;: 1, &#39;อ&#39;: 1, &#39;ด&#39;: 1})
+print(b) # ได้ Counter({&#39;ต&#39;: 3, &#39;ก&#39;: 2, &#39;ร&#39;: 2, &#39;ง&#39;: 1, &#39;อ&#39;: 1})
+a.subtract(b)
+print(a) # ได้ Counter({&#39;ฝ&#39;: 1, &#39;น&#39;: 1, &#39;ล&#39;: 1, &#39;ด&#39;: 1, &#39;อ&#39;: 0, &#39;ต&#39;: -1, &#39;ก&#39;: -1, &#39;ง&#39;: -1, &#39;ร&#39;: -2})
+a.subtract(b)
+print(a) # ได้ Counter({&#39;ฝ&#39;: 1, &#39;น&#39;: 1, &#39;ล&#39;: 1, &#39;ด&#39;: 1, &#39;อ&#39;: -1, &#39;ง&#39;: -2, &#39;ก&#39;: -3, &#39;ต&#39;: -4, &#39;ร&#39;: -4})
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;สุดท้ายขอยกตัวอย่างการนำมาประยุกต์ใช้งาน เช่นนับจำนวนเฉพาะที่เป็นองค์ประกอบในตัวเลข&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def yaek(n):
+    nap = Counter()
+    i = 2
+    while(i*2&amp;lt;=n):
+        if(n%i==0):
+            nap[i] += 1
+            n = n//i
+        elif(i==2):
+            i += 1
+        else:
+            i += 2
+    if(n!=1):
+        nap[n] += 1
+    return nap
+
+print(yaek(104)) # ได้ Counter({2: 3, 13: 1})
+print(yaek(150)) # ได้ Counter({5: 2, 2: 1, 3: 1})
+print(yaek(508)) # ได้ Counter({2: 2, 127: 1})
+print(yaek(4500)) # ได้ Counter({5: 3, 2: 2, 3: 2})
+print(yaek(16129)) # ได้ Counter({127: 2})
+print(yaek(19600)) # ได้ Counter({2: 4, 5: 2, 7: 2})
+print(yaek(51000)) # ได้ Counter({2: 3, 5: 3, 3: 1, 17: 1})
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Reference : &lt;a href=&#34;https://phyblas.hinaboshi.com/20200413&#34;&gt;https://phyblas.hinaboshi.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pale Blue Dot ภาพถ่ายที่บอกว่าดาราศาสตร์คือความอ่อนน้อมถ่อมตน</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/post/pale_blue_dot/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/post/pale_blue_dot/</guid>
+      <description>&lt;p&gt;ในหนังสือเรื่อง Cosmos ของคุณ Carl Sagan ซึ่งผู้เขียนยกย่องให้เป็นหนึ่งในหนังสือที่ดีที่สุดตลอดกาล และเป็นคัมภีร์การใช้ชีวิตมาจนถึงทุกวันนี้ อวกาศและดาราศาสตร์ในมุมมองของ Carl Sagan ชายที่ทำให้มนุษย์รักเขาด้วยความรักที่เขามีต่อจักรวาลถ่ายทอดออกมาผ่านตัวอักษรในทั้งงานเขียน งานบรรยาย นวนิยาย และมุมมองที่ทำให้เรารู้จักกับตัวเองมากขึ้นผ่านการศึกษาธรรมชาติ&lt;/p&gt;
+
+&lt;p&gt;หนึ่งในตอนที่เขาได้เขียนไว้ในหนังสือ Cosmos ที่ทำให้เราได้เปิดมุมมองไปพร้อมกันย้อนกลับไป ณ ช่วงที่ยาน Pioneer 10 เดินทางโฉบดาวพฤหัสฯ ในปี 1972 เป็นยานอวกาศลำแรกที่จะได้ถ่ายภาพในระยะใกล้ของดาวพฤหัสฯ ส่งกลับมา ภาพถ่ายนี้จะเป็นภาพถ่ายประวัติศาสตร์ แต่มุมมองที่ Sagan ถ่ายทอดมาในหนังสือของเขาได้แก่ช่วงเวลา 20-30 นาที ในขณะที่เขานั่งอยู่บนรถที่กำลังเดินทางไปยังสำนักงานใหญ่ของ JPL ในแคลิฟอร์เนีย เพื่อเป็นสักขีพยานเมื่อ Pioneer 10 ส่งภาพถ่ายนั้นกลับมา Sagan เล่าว่า เขานึกจินตนาการถึงดาวพฤหัสฯ ว่าจะมีลักษณะเป็นอย่างไรและนั่นจะเป็นการจินตนาการถึงดาวพฤหัสครั้งสุดท้าย เพราะต่อไปจากนี้ดินแดนที่ยังไม่เคยถูกสำรวจจะถูกสำรวจแล้ว เมื่อภาพถ่ายของดาวพฤหัสเดินทางมาถึง มันจะเปลี่ยนมุมมองที่เราเคยมีต่อดาวพฤหัสฯ ไปตลอดกาล&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://spaceth.co/wp-content/uploads/2019/10/997_668761main_ac73-9341-1024x795.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;วันแห่งความรัก 14 กุมภาพันธ์ 1990 ตอนนั้นยาน Voyager 1 กำลังจะเดินทางออกนอกระบบสุริยะ Sagan ได้คุยกับทีมงานของ JPL ให้หันกล้องกลับมาถ่ายที่โลกของเราก่อนที่ยานจะเดินทางไปไกลแสนไกลและทิ้งไว้แต่เพียงมุมมองต่อจักรวาล (เหมือนเขาในอีกไม่กี่ปีต่อมาในอีก 7 ปีข้างหน้า) ภาพที่ได้มานั้น ไม่ได้มีข้อมูลทางวิทยาศาสตร์ที่น่าตื่นเต้นใด ๆ เป็นเพียงภาพที่ถูกรบกวนด้วยแสงอาทิตย์ และจุดเล็ก ๆ คือโลกของเรา&lt;/p&gt;
+
+&lt;p&gt;หากแต่ภาพนั้น กลับกลายเป็นตัวแทนของทุกความพยายามในการศึกษาดาราศาสตร์ของเรา Sagan บรรยายภาพนั้นไว้ด้วยงานเขียนทางดาราศาสตร์และปรัชญาที่ทรงพลังว่า&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;จุดเล็ก ๆ จุดนั้นคือที่นี่ คือบ้าน คือพวกเรา บนจุดนั้นคือทุกคนที่เราเคยรู้จัก มนุษย์ทุกคนที่เคยมีตัวตนอยู่ รวมไว้ซึ่งความสุขสันต์และความทุกข์ทน ศาสนา แนวคิด ระบบเศรษฐกิจ นับพันนับหมื่น ทุก ๆ นักล่าและหัวขโมย ทุก ๆ วีรบุรุษและคนขี้ขลาด เหล่านักสร้าง นักทำลาย อารยธรรมต่าง ๆ กษัตราและชาวนาที่ยากชน คู่รักหนุ่มสาว เด็กน้อยที่เต็มเปี่ยมด้วยความหวัง ทุกบิดรมารดา นักประดิษฐ์ นักสำรวจ ครูอาจารย์ นักการเมืองสกปรก เหล่าดารา และผู้นำ ทุก ๆ คนบาปและนักบุญ ทุกคนในประวัติศาสตร์ของเราอาศัยอยู่ที่นี่ บนฝุ่นผงที่ลอยเคว้งท่ามกลางแสงอาทิตย์&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://spaceth.co/wp-content/uploads/2019/10/image-20150323-26729-1ocuw8j-1024x1024.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;โลกของเรา เป็นดั่งเวทีเล็ก ๆ ท่ามกลางโรงละครจักรวาลอันกว้างใหญ่ จินตนาการถึงเลือดเนื้อที่หลั่งไหล เชือดเฉือนโดยเหล่านายพลและจักรพรรดิ ที่หวังความรุ่งโรจน์อันชั่วคราวบนเศษเสี้ยวแห่งฝุ่นผง จินตนาการถึงการเยี่ยมเยือนที่เหี้ยมโหดจากผู้อาศัยจากมุมนึงของจุดนี้กระทำต่ออีกมุมหนึ่ง พวกเขาเข้าใจผิดกันมามากแค่ไหน พวกเขากล้าดีอย่างไรที่จะเข่นฆ่าเพื่อนมนุษย์ด้วยกันเอง ความเกลียดชังอันแรงกล้าและการวางตัวเองสำคัญหลงคิดว่าเรามีอภิสิทธิ์ในจักรวาล ทั้งหมดถูกท้าทายด้วยจุดจาง ๆ จุดนี้&lt;/p&gt;
+
+&lt;p&gt;โลกของเรา เป็นจุดเล็ก ๆ หลมซ่อนอยู่ในเอกภพที่มืดมิด ท่ามกลางความสับสนวุ่นวาย ความเคว้งคว้าง ไม่มีสิ่งรับประกันว่าจะมีใคร จากที่ไหน มาช่วยเราจากการกระทำของตัวเราเอง ทั้งหมดขึ้นอยู่กับเรา เคยมีคนพูดไว้ว่าดาราศาสตร์นั้นทำให้เรารู้จักอ่อนน้อมถ่อมตน แต่ผมขอเพิ่มว่ามันคือการเข้าถึงตัวตน คงไม่มีสิ่งใดที่จะแสดงความโง่เขลาของความคิดมนุษย์ไปได้มากกว่าภาพถ่ายโลกของเราจากระยะที่ไกลแสนไกลนี้ มันคือความรับผิดชอบของเรา ที่จะถ้อยทีถ้อยอาศัยต่อกัน เพื่อปกป้องและหวงแหน จุดเล็ก ๆ จุดนี้ บ้านหลังเดียวที่เรารู้จัก&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;การสำรวจอวกาศของเราในทุกวันนี้ ต่างจากในอดีตอย่างมาก ในอดีตเราทำได้เพียงแต่มองท้องฟ้าและตั้งคำถามถึงจักรวาล แต่ตอนนี้เรามีโอกาสได้ส่งยานออกไปและหันกลับมามองตัวเราเอง จากอดีตที่เรามองว่าตัวเองเป็นศูนย์กลางของจักรวาล กลายเป็น ณ ตอนนี้เราได้รู้ตำแหน่งที่แท้จริงของเราในจักรวาลอันกว้างใหญ่ จากเดิมที่เรามองท้องฟ้าเป็นฉากและมีดวงดาวเป็นตัวละคร แต่ตอนนี้เรากลับกลายเป็นตัวละครบทสมทบที่เล็กที่สุดบนเสกลความกว้างใหญ่ของโรงละครที่ชื่อเอกภพ&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://spaceth.co/wp-content/uploads/2019/10/PIA21839-16-1024x576.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;เมื่อวันที่ 31 ธันวาคม วันสุดท้ายของปี 2018 ที่ผ่านมา ยาน Voyager 1 และ 2 เจ้าของภาพถ่าย Pale Blue Dot นี่ได้เดินทางออกนอกระบบสุริยะตลอดกาล ซึ่งเป็นวันเดียวกับที่ยาน Parker Solar Probe สัมผัสกับผิวนอกของดวงอาทิตย์ ปิดฉากการสำรวจอวกาศในปี 2018&lt;/p&gt;
+
+&lt;p&gt;เหมือนที่ Sagan บอก สุดท้ายแล้ว การสำรวจจักรวาลมันคือการมองย้อนกลับมาเข้าใจตัวตนของเรา วิทยาศาสตร์เป็นเครื่องมืออันแหลมคมที่ทำให้เราสามารถเข้าถึงความเข้าใจตรงนั้นได้และสุดท้ายมันจะสอนเราให้รู้จักอ่อนน้อมถ่อมตน ยอมรับว่าไม่มีสิ่งอื่นใดที่เหนือไปกว่าธรรมชาติ จักรวาล และความจริง ที่เราอาจรับรู้ได้เพียงแค่น้อยนิดเท่านั้น&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มาบทความ &lt;a href=&#34;https://spaceth.co/pale-blue-dot/&#34;&gt;spaceth.co&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>มาตรการตอบโต้การทุ่มตลาด (Anti-dumping)</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/trade-protection/anti-dumping/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/customs/import/customs-clearance/road/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/trade-protection/anti-dumping/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/anti-dumping.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;มาตรการตอบโต้การทุ่มตลาด (Anti-dumping: AD) เป็นมาตรการทางการค้าที่ประเทศผู้นำเข้าใช้เพื่อปกป้องอุตสาหกรรมภายในที่ได้รับความเสียหาย หรือมีแนวโน้มที่จะได้รับความเสียหายจากการทุ่มตลาดอันเกิดจากการนำเข้าสินค้าจากต่างประเทศที่ไม่เป็นธรรม&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;การทุ่มตลาด (Dumping) คืออะไร&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;การทุ่มตลาด&lt;/strong&gt; คือ การส่งออกสินค้าจากประเทศหนึ่งไปยังอีกประเทศหนึ่งเพื่อประโยชน์ในทางพาณิชย์ โดยที่ราคาส่งออกนั้นต่ำกว่ามูลค่าปกติของสินค้าชนิดเดียวกันที่จำหน่ายเพื่อการบริโภคภายในประเทศผู้ส่งออก / ผู้ผลิตเอง&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ราคาส่งออก (Export Price)&lt;/strong&gt; คือ ราคาสินค้าที่ผู้ส่งออกขายให้แก่ผู้นำเข้า หรือตัวแทนจำหน่ายในต่างประเทศ ซึ่งไม่มีความสัมพันธ์กัน โดยราคานั้นต้องเป็นราคาที่ขายให้แก่ผู้ซื้ออิสระทอดแรก (First Independent Buyer)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;มูลค่าปกติ (Normal Value)&lt;/strong&gt; คือ&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ราคาของสินค้าชนิดเดียวกันที่ขายในประเทศผู้ส่งออก / ผู้ผลิต หรือ&lt;/li&gt;
+&lt;li&gt;ราคาส่งออกไปยังประเทศที่สาม (Third Countries) หรือ&lt;/li&gt;
+&lt;li&gt;ราคาที่คำนวณจากต้นทุนการผลิต + ค่าใช้จ่ายอื่นๆ + กำไรที่เหมาะสม&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;ความเสียหายคืออะไร&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;ความเสียหาย (Injury) คือ ผลกระทบที่เกิดขึ้นกับอุตสาหกรรมภายในประเทศ ผู้นำเข้าที่ผลิตสินค้าชนิดเดียวกันกับสินค้าทุ่มตลาดหรือสินค้าที่ได้รับการอุดหนุน โดยพิจารณาจากปัจจัยต่างๆ เช่น&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;สินค้าในประเทศถูกตัดหรือกดราคาหรือไม่สามารถขยับราคาให้สูงขึ้น&lt;/li&gt;
+&lt;li&gt;ปริมาณการผลิตสินค้าภายในประเทศลดลง&lt;/li&gt;
+&lt;li&gt;ปริมาณสินค้าคงเหลือเพิ่มขึ้น&lt;/li&gt;
+&lt;li&gt;อัตรากำไรลดลง&lt;/li&gt;
+&lt;li&gt;ส่วนแบ่งตลาดลดลง&lt;/li&gt;
+&lt;li&gt;การจ้างงานลดลง&lt;/li&gt;
+&lt;li&gt;อัตราการนำเข้าสินค้าทุ่มตลาดเพิ่มขึ้นอย่างเห็นได้ชัด&lt;/li&gt;
+&lt;li&gt;แนวโน้มที่ผู้ผลิตสินค้าทุ่มตลาดจะส่งสินค้าไปยังประเทศผู้นำเข้าสูงขึ้น&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;ลักษณะอย่างไรที่เข้าข่ายจะใช้มาตรการตอบโต้การทุ่มตลาด&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;พบว่ามีการทุ่มตลาด (Dumping)&lt;/li&gt;
+&lt;li&gt;เกิดความเสียหายต่ออุตสาหกรรมภายในของประเทศผู้นำเข้า (Injury)&lt;/li&gt;
+&lt;li&gt;ความเสียหายของอุตสาหกรรมภายในนั้นเป็นผลมาจากการทุ่มตลาด (Causal Link Between Dumping and Injury)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;สร-ปสถานะมาตรการ-ad&#34;&gt;สรุปสถานะมาตรการ AD&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/ad/defend&#34;&gt;รายการสินค้า สินค้าที่ไทยถูกใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/ad/investigate&#34;&gt;รายการสินค้า สินค้าที่ไทยใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/Q0MjRqdxGtqjPqmMxwsCGa8MCi5hTbFWnVmpHIfm.pdf&#34;&gt;คู่มือสนทนาตอบโต้การทุ่มตลาด&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ข-อกฎหมาย&#34;&gt;ข้อกฎหมาย&lt;/h2&gt;
+
+&lt;h3 id=&#34;wto&#34;&gt;WTO&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/MCzmEDTdD7jILJukvRmJXzGhFYgFpxmYUBnuqotF.pdf&#34;&gt;AGREEMENT ON IMPLEMENTATION OF ARTICLE VI OF THE GENERAL AGREEMENT ON TARIFFS AND TRADE 1994&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;พระราชบ-ญญ-ต&#34;&gt;พระราชบัญญัติ&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/eGzGKQL5bahL1jSrvLn6LPmJH76Wjw0EyuMxrksI.pdf&#34;&gt;The Anti- Dumping and Countervailing Act B.E.2542 (Unofficial Translation)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/HTXEDZVOnhvnVh0GRrR5gGqPJ8bplCXqo7XJbjkW.pdf&#34;&gt;คู่มือ_สนทนาตอบโต้การทุ่มตลาด&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/dgjIL4oDOYBWqnyjN8YgjQRGQOtw35X7lOquTdP9.pdf&#34;&gt;พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ (ฉบับที่ 2) พ.ศ. 2562&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/a9hipI2DjqKO7m716NTX0PCYfTFktuKgks8WqWVU.pdf&#34;&gt;พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ.   2542&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/O8qhoS27wkH6S3QWwhd7vHshaY1s22rgOe2WrNud.pdf&#34;&gt;พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 และพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ (ฉบับที่ 2) พ.ศ. 2562   (รวบรวมโดยสำนักงานคณะกรรมการกฤษฎีกา)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;กฎกระทรวง&#34;&gt;กฎกระทรวง&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/6Nps3beLrN4y1y2213Ez6qXIGyBw4pSthMlQQMzh.pdf&#34;&gt;กฎกระทรวง(ฉบับที่ 4) (พ.ศ. 2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 ลงวันที่ 8 มีนาคม พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/EBebhaZ6chKCH6SnqyDef1GRaUFYPYxxvTNbftMh.pdf&#34;&gt;กฎกระทรวง(พ.ศ. 2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 ลงวันที่ 8 มีนาคม พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9M1sqNvll58fO0WFvwaJEQZveSZxAw3jKxYxxNNz.pdf&#34;&gt;กฎกระทรวงกำหนดเกณฑ์ในการยุติการพิจารณาตอบโต้การทุ่มตลาดและการอุดหนุน พ.ศ. 2545 ลงวันที่ 31 ตุลาคม พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/hVrSjCFKtzQmqpeeV3P5oHYP3EaG1DoAuS3Zjyfn.pdf&#34;&gt;กฎกระทรวงกำหนดหลักเกณฑ์และวิธีการเกี่ยวกับการพิจารณาความเสียหายที่เกิดแก่อุตสาหกรรมภายในจากการทุ่มตลาดหรือการอุดหนุน พ.ศ. 2545 ลงวันที่ 31 ตุลาคม พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/7TQaIMC1XHUopw9rvtd96AahQGGI4P6Fvl19AKNc.pdf&#34;&gt;กฏกระทรวง ฉบับที่3 (พ.ศ.2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ.2542 ลงวันที่ 8 มีนาคม พ.ศ.2543&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;ประกาศกระทรวงพาณ-ชย&#34;&gt;ประกาศกระทรวงพาณิชย์&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/UcuSDJ6Ds6bHUnwYG8UVcpW8la6S0mTf5HmGpJ8m.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 2) พ.ศ. 2542 ลงวันที่ 23 กรกฎาคม พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9A7rJAppsXccoGFu4OBoHVQhEOUeZUDt5YvmtMB1.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 3) พ.ศ. 2543 ลงวันที่ 30 มิถุนายน พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/JmuTtzZQIiWPsDwkyiU7B2GQxMLl2GT5DACCdkIf.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 4) พ.ศ. 2543 ลงวันที่ 30 มิถุนายน พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/42XeEKjXdoxX8gMk8ElE7nmmkqlErF9V4PzAdoQ9.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 5) พ.ศ. 2543 ลงวันที่ 11 กันยายน พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/wUtrvGYYdhtYs3zMfk0UF56QsJK29uwHYTczK03W.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 6) พ.ศ. 2544 ลงวันที่ 26 มีนาคม พ.ศ. 2544&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/bfAOmmSAbMcdUvUqYd5KkZpNRbFqKwMZEgA4vS7C.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน พ.ศ. 2542 ลงวันที่ 23 กรกฎาคม พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/yvNkhixex9Dut4eEi45pWc97ot95H5nNs1zw6gd5.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการพิจารณาความเสียหายเพื่อให้เรียกเก็บอากรตอบโต้การทุ่มตลาดและการอุดหนุน ตั้งแต่มีการใช้มาตรการชั่วคราว พ.ศ. 2545 ลงวันที่ 7 มกราคม พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/ktOGYx9oTXtkggPebnxC2FJceCwP1LuOzct0E2nr.pdf&#34;&gt;ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง การแก้ไขพิกัดอัตราศุลกากรตามประกาศคณะกรรมการฯให้สอดคล้องกับพระราชกำหนดพิกัดศุลกากร(ฉบับที่ 4) พ.ศ. 2549&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/FMuH1pzvVJ00mEr0duqgJ7J3kvF7zcmp6eGIyv8G.pdf&#34;&gt;ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง แนวทางปฏิบัติเกี่ยวกับระยะเวลาในการยื่นคำขอทบทวนความจำเป็นในการต่ออายุการใช้มาตรการตอบโต้การทุ่มตลาดและการอุดหนุน&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ข-นตอนการไต-สวน&#34;&gt;ขั้นตอนการไต่สวน&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/ad_step.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;การแก-ต-างเม-อส-นค-าไทยถ-กประเทศค-ค-าใช-มาตรการ-ad&#34;&gt;การแก้ต่างเมื่อสินค้าไทยถูกประเทศคู่ค้าใช้มาตรการ AD&lt;/h3&gt;
+
+&lt;p&gt;กรมการค้าต่างประเทศ กระทรวงพาณิชย์ จะร่วมกับผู้ส่งออกและหน่วยงานที่เกี่ยวข้องในภาครัฐและเอกชน ทั้งในและต่างประเทศ ในการกำหนดกลยุทธ์และแนวทางการแก้ต่าง และให้ข้อแนะนำในการต่อสู้ในแต่ละขั้นตอนของการไต่สวนตามกฎหมายของประเทศคู่ค้า&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;หากสินค้าไทยถูกฟ้อง ประเทศผู้เปิดการไต่สวนจะ&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;มีหนังสือแจ้งเปิดการไต่สวนมายังผู้ผลิต / ผู้ส่งออกไทยที่ถูกกล่าวหาโดยตรง&lt;/li&gt;
+&lt;li&gt;มีหนังสือแจ้งเปิดการไต่สวนมายังสถานทูตไทยประจำประเทศนั้น&lt;/li&gt;
+&lt;li&gt;มีประกาศแจ้งใน Website ของประเทศที่เปิดการไต่สวน / องค์การการค้าโลก (WTO)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;การดำเนินการแก้ต่างของผู้ส่งออก&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ติดต่อกรมการค้าต่างประเทศ กระทรวงพาณิชย์ เพื่อให้ข้อมูลประกอบการกำหนดกลยุทธ์ในการแก้ต่าง / ต่อสู้&lt;/li&gt;
+&lt;li&gt;รวบรวมข้อมูล สถิติการส่งออกและราคาขายสินค้าของบริษัททั้งในและต่างประเทศในช่วงระยะเวลา 3 ปีที่ผ่านมา และข้อมูลอื่นๆ เพื่อเตรียมการตอบแบบสอบถามของประเทศคู่ค้าที่ ฟ้อง&lt;/li&gt;
+&lt;li&gt;จัดเตรียมบุคลากรในการตอบแบบสอบถาม&lt;/li&gt;
+&lt;li&gt;จัดเตรียมระบบบัญชีต้นทุน แยกเป็นรายประเภทสินค้า หรือพิกัดที่ถูกกล่าวหา และเตรียมการชี้แจงเมื่อผู้แทนของหน่วยงานผู้ไต่สวนเดินทางมาตรวจสอบข้อมูลที่บริษัทตอบแบบสอบถามไว้&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ผลกระทบหากถูกใช้มาตรการ AD&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การชะลอตัวทางการค้า / การส่งออกลดลง&lt;/li&gt;
+&lt;li&gt;กระทบต่อการผลิต / การจ้างงาน&lt;/li&gt;
+&lt;li&gt;เสียความสามารถในการแข่งขัน และเสียส่วนแบ่งตลาดในประเทศคู่ค้า&lt;/li&gt;
+&lt;li&gt;เสียอำนาจการต่อรองกับผู้นำเข้าในประเทศคู่ค้า&lt;/li&gt;
+&lt;li&gt;หากประเทศที่ใช้มาตรการเป็นตลาดหลัก และเรียกเก็บอากรในอัตราสูงจนไม่มีการสั่งซื้อสินค้าจากประเทศนั้น ผู้ประกอบการจะถูกกระทบอย่างรุนแรงจนไม่สามารถดำรงธุรกิจอยู่ได้&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;บทบาทของภาครัฐในการแก้ต่าง&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;จัดเตรียมเจ้าหน้าที่ในการให้คำแนะนำ หลักเกณฑ์ ขั้นตอนต่างๆ ในการดำเนินการแก้ต่างของประเทศคู่ค้า พร้อมทั้งร่วมยกประเด็นโต้แย้งในการเปิดไต่สวน AD ต่อประเทศคู่ค้า และเข้าร่วมในกระบวนการตรวจสอบข้อมูลข้อเท็จจริง (Verification)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ที่มา : &lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/ad/investigate&#34;&gt;กองปกป้องและตอบโต้ทางการค้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;วันที่ปรับปรุงล่าสุด : 3 กุมภาพันธ์ 2563&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>มาตรการตอบโต้การอุดหนุน (Countervailing Duty)</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/trade-protection/cvd/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/trade-protection/cvd/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/CVD.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;มาตรการตอบโต้การอุดหนุน (Countervailing Duty: CVD) เป็นมาตรการทางการค้าที่ประเทศผู้นำเข้าใช้เพื่อปกป้องอุตสาหกรรมภายในที่ได้รับความเสียหาย หรือมีแนวโน้มที่จะได้รับความเสียหายจากการอุดหนุน อันเกิดจากการนำเข้าสินค้าจากต่างประเทศที่ไม่เป็นธรรม&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;การอุดหนุน (Subsidies) คืออะไร&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;การอุดหนุน คือ การที่รัฐให้ความช่วยเหลือ / สนับสนุนทั้งทางตรงและทางอ้อมต่อภาคเอกชน เพื่อเพิ่มปริมาณการส่งออกสินค้าไปต่างประเทศ หรือลดปริมาณการนำเข้าสินค้าจากต่างประเทศ&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ลักษณะของการอุดหนุน คือ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;การให้ความช่วยเหลือทางการเงินจากภาครัฐ หรือหน่วยงานของรัฐบาล&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การให้การสนับสนุนทางการเงินทั้งโดยตรง / โดยอ้อม&lt;/li&gt;
+&lt;li&gt;การจัดหาสินค้า / ให้บริการเกินกว่าสาธารณูปโภคขั้นพื้นฐาน&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;การให้การสนับสนุนด้านรายได้หรือด้านราคา&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;ตัวอย่าง&lt;/strong&gt; โครงการที่เข้าข่ายการอุดหนุน&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;การลดหย่อน หรือ ยกเว้นอากรนำเข้าวัตถุดิบ / เครื่องจักร&lt;/li&gt;
+&lt;li&gt;การยกเว้นภาษีมูลค่าเพิ่ม&lt;/li&gt;
+&lt;li&gt;การลดหย่อน หรือ ยกเว้นภาษีเงินได้นิติบุคคล&lt;/li&gt;
+&lt;li&gt;การยกหนี้ หรือ การลดหนี้ หรือ ยืดระยะเวลาการชำระหนี้&lt;/li&gt;
+&lt;li&gt;การกู้เงินในอัตราดอกเบี้ยต่ำกว่าอัตราดอกเบี้ยปกติในตลาด&lt;/li&gt;
+&lt;li&gt;การให้สินเชื่อเพื่อการส่งออก&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;การใช้มาตรการตอบโต้การอุดหนุน (Countervailing Measures)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ต้องพิจารณาว่า&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;เป็นการอุดหนุนที่ให้แบบเฉพาะเจาะจงต่อบริษัท / อุตสาหกรรม / ภูมิภาค / เพื่อการส่งออก /เพื่อให้ใช้สินค้าในประเทศมากกว่าสินค้านำเข้า&lt;/li&gt;
+&lt;li&gt;ผู้ได้รับการอุดหนุนได้รับประโยชน์จากโครงการต่างๆ ของรัฐ&lt;/li&gt;
+&lt;li&gt;อุตสาหกรรมภายในของประเทศผู้นำเข้าได้รับความเสียหายจากผลของการนำเข้าสินค้าที่ได้รับการอุดหนุน&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;ซึ่งมาตรการตอบโต้การอุดหนุนคำนวณเป็น % หรือจำนวนเงินต่อหน่วย โดยเรียกเก็บอากรตอบโต้การอุดหนุน (Countervailing Duty: CVD) เพิ่มจากภาษีนำเข้าปกติ&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ความเสียหายคืออะไร&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;ความเสียหาย (Injury) คือ ผลกระทบที่เกิดขึ้นกับอุตสาหกรรมภายในประเทศผู้นำเข้าที่ผลิตสินค้าชนิดเดียวกันกับสินค้าที่ได้รับการอุดหนุน โดยพิจารณาจากปัจจัยต่าง ๆ เช่น&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;สินค้าในประเทศถูกตัดหรือกดราคาหรือไม่สามารถขยับราคาให้สูงขึ้น&lt;/li&gt;
+&lt;li&gt;ปริมาณการผลิตสินค้าภายในประเทศลดลง&lt;/li&gt;
+&lt;li&gt;ปริมาณสินค้าคงเหลือเพิ่มขึ้น&lt;/li&gt;
+&lt;li&gt;อัตรากำไรลดลง&lt;/li&gt;
+&lt;li&gt;ส่วนแบ่งตลาดลดลง&lt;/li&gt;
+&lt;li&gt;การจ้างงานลดลง&lt;/li&gt;
+&lt;li&gt;อัตราการนำเข้าสินค้าทุ่มตลาดหรือสินค้าที่ได้รับการอุดหนุนเพิ่มขึ้นอย่างเห็นได้ชัด&lt;/li&gt;
+&lt;li&gt;แนวโน้มที่ผู้ผลิตสินค้าทุ่มตลาดหรือสินค้าที่ได้รับการอุดหนุนจะส่งสินค้าไปยังประเทศผู้นำเข้าสูงขึ้น&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;การใช้มาตรการตอบโต้การอุดหนุน (CVD) ของไทย&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;กฏหมายที่เกี่ยวข้อง&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9pvSgZh9ViHpAKsJs5NUP3dSqI1yNR7h0wpaGRZQ.pdf&#34;&gt;พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ผู้มีสิทธิร้องขอให้เปิดการไต่สวนการใช้มาตรการ CVD ผู้ผลิตสินค้าชนิดเดียวกัน (Like Product) ซึ่งเป็นตัวแทนทั้งหมดหรือส่วนใหญ่ของอุตสาหกรรมภายในประเทศไทย ที่ได้รับความเสียหายจากการนำเข้าสินค้าที่ได้รับการอุดหนุน&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;แนวปฏิบัติในการขอเปิดไต่สวน ยื่นคำขอเป็นลายลักษณ์อักษรต่อกรมการค้าต่างประเทศ กระทรวงพาณิชย์ โดยกรอก &lt;a href=&#34;http://10.3.15.200/%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3CVD/%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%84%E0%B8%B3%E0%B8%82%E0%B8%AD.aspx&#34;&gt;&lt;strong&gt;แบบคำขอ&lt;/strong&gt;&lt;/a&gt; ที่กำหนด พร้อมกับส่งเอกสารหลักฐานต่างๆ ที่แสดงว่ามีการอุดหนุนและทำให้เกิดความเสียหาย ซึ่งกรมการค้าต่างประเทศ กระทรวงพาณิชย์จะพิจารณาว่ามีรายละเอียดหรือหลักฐานเพียงพอที่จะเปิดการไต่สวนหรือไม่ต่อไป&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;การขอคำแนะนำในการกรอกแบบคำขอ อุตสาหกรรมภายในที่ประสงค์จะขอทราบรายละเอียดเกี่ยวกับการขอใช้มาตรการ สามารถติดต่อสำนักมาตรการปกป้องและตอบโต้ทางการค้า กรมการค้าต่างประเทศ กระทรวงพาณิชย์ เพื่อรับคำแนะนำในการกรอกแบบคำขอ และจัดเตรียมข้อมูล ก่อนที่จะนำเข้าสู่กระบวนการพิจารณาตามขั้นตอนของกฎหมายได้&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;การใช้มาตรการ CVD การพิจารณาและการดำเนินการไต่สวนอยู่ภายใต้อำนาจหน้าที่ของ “คณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน” หรือ ทตอ. หากทตอ. พิจารณาผลการไต่สวนแล้วพบว่ามีการนำเข้าสินค้าที่ได้รับการอุดหนุน และก่อให้เกิดความเสียหายต่ออุตสาหกรรมภายใน คณะกรรมการฯ จะประกาศให้เรียกเก็บอากรตอบโต้การอุดหนุน (CVD) จากการนำเข้าสินค้าดังกล่าวซึ่งจะเป็นการเก็บอากรที่เพิ่มนอกเหนือจากภาษีนำเข้าปกติ&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;สร-ปสถานะมาตรการ-cvd&#34;&gt;สรุปสถานะมาตรการ CVD&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/cvd/defend&#34;&gt;รายการสินค้า สินค้าที่ไทยถูกใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/cvd/investigate&#34;&gt;รายการสินค้า สินค้าที่ไทยใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ข-อกฎหมาย&#34;&gt;ข้อกฎหมาย&lt;/h2&gt;
+
+&lt;h3 id=&#34;wto&#34;&gt;WTO&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/4FJhLS5gOe2JOUkJRR1dhj5KFSOAwh0Q3ODgkADb.pdf&#34;&gt;AGREEMENT ON SUBSIDIES AND COUNTERVAILING MEASURES&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;พระราชบ-ญญ-ต&#34;&gt;พระราชบัญญัติ&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/lksc37V3c5cH5uNj3WIyiwibFZOCZBHyFjE8cc3L.pdf&#34;&gt;The Anti- Dumping and Countervailing Act B.E.2542 (Unofficial Translation)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9pvSgZh9ViHpAKsJs5NUP3dSqI1yNR7h0wpaGRZQ.pdf&#34;&gt;พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;กฎกระทรวง&#34;&gt;กฎกระทรวง&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/b7U8uaFHQWquk650wWOdeGfPt36AfJWPKp7w14eD.pdf&#34;&gt;กฎกระทรวง(ฉบับที่ 4) (พ.ศ. 2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 ลงวันที่ 8 มีนาคม พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/TnUUr8ScWxjXfGEuMZQGl6LVNZVEjiKeBXReqJST.pdf&#34;&gt;กฎกระทรวง(พ.ศ. 2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 ลงวันที่ 8 มีนาคม พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/oOdwfnVoFsPA2CTjssLTpK59Zz6RZVa2ypD2JfIx.pdf&#34;&gt;กฎกระทรวงกำหนดเกณฑ์ในการยุติการพิจารณาตอบโต้การทุ่มตลาดและการอุดหนุน พ.ศ. 2545 ลงวันที่ 31 ตุลาคม พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/D9oc6zfuf4AgUDHvT5gWh2cdpAV52RZfYnkwl9oD.pdf&#34;&gt;กฎกระทรวงกำหนดหลักเกณฑ์และวิธีการเกี่ยวกับการพิจารณาความเสียหายที่เกิดแก่อุตสาหกรรมภายในจากการทุ่มตลาดหรือการอุดหนุน พ.ศ. 2545 ลงวันที่ 31 ตุลาคม พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9IOsHUg8KdkOpuHMXkjmT4qkICJOmDc1y7HqtxV3.pdf&#34;&gt;กฏกระทรวง ฉบับที่3 (พ.ศ.2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ.2542 ลงวันที่ 8 มีนาคม พ.ศ.2543&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;ประกาศกระทรวงพาณ-ชย&#34;&gt;ประกาศกระทรวงพาณิชย์&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/tnTulQNQgSuHZ7GZn6Hj3zGl9MynUp5q5zqYNPRp.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 2) พ.ศ. 2542 ลงวันที่ 23 กรกฎาคม พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/Rd6EafzkTBEicREQXxHZeAXJDINKAM59cQ2luXK3.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 3) พ.ศ. 2543 ลงวันที่ 30 มิถุนายน พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/YyWKaMKumhPZYRRhZ9RZYOfWFa0jFG6S5ewdnsGU.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 4) พ.ศ. 2543 ลงวันที่ 30 มิถุนายน พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/8mVNL8v17LZAvvUdlqq3iJcKslcIA7nTpKCNNo7T.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 5) พ.ศ. 2543 ลงวันที่ 11 กันยายน พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/G9dj6uiDO8ujLjBNzGFOuvGLZJAcgSd5Xrf3ewvj.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 6) พ.ศ. 2544 ลงวันที่ 26 มีนาคม พ.ศ. 2544&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/Ptv568l3SddgJVos5Htq2P06naEbSin9GnYS071j.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน พ.ศ. 2542 ลงวันที่ 23 กรกฎาคม พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/muIpqgsTJLTPu7ttnyMXPm9h50LAXlSmeB5z15at.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการพิจารณาความเสียหายเพื่อให้เรียกเก็บอากรตอบโต้การทุ่มตลาดและการอุดหนุน ตั้งแต่มีการใช้มาตรการชั่วคราว พ.ศ. 2545 ลงวันที่ 7 มกราคม พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/jWVxPUQPUhI5Clqr0ZwZxrJyOqvRiH4KNXybnc6a.pdf&#34;&gt;ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง การแก้ไขพิกัดอัตราศุลกากรตามประกาศคณะกรรมการฯให้สอดคล้องกับพระราชกำหนดพิกัดศุลกากร(ฉบับที่ 4) พ.ศ. 2549&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/FZwrkGZGQPkFHTCouhcA63NXBCCaCS80FKodz4BQ.pdf&#34;&gt;ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง แนวทางปฏิบัติเกี่ยวกับระยะเวลาในการยื่นคำขอทบทวนความจำเป็นในการต่ออายุการใช้มาตรการตอบโต้การทุ่มตลาดและการอุดหนุน&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ข-นตอนการไต-สวน&#34;&gt;ขั้นตอนการไต่สวน&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cvd_step.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;การแก-ต-างเม-อส-นค-าไทยถ-กประเทศค-ค-าใช-มาตรการ-cvd&#34;&gt;การแก้ต่างเมื่อสินค้าไทยถูกประเทศคู่ค้าใช้มาตรการ CVD&lt;/h3&gt;
+
+&lt;p&gt;กรมการค้าต่างประเทศ กระทรวงพาณิชย์ จะร่วมกับผู้ส่งออกและหน่วยงานที่เกี่ยวข้องในภาครัฐและเอกชน ทั้งในและต่างประเทศ ในการกำหนดกลยุทธ์และแนวทางการแก้ต่าง และให้ข้อแนะนำในการต่อสู้ในแต่ละขั้นตอนของการไต่สวนตามกฎหมายของประเทศคู่ค้า&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;หากสินค้าไทยถูกฟ้องประเทศผู้เปิดการไต่สวนจะ&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;มีหนังสือแจ้งเปิดการไต่สวนมายังผู้ผลิต / ผู้ส่งออกไทยที่ถูกกล่าวหาโดยตรง&lt;/li&gt;
+&lt;li&gt;มีหนังสือแจ้งเปิดการไต่สวนมายังสถานทูตไทยประจำประเทศนั้น&lt;/li&gt;
+&lt;li&gt;มีประกาศแจ้งใน Website ของประเทศที่เปิดการไต่สวน / องค์การการค้าโลก (WTO)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;การดำเนินการแก้ต่างของผู้ส่งออก&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ติดต่อกรมการค้าต่างประเทศ กระทรวงพาณิชย์ เพื่อให้ข้อมูลประกอบการกำหนดกลยุทธ์ในการแก้ต่าง / ต่อสู้&lt;/li&gt;
+&lt;li&gt;รวบรวมข้อมูล สถิติการส่งออกและราคาขายสินค้าของบริษัททั้งในและต่างประเทศในช่วงระยะเวลา 3 ปีที่ผ่านมา และข้อมูลอื่นๆ เพื่อเตรียมการตอบแบบสอบถามของประเทศคู่ค้าที่ฟ้อง&lt;/li&gt;
+&lt;li&gt;จัดเตรียมบุคลากรในการตอบแบบสอบถาม&lt;/li&gt;
+&lt;li&gt;จัดเตรียมระบบบัญชีต้นทุน แยกเป็นรายประเภทสินค้า หรือพิกัดที่ถูกกล่าวหา และเตรียมการชี้แจงเมื่อผู้แทนของหน่วยงานผู้ไต่สวนเดินทางมาตรวจสอบข้อมูลที่บริษัทตอบแบบสอบถามไว้&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ผลกระทบหากถูกใช้มาตรการ CVD&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การชะลอตัวทางการค้า / การส่งออกลดลง&lt;/li&gt;
+&lt;li&gt;กระทบต่อการผลิต / การจ้างงาน&lt;/li&gt;
+&lt;li&gt;เสียความสามารถในการแข่งขัน และเสียส่วนแบ่งตลาดในประเทศคู่ค้า&lt;/li&gt;
+&lt;li&gt;เสียอำนาจการต่อรองกับผู้นำเข้าในประเทศคู่ค้า&lt;/li&gt;
+&lt;li&gt;หากประเทศที่ใช้มาตรการเป็นตลาดหลัก และเรียกเก็บอากรในอัตราสูงจนไม่มีการสั่งซื้อสินค้าจากประเทศนั้น ผู้ประกอบการจะถูกกระทบอย่างรุนแรงจนไม่สามารถดำรงธุรกิจอยู่ได้&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;บทบาทของภาครัฐในการแก้ต่าง&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;จัดเตรียมเจ้าหน้าที่ในการให้คำแนะนำ หลักเกณฑ์ ขั้นตอนต่างๆ ในการดำเนินการแก้ต่างของประเทศคู่ค้า พร้อมทั้งร่วมยกประเด็นโต้แย้งในการเปิดไต่สวน CVD ต่อประเทศคู่ค้า และเข้าร่วมในกระบวนการตรวจสอบข้อมูลข้อเท็จจริง (Verification)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ที่มา : &lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/ad/investigate&#34;&gt;กองปกป้องและตอบโต้ทางการค้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;วันที่ปรับปรุงล่าสุด : 3 กุมภาพันธ์ 2563&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>มาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น (Safeguard Measure)</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/trade-protection/sg/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/trade-protection/sg/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/SG.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;มาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น เป็นมาตรการทางการค้าที่ประเทศผู้นำเข้า ใช้ในการคุ้มครองอุตสาหกรรมภายในที่ได้รับความเสียหาย หรือมีแนวโน้มที่จะได้รับความเสียหาย จากการนำข้าที่เพิ่มมากขึ้นมากกว่าปกติ เพื่อเปิดโอกาสให้อุตสาหกรรมภายในของประเทศดังกล่าว สามารถปรับตัวให้สามารถแข่งขันกับสินค้านำเข้าได้&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;การใช้มาตรการ SG ของไทย&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;กฎหมายที่เกี่ยวข้อง&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/NHyQ7X80IJKMa9UAUUb9AESKnkwN4QV3sTmnNP27.pdf&#34;&gt;พระราชบัญญัติมาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2550&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;ปัจจัยสำคัญในการพิจารณาใช้มาตรการ SG&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;ปริมาณการนำเข้าสินค้าเพิ่มขึ้นอย่างมาก ไม่ว่าจะเป็นปริมาณเพิ่มขึ้นจริง อย่างชัดเจน (Absolute Increased) หรือ ปริมาณเพิ่มขึ้นโดยเปรียบเทียบ (Relative Increased) ระหว่างปริมาณนำเข้ากับปริมาณการผลิตในประเทศ&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;การนำเข้าที่เพิ่มขึ้นนั้น เป็นผลจากเหตุการณืที่ไม่อาจคาดการณืล่วงหน้าได้ (Unforeseen Development)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;การนำเข้าที่เพิ่มขึ้นนั้นก่อให้เกิดหรือคุกคามให้เกิด ‘ความเสียหายอย่างร้ายแรง’ (Serious Injury or Threat thereof) ต่ออุตสาหกรรมภายใน ทั้งนี้ ปัจจัยหลักในการพิจารณาความเสียหายได้แก่&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;อัตราและปริมาณของการนำเข้าสินค้าที่เพิ่มขึ้น&lt;/li&gt;
+&lt;li&gt;ส่วนแบ่งตลาดของสินค้านำเข้าที่เพิ่มขึ้น&lt;/li&gt;
+&lt;li&gt;การเปลี่ยนแปลงของระดับการขาย&lt;/li&gt;
+&lt;li&gt;การเปลี่ยนแปลงของระดับผลผลิต&lt;/li&gt;
+&lt;li&gt;การเปลี่ยนแปลงของระดับผลิตภาพ&lt;/li&gt;
+&lt;li&gt;การเปลี่ยนแปลงของระดับกำลังการผลิตที่ใช้จริง&lt;/li&gt;
+&lt;li&gt;การเปลี่ยนแปลงของระดับกำไรและขาดทุน&lt;/li&gt;
+&lt;li&gt;การเปลี่ยนแปลงของระดับการจ้างงาน&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;ประเภทของมาตรการ Safeguards&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;​​​​​​​1. Global Safeguards (SG) คือ มาตรการ SG ภายใต้ความตกลงว่าด้วยมาตรการ SG ของ WTO และ Article X ของ GATT 1994 ที่ใช้บังคับกับสินค้านำเข้าจากทุกประเทศโดยไม่คำนึงถึงแหล่งที่มาของสินค้า Bilateral Safeguards หรือ Transitional Safeguards คือ มาตรการ SG สองฝ่ายภายใต้ความตกลงการค้าเสรี หรือความตกลงสองฝ่ายอื่นๆ ซึ่งใช้บังคับกับสินค้านำเข้าเฉพาะจากประเทศคู่ภาคี และใช้กับสินค้าที่อยู่ในรายการสินค้าลด / เลิกอากรศุลกากรระหว่างกัน&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Special Safeguards (SSG) คือ&lt;/li&gt;
+&lt;li&gt;มาตรการปกป้องพิเศษภายใต้ความตกลงเกษตรของ WTO ที่ใช้บังคับกับสินค้าเกษตรที่ผูกพันไว้กับ WTO ซึ่งนำเข้าจากทุกประเทศ&lt;/li&gt;
+&lt;li&gt;มาตรการปกป้องพิเศษ ภายใต้ความตกลงการค้าเสรีที่ใช้บังคับกับสินค้าที่มีความอ่อนไหว (sensitive) ที่ภาคี 2 ฝ่ายกำหนดร่วมกัน&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;ผู้มีสิทธิยื่นคำร้องขอให้ใช้มาตรการ SG คือ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;อุตสาหกรรมภายในผู้ผลิตสินค้าชนิดเดียวกัน (Like product) หรือแข่งขันโดยตรง (directly competitive) กับสินค้านำเข้าที่ถูกพิจารณา (product under consideration) ซึ่งมี ปริมาณการผลิตเป็นสัดส่วนใหญ่ (a major proportion) ของปริมาณการผลิตรวมทั้งประเทศ โดยอาจเป็นผู้ผลิตรายใหญ่รายเดียว หรือหลายรายที่มีผลผลิตรวมกันเป็นสัดส่วนใหญ่&lt;/li&gt;
+&lt;li&gt;หน่วยงานผู้มีอำนาจในการไต่สวน (กรมการค้าต่างประเทศ) เปิดไต่สวนเอง (กรณีที่ไม่มีการยื่นคำร้องขอของอุตสาหกรรมภายในตาม 4.1) หากกรมการค้าต่างประเทศเห็นว่ามีการนำเข้าสินค้าเพิ่มขึ้น และมีหลักฐานว่ามีความเสียหายเกิดขึ้นกับอุตสาหกรรมภายใน ซึ่งเป็นผลจากการนำเข้าสินค้าที่เพิ่มขึ้นนั้น&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;ข้อกำหนดในการใช้มาตรการ SG&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;มาตรการ SG จะใช้บังคับกับสินค้านำเข้าจากทุกประเทศโดยไม่คำนึงถึงแหล่งที่มาของสินค้า ซึ่งเป็นไปตามหลักการปฏิบัติเยี่ยงชาติที่ได้รับอนุเคราะห์ยิ่ง (Most-Favored Nation: MFN) ยกเว้นมาตรการ Bilateral SG และ Special SG ภายใต้การค้าเสรี จะใช้บังคับเฉพาะสินค้าจากประเทศคู่ภาคี&lt;/li&gt;
+&lt;li&gt;ให้ใช้มาตรการ SG เท่าที่จำเป็นเพื่อป้องกันหรือบำบัดความเสียหาย และเพื่อให้อุตสาหกรรมภายในมีระยะเวลาในการปรับตัว&lt;/li&gt;
+&lt;li&gt;เพื่อดำเนินการให้เป็นไปตามข้อ 5.2 อุตสาหกรรมภายในที่ยื่นคำร้องขอให้ไต่สวน ต้องทำแผนการปรับตัวยื่นต่อกรมการค้าต่างประเทศภายในกำหนด 3 เดือนนับแต่วันประกาศใช้มาตรการ SG&lt;/li&gt;
+&lt;li&gt;มาตรการ Global SG มีข้อยกว้นว่าไม่ให้ใช้มาตรการGlobal SG กับสินค้าที่มีแหล่งกำเนิดจากประเทศกำลังพัฒนา ตราบเท่าที่ส่วนแบ่งการนำเข้าจากประเทศนั้น ไม่เกินร้อยละ 3 ของปริมาณการนำเข้าสินค้านั้นโดยรวม แต่ทั้งนี้สินค้าที่นำเข้าจากประเทศกำลังพัฒนาทั้งหลายที่มีส่วนแบ่งการนำเข้าไม่เกินร้อยละ 3 นั้น รวมกันแล้วต้องไม่เกินร้อยละ 9 ของปริมาณการนำเข้าสินค้านั้นโดยรวม&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;รูปแบบและระยะเวลาในการบังคับใช้มาตรการ SG&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;มาตรการปกป้องชั่วคราว (Provisional Measure) หากพิจารณาในเบื้องต้นพบว่า การนำเข้าสินค้าที่เพิ่มขึ้นได้ก่อให้เกิดความเสียหายและเป็นสถานการณ์วิกฤต ซึ่งหากดำเนินการล่าช้าจะก่อให้เกิดผลเสียหาย ยากต่อการแก้ไข ประเทศผู้ใช้มาตรการสามารถใช้มาตรการปกป้องชั่วคราวได้ โดยมีเงื่อนไขดังนี้
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;มาตรการที่ใช้ควรอยู่ในรูปของการเพิ่มอากรขาเข้า เพื่อให้ง่ายต่อการคืนในกรณีที่ไต่สวนแล้วไม่พบความเสียหาย.&lt;/li&gt;
+&lt;li&gt;ระยะเวลาที่ใช้ต้องไม่เกิน 200 วัน&lt;/li&gt;
+&lt;li&gt;หากผลการไต่สวนพบว่าการนำเข้าสินค้าที่เพิ่มขึ้นไม่ได้ก่อให้เกิดความเสียหาย จะต้องคืนอากรที่เรียกเก็บเพิ่มให้แก่ผู้นำเข้า&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;มาตรการปกป้องทั่วไป (Global SG)
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;สามารถดำเนินการใช้มาตรการทางภาษี หรือจำกัดปริมาณการนำเข้า&lt;/li&gt;
+&lt;li&gt;ใช้บังคับได้ในระยะเวลาที่จำเป็น แต่ไม่เกินครั้งละ 4 ปีนับแต่วันประกาศบังคับใช้&lt;/li&gt;
+&lt;li&gt;กรณีจำเป็น สามารถขยายระยะเวลาการใช้มาตรการ ทั้งนี้ ระยะเวลาที่บังคับใช้ทั้งหมดซึ่งรวมทั้งระยะเวลาที่บังคับใช้มาตรการชั่วคราวแล้วต้องไม่เกิน 10 ปี สำหรับประเทศกำลังพัฒนา และ 8 ปีสำหรับประเทศพัฒนาแล้ว&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;ขั้นตอนและกระบวนการใช้มาตรการ SG&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;อุตสาหกรรมภายในยื่นคำร้องขอตามแบบที่กำหนดต่อกรมการค้าต่างประเทศ กระทรวงพาณิชย์ เพื่อขอให้เปิดการไต่สวน&lt;/li&gt;
+&lt;li&gt;กรมการค้าต่างประเทศ พิจารณาคำร้องขอว่ามีมูลหรือไม่ หากมีมูลจะประกาศเปิดการไต่สวน โดยจะต้องแจ้ง WTO เพื่อแจ้งเวียนประเทศสมาชิกทราบ และแจ้งรัฐบาลประเทศ ผู้ส่งออก รวมทั้งจัดส่งแบบสอบถามให้ผู้มีส่วนได้เสีย&lt;/li&gt;
+&lt;li&gt;กรมการค้าต่างประเทศดำเนินการไต่สวนความเสียหาย โดยพิจารณาจากปัจจัยหลัก 8 ปัจจัยที่กล่าวไว้ข้างต้น และปัจจัยอื่นๆ ที่เกี่ยวข้อง (ถ้ามี) และนำเสนอผลการไต่สวนต่อคณะกรรมการพิจารณามาตรการปกป้อง (คปป.) เพื่อวินิจฉัย&lt;/li&gt;
+&lt;li&gt;คปป. วินิจฉัยผลการไต่สวนและนำเสนอ รมว. พาณิชย์พิจารณาเห็นชอบ&lt;/li&gt;
+&lt;li&gt;รมว. พาณิชย์พิจารณาคำวินิจฉัย หากเห็นชอบ กรมการค้าต่างประเทศจะออกประกาศบังคับใช้มาตรการ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;สรุปสถานะมาตรการ SG&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/sg/defend&#34;&gt;รายการสินค้า สินค้าที่ไทยถูกใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/sg/investigate&#34;&gt;รายการสินค้า สินค้าที่ไทยใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ข-อกฎหมาย&#34;&gt;ข้อกฎหมาย&lt;/h2&gt;
+
+&lt;h3 id=&#34;wto&#34;&gt;WTO&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/WXjm7Tqw7dAwxpHoQEPKgUAHNdasBlxx5GB08d00.pdf&#34;&gt;AGREEMENT ON SAFEGUARDS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;พระราชบ-ญญ-ต&#34;&gt;พระราชบัญญัติ&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/NHyQ7X80IJKMa9UAUUb9AESKnkwN4QV3sTmnNP27.pdf&#34;&gt;พระราชบัญญัติมาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2550&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;กฎกระทรวง&#34;&gt;กฎกระทรวง&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/M1fBgL4EfKZ0dEkFwf57GojIvIPGh82qcJvbxPVh.pdf&#34;&gt;กฎกระทรวงพาณิชย์กำหนดหลักเกณฑ์ วิธีการ และเงื่อนไขในการประกาศเผยแพร่ผลคำวินิจฉัยเกี่ยวกับการพิจารณามาตรการปกป้อง พ.ศ. 2553&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/ALOuLMbyIlORXnAFT2MJjsNqYPlnkmltAFpWkrFB.pdf&#34;&gt;กฏกระทรวงพาณิชย์กำหนดหลักเกณฑ์ วิธีการ และเงื่อนไขในการพิจารณาความเสียหายจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2553&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;ประกาศกระทรวงพาณ-ชย&#34;&gt;ประกาศกระทรวงพาณิชย์&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/8l01nHboEL4TpUGiIGyFJHCtE9u5phHneHw5UOxm.pdf&#34;&gt;ประกาศกรมการค้าต่างประเทศ เรื่อง หลักเกณฑ์ของประกาศไต่สวนการนำเข้าสินค้าที่เพิ่มขึ้นและความเสียหาย พ.ศ. 2551&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/AOhmZDNknivSzvE1bXDQJSiYEOFpYbpeTKuyH4dG.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง กำหนดระยะเวลาในการยื่นคำร้องขอขยายเวลาการบังคับใช้มาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ.๒๕๕๘&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/mR8eBmYGEB7MDrXIXqeoQxi76ciSYC3X0Qiw80KV.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไข ในการยื่นคำขอให้พิจารณากำหนดมาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2551&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/BDmY6BDeoiMrEV2MisOEOXyr6vOJPsPLYT5rz9gf.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขในการเสนอหลักฐาน เอกสาร และแสดงความเห็นสนับสนุนหรือโต้แย้งคำขอให้พิจารณากำหนดมาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2551&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9xFqeMlATVis7FXEAhEDG7lrNRTiK2Gwj436Cuo5.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการในการพิจารณาปริมาณการนำเข้าที่ผ่านมาสำหรับการพิจารณากำหนดมาตรการปกป้องโดยการจำกัดปริมาณการนำเข้า พ.ศ. 2551&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/xBhaFjHvs0jXolmmBakYb5lbYalq6eBVpAEF3hYr.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการในการพิจารณาปริมาณการนำเข้าที่ผ่านมาสำหรับการพิจารณากำหนดมาตรการปกป้องโดยการจำกัดปริมาณการนำเข้า พ.ศ. 2551&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/tclDBTSLd8dvOqrbBBHqSCZD2FZ5aNc04sxq1Nb4.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการพิจารณาความเสียหายเพื่อให้เรียกเก็บอากรตอบโต้การทุ่มตลาดและการอุดหนุนตั้งแต่มีการใช้มาตรการชั่วคราว พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/C3yNJseMfTWyfwsOiBdZawHv8w9ZpCRJNzXnAn5N.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ ว่าด้วยการกำหนดมาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น (ฉบับที่ 2) พ.ศ.2548&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/NVfgpPe3YjPZ3L7iufuMgpyUdsIHt5E0pjMoaaTJ.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ ว่าด้วยการกำหนดมาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ.2542&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ข-นตอนการไต-สวน&#34;&gt;ขั้นตอนการไต่สวน&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/sg_step.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;การแก-ต-างเม-อส-นค-าไทยถ-กประเทศค-ค-าฟ-องภายใต-มาตรการ-sg&#34;&gt;การแก้ต่างเมื่อสินค้าไทยถูกประเทศคู่ค้าฟ้องภายใต้มาตรการ SG&lt;/h3&gt;
+
+&lt;p&gt;ในกรณีที่สินค้าจากไทยถูกปรเทศคู่ค้าไต่สวนเพื่อใช้มาตรการ SG กรมการค้าต่างประเทศ กระทรวงพาณิชย์ ในฐานะหน่วยงานที่รับผิดชอบทั้งด้านไต่สวนประเทศคู่ค้าและแก้ต่างเมื่อถูกประเทศคู่ค้าไต่สวน จะร่วมกับผู้ส่งออกและหน่วยงานภาครัฐและเอกชนที่เกี่ยวข้อง ทั้งในและต่างประเทศ เพื่อกำหนดกลยุทธ์และแนวทางการแก้ต่าง และยกประเด็นต่อสู้ตามกระบวนการในแต่ละขั้นตอนของการไต่สวน&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;การดำเนินการของประเทศที่ฟ้องสินค้าไทย&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;แจ้งประกาศเปิดไต่สวนพร้อมเหตุผลในการเปิดต่อ WTO เพื่อให้เวียนประเทศสมาชิกทราบ&lt;/li&gt;
+&lt;li&gt;มีหนังสือแจ้งการเปิดไต่สวนและแบบสอบถามมายังผู้ผลิต / ผู้ส่งออก (ที่ทราบ) โดยตรง&lt;/li&gt;
+&lt;li&gt;มีหนังสือแจ้งการเปิดไต่สวนไปยังสถานทูตไทยประจำประเทศที่เปิดไต่สวน&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;การแก้ต่างของผู้ส่งออก / ผู้ผลิต&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ประสานกรมการค้าต่างประเทศ กระทรวงพาณิชย์ เพื่อหารือกำหนดกลยุทธ์ในการแก้ต่าง / ต่อสู้&lt;/li&gt;
+&lt;li&gt;รวบรวมข้อมูลปริมาณการส่งออกและข้อมูลการนำเข้าสินค้าที่ถูกฟ้องของประเทศที่เปิดไต่สวนในเวลา 3-5 ปี (ตามระยะเวลาของข้อมูลที่ใช้ในการไต่สวน) เพื่อตรวจสอบว่าสินค้าไทยที่ถูกฟ้อง อยู่ในข่ายได้รับการยกเว้นจกการใช้มาตรการตามหลักเกณฑ์ที่กำหนดหรือไม่&lt;/li&gt;
+&lt;li&gt;รวบรวมข้อมูลที่เกี่ยวข้องกับการตอบแบบสอบถาม และเตรียมบุคลากรในการตอบแบบสอบถามดังกล่าว&lt;/li&gt;
+&lt;li&gt;ตรวจสอบกรอบเวลาในการตอบแบบสอบถาม และการเข้าร่วมให้ข้อคิดเห็น เพื่อให้ทันระยะเวลาที่กำหนด&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ที่มา : &lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/ad/investigate&#34;&gt;กองปกป้องและตอบโต้ทางการค้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;วันที่ปรับปรุงล่าสุด : 4 กุมภาพันธ์ 2563&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>นำของเข้าทางบก</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/customs-clearance/road/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/customs-clearance/road/</guid>
       <description>
 
 &lt;h2 id=&#34;1-การรายงานยานพาหนะเข-าและการย-นบ-ญช-ส-นค-าทางบก-car-manifest&#34;&gt;1. การรายงานยานพาหนะเข้าและการยื่นบัญชีสินค้าทางบก (Car Manifest)&lt;/h2&gt;
@@ -3623,9 +4362,9 @@ Half-devil and half-child.&lt;/p&gt;
     
     <item>
       <title>นำของเข้าทางอากาศ</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/customs/import/customs-clearance/air/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/customs-clearance/air/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/customs/import/customs-clearance/air/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/customs-clearance/air/</guid>
       <description>
 
 &lt;ul&gt;
@@ -3646,9 +4385,9 @@ Half-devil and half-child.&lt;/p&gt;
     
     <item>
       <title>นำของเข้าทางเรือ</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/customs/import/customs-clearance/sea/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/customs-clearance/sea/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/customs/import/customs-clearance/sea/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/customs-clearance/sea/</guid>
       <description>
 
 &lt;p&gt;กรมศุลกากรได้พัฒนานำระบบอิเล็กทรอนิกส์ มาใช้ในการบริการผ่านพิธีการศุลกากรซึ่งปัจจุบันเรียกว่าระบบ TCS ผู้ประสงค์จะดำเนินการผ่านพิธีการศุลกากรทางอิเล็กทรอนิกส์จะต้องทำการลงทะเบียนกับกรมศุลกากร เพื่อบันทึกข้อมูลไว้ในฐานข้อมูลระบบคอมพิวเตอร์ของกรมศุลกากร ซึ่งผู้ที่ลงทะเบียนแล้วสามารถเข้าสู่ระบบการผ่านพิธีการศุลกากรทางคอมพิวเตอร์ของตนเองหรือผ่าน SERVICE COUNTER ของเอกชนหรือที่จุดให้บริการของกรมศุลกากร ณ จุดนำเข้า-ส่งออก&lt;/p&gt;
@@ -3759,10 +4498,312 @@ Half-devil and half-child.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Slides</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/slides/example/</link>
+      <title>Dictionary</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/post/dictionary/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/slides/example/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/post/dictionary/</guid>
+      <description>
+
+&lt;p&gt;ในบทนี้ คุณจะได้เรียนรู้เกี่ยวกับโครงสร้างข้อมูล Dictionary ในภาษา Python เราจะแนะนำให้คุณรู้จักกับ Dictionary คืออะไร และการประกาศและใช้งานสำหรับเก็บข้อมูลในการเขียนโปรแกรม นอกจากนี้ เรายังจะพูดถึงการใช้งานเมธอดและ built-in functions ของ Dictionary และตัวอย่างการใช้งานกับการเขียนโปรแกรมใบรูปแบบต่างๆ ในภาษา Python&lt;/p&gt;
+
+&lt;p&gt;Dictionary คือประเภทข้อมูลที่เก็บข้อมูลในรูปแบบคู่ของ Key และ Value โดยที่ Key ใช้สำหรับเป็น Index ในการเข้าถึงข้อมูลและ Value เป็นค่าข้อมูลที่สอดคล้องกับ Key ของมัน การเข้าถึงข้อมูลใน Dictionary นั้นรวดเร็วเพราะว่าข้อมูลได้ถูกทำ Index ไว้อัตโนมัติโดยใช้ Key นอกจากนี้ Dictionary ยังมีเมธอดและฟังก์ชันอำนวยความสะดวกสำหรับการทำงานทั่วไป&lt;/p&gt;
+
+&lt;h2 id=&#34;การประกาศ-dictionary-ในภาษา-python&#34;&gt;การประกาศ Dictionary ในภาษา Python&lt;/h2&gt;
+
+&lt;p&gt;ในการใช้งาน Dictionary เรามักจะใช้เก็บข้อมูลที่สามารถใช้บางอย่างที่สามารถจำแนกข้อมูลออกจากกันได้ โดยกำหนดให้สิ่งนั้นเป็น Key ในการประกาศ Dictionary สมาชิกของมันจะอยู่ภายในวงเล็บปีกกา &lt;code&gt;{}&lt;/code&gt; มาดูตัวอย่างในการประกาศ Dictionary ในภาษา Python&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-text&#34;&gt;scores = {&#39;james&#39;: 1828, &#39;thomas&#39;: 3628, &#39;danny&#39;: 9310}
+scores[&#39;bobby&#39;] = 4401
+
+numbers = {1: &#39;One&#39;, 2: &#39;Two&#39;, 3: &#39;Three&#39;}
+
+print(scores)
+print(numbers)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;ในตัวอย่าง เราได้ประกาศตัวแปร Dictionary ที่มีชื่อว่า &lt;code&gt;scores&lt;/code&gt; สำหรับเก็บคะแนนของแต่ละคนโดยใช้ชื่อเป็น Key และค่าของมันก็คือคะแนน สมาชิกของ Dictionary แต่ละตัวจะถูกกำหนดในรูปแบบ &lt;code&gt;key: value&lt;/code&gt; และคั่นสมาชิกแต่ละตัวด้วยเครื่องหมายคอมมา เราได้กำหนดค่าเริ่มต้นสามค่าให้กับ Dictionary และสามารถกำหนดค่าให้กับ Dictionary ในรูปแบบ &lt;code&gt;scores[&#39;bobby&#39;]&lt;/code&gt; ได้หลังจากที่ตัวแปรถูกสร้างแล้ว สังเกตว่าเราสามารถใช้ Key เป็น String หรือประเภทข้อมูลอื่นๆ ได้ ต่อมาตัวแปร &lt;code&gt;numbers&lt;/code&gt; เป็น Dictionary ที่มี Key เป็นตัวเลข&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-text&#34;&gt;{&#39;james&#39;: 1828, &#39;thomas&#39;: 3628, &#39;danny&#39;: 9310, &#39;bobby&#39;: 4401}
+{1: &#39;One&#39;, 2: &#39;Two&#39;, 3: &#39;Three&#39;}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;นี่เป็นผลลัพธ์ของโปรแกรมในการแสดงผลข้อมูลภายในตัวแปร Dictionary ทั้งสองที่เราได้สร้างขึ้น&lt;/p&gt;
+
+&lt;h2 id=&#34;การเข-าถ-งข-อม-ลภายใน-dictionary&#34;&gt;การเข้าถึงข้อมูลภายใน Dictionary&lt;/h2&gt;
+
+&lt;p&gt;หลังจากที่เราได้ประกาศ Dictionary ไปแล้ว ต่อไปจะการเข้าถึงข้อมูลเพื่ออ่านและอัพเดทข้อมูลโดยผ่านทาง Key ของมัน มาดูตัวอย่างการเข้าถึงข้อมูลใน Dictionary&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;scores = {&#39;james&#39;: 1828, &#39;thomas&#39;: 3628, &#39;danny&#39;: 9310, &#39;bobby&#39;: 4401}
+
+# display data
+print(&#39;james =&amp;gt;&#39;, scores[&#39;james&#39;])
+print(&#39;thomas =&amp;gt;&#39;, scores[&#39;thomas&#39;])
+print(&#39;danny =&amp;gt;&#39;, scores[&#39;danny&#39;])
+print(&#39;bobby =&amp;gt;&#39;, scores[&#39;bobby&#39;])
+
+# update data
+scores[&#39;james&#39;] = scores[&#39;james&#39;] + 1000
+scores[&#39;thomas&#39;] = 100
+
+print(&#39;james =&amp;gt;&#39;, scores[&#39;james&#39;])
+print(&#39;thomas =&amp;gt;&#39;, scores[&#39;thomas&#39;])
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;ในตัวอย่าง เรามีตัวแปร &lt;code&gt;scores&lt;/code&gt; สำหรับเก็บคะแนนของผู้เล่นโดยชื่อเป็น Key ของ Dictionary ในการเข้าถึงข้อมูลนั้นจะใช้ Key ของมัน ในส่วนแรกเป็นการเข้าถึงข้อมูลภายใน Dictionary เพื่อแสดงผลคะแนนของแต่ละ Key ออกมาทางหน้าจอ ต่อมาเป็นการอัพเดทข้อมูลใน Dictionary โดยเราได้เพิ่มค่าให้กับ Key &lt;code&gt;&#39;james&#39;&lt;/code&gt; ขึ้นไปอีก 1000 และกำหนดค่าให้กับ Key &lt;code&gt;&#39;thomas&#39;&lt;/code&gt; เป็น 100 และแสดงผลอีกครั้ง&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;james =&amp;gt; 1828
+thomas =&amp;gt; 3628
+danny =&amp;gt; 9310
+bobby =&amp;gt; 4401
+james =&amp;gt; 2828
+thomas =&amp;gt; 100
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;นี่เป็นผลลัพธ์การทำงานของโปรแกรม ในการเข้าถึงข้อมูลภายใน Dictionary เพื่ออ่านค่าและอัพเดทข้อมูล&lt;/p&gt;
+
+&lt;p&gt;ในการเข้าถึงข้อมูลภายใน Dictionary นั้น คุณต้องตรวจสอบให้แน่ใจว่า Key นั้นมีอยู่จริง ไม่เช่นนั้นโปรแกรมจะเกิดข้อผิดพลาดขึ้น ยกตัวอย่างเช่น&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;scores = {&#39;james&#39;: 1828, &#39;thomas&#39;: 3628, &#39;danny&#39;: 9310, &#39;bobby&#39;: 4401}
+print(scores[&#39;smith&#39;]) # Error
+
+# check if key smith exist
+if &#39;smith&#39; in scores.keys():
+    print(scores[&#39;smith&#39;])
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;ในตัวอย่างข้างบน โปรแกรมจะเกิดความผิดพลาดขึ้นเพราะเราได้เข้าถึง Key &lt;code&gt;&#39;smith&#39;&lt;/code&gt; ซึ่งไม่มีอยู่ใน &lt;code&gt;scores&lt;/code&gt; อย่าไรก็ตาม เราสามารถตรวจว่า Key มีอยู่หรือไม่ได้โดยการใช้คำสั่ง &lt;code&gt;in&lt;/code&gt; เพื่อตรวจสอบจาก Key ในเมธอด &lt;code&gt;keys()&lt;/code&gt; ของ Dictionary&lt;/p&gt;
+
+&lt;h2 id=&#34;การอ-านค-าใน-dictionary-ด-วยคำส-ง-for-loop&#34;&gt;การอ่านค่าใน Dictionary ด้วยคำสั่ง For loop&lt;/h2&gt;
+
+&lt;p&gt;คำสั่ง For loop นั้นเป็นคำสั่งที่ยืดหยุ่นและสามารถใช้งานได้อย่างหลากหลาย ในการอ่านค่าใน Dictionary นั้นเราสามารถใช้ For loop เพื่อวนอ่านค่าทั้ง Key และ Values ใน Dictionary ได้ มาดูตัวอย่างของโปรแกรม&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;countries = {&#39;de&#39;: &#39;Germany&#39;, &#39;ua&#39;: &#39;Ukraine&#39;,
+             &#39;th&#39;: &#39;Thailand&#39;, &#39;nl&#39;: &#39;Netherlands&#39;}
+
+for k, v in countries.items():
+    print(k, v)
+
+# iterate through keys
+print(&#39;Key:&#39;, end = &#39; &#39;)
+for k in countries.keys():
+    print(k, end = &#39; &#39;)
+
+# iterate through values
+print(&#39;\nValue:&#39;, end = &#39; &#39;)
+for v in countries.values():
+    print(v, end = &#39; &#39;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;ในตัวอย่าง เป็นการใช้งานคำสั่ง For loop วนอ่านค่าใน Dictionary ซึ่งมี 3 loop ด้วยกัน ในลูปแรกเป็นการอ่านค่าแบบ Key และ Value ในแต่ละรอบของการทำงานเราเอาข้อมูลใน Dictionary ด้วยเมธอด &lt;code&gt;items()&lt;/code&gt; ซึ่งจะส่งค่ากลับเป็น Key และ Value กับมาและโหลดใส่ในตัวแปร &lt;code&gt;k&lt;/code&gt; และ &lt;code&gt;v&lt;/code&gt; ตามลำดับ&lt;/p&gt;
+
+&lt;p&gt;ในลูปที่สอง เป็นการวนอ่าน Key ทั้งหมดภายใน Dictionary โดยเมธอด &lt;code&gt;keys()&lt;/code&gt; จะส่งค่ากลับเป็น List ของ Key ทั้งหมดและโหลดใส่ในตัวแปร &lt;code&gt;k&lt;/code&gt; แต่ละรอบของลูป และในลูปสุดท้ายนั้นเป็นการอ่าน Value ทั้งหมด และเมธอด &lt;code&gt;values()&lt;/code&gt; เพื่อรับค่าของ Value ทั้งหมดมาและใส่ในตัวแปร &lt;code&gt;v&lt;/code&gt; ในแต่ละรอบของลูป&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;de Germany
+ua Ukraine
+th Thailand
+nl Netherlands
+Key: de ua th nl 
+Value: Germany Ukraine Thailand Netherlands
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;นี่เป็นผลลัพธ์การทำงานของโปรแกรม ในการใช้คำสั่ง For loop เพื่ออ่านข้อมูลใน Dictionary ในภาษา Python&lt;/p&gt;
+
+&lt;h2 id=&#34;python-dictionary-methods&#34;&gt;Python Dictionary methods&lt;/h2&gt;
+
+&lt;p&gt;เช่นเดียวกับข้อมูลประเภทอื่นๆ Dictionary มีเมธอดที่ให้คุณสามารถทำงานกับมันได้ง่ายขึ้น โดยส่วนมากแล้วมักจะเป็นเมธอดในการอัพเดทและรับค่าข้อมูลภายใน Dictionary ต่อไปมาดูตัวอย่างการใช้งานเมธอดของ Dictionary ในภาษา Python&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;countries = {&#39;de&#39;: &#39;Germany&#39;, &#39;ua&#39;: &#39;Ukraine&#39;,
+             &#39;th&#39;: &#39;Thailand&#39;, &#39;nl&#39;: &#39;Netherlands&#39;}
+
+print(countries.keys())
+print(countries.values())
+
+print(countries.get(&#39;de&#39;)) # equal to countries[&#39;de&#39;]
+countries.setdefault(&#39;tr&#39;, &#39;Turkey&#39;)
+
+print(countries.popitem())
+print(countries.popitem())
+
+print(countries.items())
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;ในตัวอย่าง เป็นโปรแกรมในการใช้งานเมธอดของ Dictionary ตัวแปรของเรา &lt;code&gt;countries&lt;/code&gt; มาจากตัวอย่างก่อนหน้าที่มี Key เป็นชื่อย่อของประเทศและ Value เป็นชื่อเต็มของประเทศ เมธอด &lt;code&gt;keys()&lt;/code&gt; ส่งค่ากลับเป็น List ของ Key ทั้งหมดภายใน Dictionary และเมธอด &lt;code&gt;values()&lt;/code&gt; นั้นจะส่งเป็น List ของ Value&lt;/p&gt;
+
+&lt;p&gt;หลังจากนั้นเป็นการเข้าถึงข้อมูลด้วยเมธอด &lt;code&gt;get()&lt;/code&gt; โดยมี Key เป็นอาร์กิวเมนต์ซึ่งผลลัพธ์การทำงานของมันจะเหมือนกับการเข้าถึงข้อมูลโดยตรง เช่น &lt;code&gt;countries[&#39;de&#39;]&lt;/code&gt; และเมธอด &lt;code&gt;setdefault()&lt;/code&gt; ใช้รับค่าจากคีย์ที่กำหนด ถ้าไม่มีจะเป็นการเพิ่มค่าดังกล่าวเข้าไปใน Dictionary และต่อมาเมธอด &lt;code&gt;popitem()&lt;/code&gt; จะนำสมาชิกตัวสุดท้ายออกจาก Dictionary และส่งค่าดังกล่าวกลับมาเป็น Tuple ออบเจ็ค ส่วนเมธอด &lt;code&gt;items()&lt;/code&gt; นั้นจะค่ากลับมาเป็น List ของ Tuple ของออบเจ็คของ Key และ Value ทั้งหมด&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;dict_keys([&#39;de&#39;, &#39;ua&#39;, &#39;th&#39;, &#39;nl&#39;])
+dict_values([&#39;Germany&#39;, &#39;Ukraine&#39;, &#39;Thailand&#39;, &#39;Netherlands&#39;])
+Germany
+(&#39;tr&#39;, &#39;Turkey&#39;)
+(&#39;nl&#39;, &#39;Netherlands&#39;)
+dict_items([(&#39;de&#39;, &#39;Germany&#39;), (&#39;ua&#39;, &#39;Ukraine&#39;), (&#39;th&#39;, &#39;Thailand&#39;)])
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;นี่เป็นผลลัพธ์การทำงานของโปรแกรม ในการใช้เมธอดใน Dictionary ในภาษา Python และจากในตัวอย่างนั้นเป็นเพียงส่วนหนึ่งของเมธอดที่มีเท่านั้น สำหรับเมธอดทั้งหมดใน Dictionary นั้นแสดงดังตารางข้างล่างนี้&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Methods&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;clear()&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ลบข้อมูลทั้งหมดภายใน Dictionary&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;copy()&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;คัดลอก Dictionary ทั้งหมดไปยังอันใหม่&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;get(key[, default])&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ส่งค่าข้อมูลใน Dictionary จาก Key ที่กำหนด ถ้าหากไม่มี Key อยู่และไม่ได้กำหนด default จะทำให้เกิดข้อผิดพลาด KeyError&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;items()&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ส่งค่ากลับเป็นออบเจ็คของ Key และ Value&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;keys()&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ส่งค่ากลับเป็น List ของ Key ทั้งหมดใน Dictionary&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;pop(key[, default])&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ส่งค่ากลับเป็นค่าสุดท้ายใน Dictionary&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;popitem()&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ส่งค่ากลับเป็น Tuple ออบเจ็คของ Key และ Value&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;setdefault(key[, default])&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ส่งค่ากลับเป็นค่าของ Key ที่กำหนด ถ้าหากไม่มี Key อยู่ใส่ข้อมูลเข้าไปใน Dictionary&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;update([other])&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;อัพเดท Dictionary กับคู่ของ Key และ Value จากออบเจ็คอื่น และเขียนทับ Key ที่มีอยู่&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;values()&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ส่งค่ากลับเป็น List ของ Value ทั้งหมดใน Dictionary&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;python-dictionary-functions&#34;&gt;Python Dictionary functions&lt;/h2&gt;
+
+&lt;p&gt;ฟังก์ชันที่เป็นพื้นฐานและสามารถใช้ได้กับโครงสร้างข้อมูลทุกประเภทคือฟังก์ชัน &lt;code&gt;len()&lt;/code&gt; เป็นฟังก์ชันที่ใช้สำหรับนับจำนวนสมาชิกของเจ็ค และ Dictionary ยังมีฟังก์ชัน &lt;code&gt;iter()&lt;/code&gt; ที่ทำงานเหมือนกับเมธอด &lt;code&gt;items()&lt;/code&gt; นี่เป็นตารางของฟังก์ชันที่สามารถใช้ได้กับ Dictionary&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Function&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;len(dict)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ส่งค่ากลับเป็นจำนวนของออบเจ็คใน Dictionary&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;iter(dict)|ส่งค่ากลับเป็นออบเจ็คของ Key และ Value|&lt;/p&gt;
+
+&lt;p&gt;คุณสามารถใช้คำสั่ง &lt;code&gt;del&lt;/code&gt; เพื่อลบข้อมูลภายใน Dictionary ได้ เช่น คำสั่ง &lt;code&gt;del countries[&#39;de&#39;]&lt;/code&gt; เพื่อลบสมาชิกที่มี Key ที่กำหนดออกไป และคำสั่ง &lt;code&gt;del countries&lt;/code&gt; นั้นเป็นการลบทั้งตัวแปร&lt;/p&gt;
+
+&lt;p&gt;ในบทนี้ คุณได้เรียนรู้เกี่ยวกับ Dictionary ในภาษา Python คุณได้ทราบวิธีการสร้างและใช้งาน Dictionary และสถานการณ์ที่เหมาะสมที่จะใช้ข้อมูลประเภทนี้ เราได้แสดงให้เห็นถึงการเข้าถึงข้อมูลภายใน Dictionary แบบพื้นฐานและด้วยการใช้คำสั่งวนซ้ำ For loop รวมถึงการใช้งานเมธอดและฟังก์ชันสำหรับจัดการ Dictionary&lt;/p&gt;
+
+&lt;p&gt;Reference : &lt;a href=&#34;http://marcuscode.com/lang/python/dictionary&#34;&gt;http://marcuscode.com/lang/python/dictionary&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/post/jupyter/</guid>
+      <description>
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
+
+&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+jupyter lab index.ipynb
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
+
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+
+&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;---
+title: My post&#39;s title
+date: 2019-09-01
+
+# Put any other Academic metadata here...
+---
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
+
+&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+
+&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/slides/example/</guid>
       <description>
 
 &lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;

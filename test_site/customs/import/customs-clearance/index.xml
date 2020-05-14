@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>พิธีการการนำเข้าสินค้า | ECS Knowledge Center</title>
-    <link>https://ecs-support.github.io/knowledge-center/temp/customs/import/customs-clearance/</link>
-      <atom:link href="https://ecs-support.github.io/knowledge-center/temp/customs/import/customs-clearance/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/customs-clearance/</link>
+      <atom:link href="https://ecs-support.github.io/knowledge-center/test_site/customs/import/customs-clearance/index.xml" rel="self" type="application/rss+xml" />
     <description>พิธีการการนำเข้าสินค้า</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Little Dragon©2020</copyright><lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ecs-support.github.io/knowledge-center/temp/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ecs-support.github.io/knowledge-center/test_site/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>พิธีการการนำเข้าสินค้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/customs/import/customs-clearance/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/customs-clearance/</link>
     </image>
     
     <item>
       <title>นำของเข้าทางบก</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/customs/import/customs-clearance/road/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/customs-clearance/road/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/customs/import/customs-clearance/road/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/customs-clearance/road/</guid>
       <description>
 
 &lt;h2 id=&#34;1-การรายงานยานพาหนะเข-าและการย-นบ-ญช-ส-นค-าทางบก-car-manifest&#34;&gt;1. การรายงานยานพาหนะเข้าและการยื่นบัญชีสินค้าทางบก (Car Manifest)&lt;/h2&gt;
@@ -96,9 +96,9 @@
     
     <item>
       <title>นำของเข้าทางอากาศ</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/customs/import/customs-clearance/air/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/customs-clearance/air/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/customs/import/customs-clearance/air/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/customs-clearance/air/</guid>
       <description>
 
 &lt;ul&gt;
@@ -119,9 +119,9 @@
     
     <item>
       <title>นำของเข้าทางเรือ</title>
-      <link>https://ecs-support.github.io/knowledge-center/temp/customs/import/customs-clearance/sea/</link>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/customs-clearance/sea/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/temp/customs/import/customs-clearance/sea/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/customs-clearance/sea/</guid>
       <description>
 
 &lt;p&gt;กรมศุลกากรได้พัฒนานำระบบอิเล็กทรอนิกส์ มาใช้ในการบริการผ่านพิธีการศุลกากรซึ่งปัจจุบันเรียกว่าระบบ TCS ผู้ประสงค์จะดำเนินการผ่านพิธีการศุลกากรทางอิเล็กทรอนิกส์จะต้องทำการลงทะเบียนกับกรมศุลกากร เพื่อบันทึกข้อมูลไว้ในฐานข้อมูลระบบคอมพิวเตอร์ของกรมศุลกากร ซึ่งผู้ที่ลงทะเบียนแล้วสามารถเข้าสู่ระบบการผ่านพิธีการศุลกากรทางคอมพิวเตอร์ของตนเองหรือผ่าน SERVICE COUNTER ของเอกชนหรือที่จุดให้บริการของกรมศุลกากร ณ จุดนำเข้า-ส่งออก&lt;/p&gt;
