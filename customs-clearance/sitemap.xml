@@ -275,10 +275,6 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/calculate_excise/</loc>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/import-guide/contact-registration/</loc>
   </url>
   
@@ -287,11 +283,19 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/notifications_price/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/check-data-declalation/</loc>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/restricted-goods/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/import/excise/calculate_excise/</loc>
   </url>
   
   <url>
