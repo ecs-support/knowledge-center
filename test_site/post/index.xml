@@ -547,5 +547,14 @@ date: 2019-09-01
 </description>
     </item>
     
+    <item>
+      <title>Terms</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/post/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/post/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
