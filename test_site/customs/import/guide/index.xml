@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า (e-Import) | ECS</title>
+    <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/</link>
+      <atom:link href="https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/index.xml" rel="self" type="application/rss+xml" />
+    <description>คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า (e-Import)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ecs-support.github.io/knowledge-center/test_site/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า (e-Import)</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/</link>
+    </image>
+    
+    <item>
+      <title>โครงสร้างข้อมูลใบขนสินค้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/data-structure/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/data-structure/</guid>
+      <description>
+
+&lt;h2 id=&#34;โครงสร-างข-อม-ลใบขนส-นค-าขาเข-า&#34;&gt;โครงสร้างข้อมูลใบขนสินค้าขาเข้า&lt;/h2&gt;
+
+&lt;p&gt;โครงสร้างข้อมูลใบขนสินค้าขาเข้า แบ่งได้เป็น 6 ส่วนดังนี้&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;#import-declaration-control&#34;&gt;&lt;strong&gt;Import Declaration Control&lt;/strong&gt;&lt;/a&gt;    ประกอบด้วย  73 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#import-invoice-control&#34;&gt;&lt;strong&gt;Import Invoice Control&lt;/strong&gt;&lt;/a&gt;    ประกอบด้วย  35 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#import-invoice-detail&#34;&gt;&lt;strong&gt;Import Invoice Detail&lt;/strong&gt;&lt;/a&gt;  ประกอบด้วย  76 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#import-invoice-duty&#34;&gt;&lt;strong&gt;Import Invoice Detail (Duty)&lt;/strong&gt;&lt;/a&gt; ประกอบด้วย  14 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#import-invoice-permit&#34;&gt;&lt;strong&gt;Import Invoice Detail (Permit)&lt;/strong&gt;&lt;/a&gt; ประกอบด้วย   3 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#import-invoice-deposit&#34;&gt;&lt;strong&gt;Import Invoice Detail (Deposit)&lt;/strong&gt;&lt;/a&gt;   ประกอบด้วย   2 Fields&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;เง-อนไขการบ-นท-กข-อม-ล&#34;&gt;เงื่อนไขการบันทึกข้อมูล&lt;/h2&gt;
+
+&lt;p&gt;เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;หาก Field ใด กำหนดให้ต้องระบุค่า &lt;strong&gt;(Value = M)&lt;/strong&gt; แต่ผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/li&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A&lt;/li&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)&lt;/li&gt;
+&lt;li&gt;หาก Field ใด กำหนดให้ไม่ต้องระบุค่า &lt;strong&gt;(Value = O)&lt;/strong&gt; และผู้บันทึกไม่สามารถหาข้อมูลได้ ก็ไม่ต้องบันทึกค่าใด ๆ&lt;/li&gt;
+&lt;li&gt;หาก Field ใด กำหนดให้ต้องระบุค่า เมื่อเข้าเงื่อนไขที่กำหนด &lt;strong&gt;(Value = C)&lt;/strong&gt; แต่ผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/li&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A&lt;/li&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;อ-กษรย-อ-ท-ใช-ในการอธ-บายร-ปแบบชน-ดของข-อม-ล&#34;&gt;อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;อักษรย่อ&lt;/th&gt;
+&lt;th&gt;คำอธิบาย&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;n3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวเลข (Numeric Characters) คงที่ คือ 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;a3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษร (Alphabetic Characters) คงที่ คือ 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;an3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษรหรือตัวเลข คงที่ คือ 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;n..3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;a..3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษรความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;an..3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษรหรือตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;n..16,2&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 16 ตัวอักษรรวมความยาวทศนิยมสูงสุด 2 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;import-declaration-control&#34;&gt;Import Declaration Control&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page7.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page8.png&#34; alt=&#34;enter image description here&#34; /&gt;
+&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page9.png&#34; alt=&#34;enter image description here&#34; /&gt;
+&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page10.png&#34; alt=&#34;enter image description here&#34; /&gt;
+&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page11.png&#34; alt=&#34;enter image description here&#34; /&gt;
+&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page12.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page13.png&#34; alt=&#34;enter image description here&#34; /&gt;
+&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page14.png&#34; alt=&#34;enter image description here&#34; /&gt;
+&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page15.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page16.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page17.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page18.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page19.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page20.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page21.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page22.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page23.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page24.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page25.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;import-invoice-control&#34;&gt;Import Invoice Control&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page26.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page27.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page28.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page29.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page30.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;import-invoice-detail&#34;&gt;Import Invoice Detail&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page31.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page32.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page33.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page34.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page35.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page36.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page37.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page38.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page39.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page40.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page41.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page42.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page43.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page44.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;import-invoice-duty&#34;&gt;Import Invoice Duty&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page45.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page46.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page47.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;import-invoice-permit&#34;&gt;Import Invoice Permit&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page48.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page49.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;import-invoice-deposit&#34;&gt;Import Invoice Deposit&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page50.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การตรวจสอบผลการคำนวณมูลค่าเงินนำเข้า เงินบาท และเงินต่างประเทศ ในใบขนสินค้าขาเข้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/calculate-cif/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/calculate-cif/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/img/30-07-2019%2017-04-55.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>รูปแบบเลขที่ใบขนสินค้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/declaration-no/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/declaration-no/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page52.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ประเภทของเอกสาร (Document Type)</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/type-ducument/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/type-ducument/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Type&lt;/th&gt;
+&lt;th&gt;ประเภทของเอกสาร&lt;/th&gt;
+&lt;th&gt;ชนิดเอกสาร&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td&gt;ใบขนสินค้าขาเข้า&lt;/td&gt;
+&lt;td&gt;e-Import&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
+&lt;td&gt;ใบขนสินค้าขาออก&lt;/td&gt;
+&lt;td&gt;e-Export&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;2&lt;/td&gt;
+&lt;td&gt;ใบขนสินค้าผ่านแดน&lt;/td&gt;
+&lt;td&gt;ยังไม่ใช้ระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
+&lt;td&gt;คำร้องขอรับของไปก่อน&lt;/td&gt;
+&lt;td&gt;e-Import&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;4&lt;/td&gt;
+&lt;td&gt;คำร้องขอส่งของออกไปก่อน&lt;/td&gt;
+&lt;td&gt;e-Export&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;5&lt;/td&gt;
+&lt;td&gt;ใบขนสินค้าขาเข้าปากระวาง&lt;/td&gt;
+&lt;td&gt;ยังไม่ใช้ระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;6&lt;/td&gt;
+&lt;td&gt;ใบขนสินค้าพิเศษผ่านแดนขาออก&lt;/td&gt;
+&lt;td&gt;ยังไม่ใช้ระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;7&lt;/td&gt;
+&lt;td&gt;ใบขนสินค้าพิเศษผ่านแดนขาเข้า&lt;/td&gt;
+&lt;td&gt;ยังไม่ใช้ระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;8&lt;/td&gt;
+&lt;td&gt;ใบขนสินค้าถ่ายลำ (ใบแนบ 9)&lt;/td&gt;
+&lt;td&gt;e-Transition (Transhipment) *&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;A&lt;/td&gt;
+&lt;td&gt;ใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ&lt;/td&gt;
+&lt;td&gt;คลังสินค้าทัณฑ์บน /ตามมาตรา 29 / BOI&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;B&lt;/td&gt;
+&lt;td&gt;ใบขนสินค้าขาออกโอนย้ายภายในประเทศ&lt;/td&gt;
+&lt;td&gt;คลังสินค้าทัณฑ์บน /ตามมาตรา 29 / BOI&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;C&lt;/td&gt;
+&lt;td&gt;ใบขนสินค้าขาเข้าโอนย้ายจากเขตปลอดอากร&lt;/td&gt;
+&lt;td&gt;เขตปลอดอากร / Free Zone และ เขตประกอบการเสรี / I-EA-T&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;D&lt;/td&gt;
+&lt;td&gt;ใบขนสินค้าขาออกโอนย้ายเข้าเขตปลอดอากร&lt;/td&gt;
+&lt;td&gt;เขตปลอดอากร / Free Zone และ เขตประกอบการเสรี / I-EA-T&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;P&lt;/td&gt;
+&lt;td&gt;ใบขนสินค้าขาเข้าโอนย้ายชำระภาษีอากร&lt;em&gt;**&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;td&gt;ใบขนสินค้าขาเข้าของเร่งด่วน&lt;em&gt;***&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;e-Express&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Y&lt;/td&gt;
+&lt;td&gt;ใบขนสินค้าขาออกของเร่งด่วน&lt;em&gt;****&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;e-Express&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;หมายเหตุ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;กรณีถ่ายลำในสถานที่เดียวกัน ใน Mode การขนส่งเดียวกัน ใช้ข้อมูล Manifest ขาเข้า Through Cargo  ตัดบัญชีกับ ข้อมูล Manifest ขาออก Through Cargo  ถือเป็นใบขนสินค้าถ่ายลำขาเข้าและใบขนสินค้าถ่ายลำขาออก&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;**&lt;/em&gt;  การขอชำระภาษีอากร เช่น บริโภคภายในประเทศ  เพิกถอนสิทธิประโยชน์เรียกเก็บ อากร BOI  คลังทัณฑ์บนเก็บอากรเศษวัตถุดิบ  การบริจาคของในคลังทัณฑ์บน เก็บอากรเศษวัตถุดิบ ขยะที่มีมูลค่า&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;***&lt;/em&gt; ใช้กับของเร่งด่วนขาเข้าประเภทที่ 1 ประเภทที่ 2 และประเภทที่ 3&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;****&lt;/em&gt; ใช้กับของเร่งด่วนขาออกประเภทที่ 1 และประเภทที่ 2&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การตรวจสอบข้อมูลใบขนสินค้าขาเข้าและขาออก กับระบบทะเบียนผู้มาติดต่อ</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/contact-registration/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/contact-registration/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;การตรวจสอบลายเซ็นอิเล็กทรอนิกส์ (Digital Signature) มีเงื่อนไขดังนี้&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของผู้นำเข้า/ผู้ส่งออก (Company Tax No) หรือ&lt;/li&gt;
+&lt;li&gt;VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของตัวแทนออกของ (Broker Tax No)  หรือ&lt;/li&gt;
+&lt;li&gt;VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของตัวแทนออกของรับจ้างช่วง (Sub Broker Tax Number) หรือ&lt;/li&gt;
+&lt;li&gt;VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของ Company Tax No ของ Registration ID กรณีเป็น Service Counter เท่านั้น
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;การตรวจสอบความสัมพันธ์ของผู้นำเข้า/ผู้ส่งออกกับตัวแทนออกของ ต้องมีการว่าจ้างระหว่าง ผู้นำเข้า/ส่งออกกับตัวแทนออกของ จะตรวจสอบกับระบบทะเบียน ดังนี้&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ผู้นำเข้า/ผู้ส่งออกต้องว่าจ้างตัวแทนออกของ และ&lt;/li&gt;
+&lt;li&gt;ตัวแทนออกของต้องได้รับจ้างผู้นำเข้า/ผู้ส่งออก&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;การตรวจสอบความสัมพันธ์ของตัวแทนออกของรับจ้างช่วง กับตัวแทนออกของที่มีความสัมพันธ์กับ   ผู้นำเข้า/ผู้ส่งออก จะตรวจสอบกับระบบทะเบียน ดังนี้&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ผู้รับจ้างช่วงต้องได้รับการว่าจ้างจากตัวแทนออกของ และ&lt;/li&gt;
+&lt;li&gt;ตัวแทนออกของต้องได้รับจ้างผู้นำเข้า/ผู้ส่งออก และ&lt;/li&gt;
+&lt;li&gt;ผู้นำเข้า/ผู้ส่งออกต้องว่าจ้างตัวแทนออกของ
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;สำหรับกรณีผู้นำเข้า/ผู้ส่งออก มีการมอบอำนาจให้ตัวแทนออกของทำการว่าจ้างช่วงได้&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;การตรวจสอบความสัมพันธ์ของ ผู้จัดการ/ผู้รับมอบอำนาจ (ช่อง Manager ID Card) กับผู้นำเข้า/ผู้ส่งออก หรือตัวแทนออกของ มีการตรวจสอบเฉพาะกรณีที่ส่งข้อมูลผ่านระบบของ Service Counter เท่านั้น จะตรวจสอบกับระบบทะเบียน ดังนี้&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ต้องเป็น ผู้จัดการ/ผู้รับมอบอำนาจ ของ ผู้ส่งออก/ผู้นำเข้า หรือ&lt;/li&gt;
+&lt;li&gt;ต้องเป็น ผู้จัดการ/ผู้รับมอบอำนาจ ของ ตัวแทนออกของ หรือ&lt;/li&gt;
+&lt;li&gt;ต้องเป็น ผู้จัดการ/ผู้รับมอบอำนาจ ของ ตัวแทนออกของผู้รับจ้างช่วง ของ ตัวแทนออกของ&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>วันนำเข้า (Arrival Date)</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/arrival-date/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/arrival-date/</guid>
+      <description>&lt;p&gt;วันนำเข้า (Arrival Date) วันที่นำเข้ามาสำเร็จ ตามมาตรา 50 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560  วันที่นำเข้า ปี ค.ศ. เดือน วัน (CCYYMMDD) ให้กำหนดดังนี้&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ใบขนสินค้าขาเข้า&lt;/strong&gt; ประเภทเอกสาร &lt;strong&gt;0&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;คำร้องขอรับของไปก่อน&lt;/strong&gt; ประเภทเอกสาร &lt;strong&gt;3&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ใบขนสินค้าขาเข้าปากระวาง&lt;/strong&gt; ประเภทเอกสาร &lt;strong&gt;5&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;การนำเข้า&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Mode of Transport&lt;/th&gt;
+&lt;th&gt;วันนำเข้า คือ&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;ทางเรือ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
+&lt;td&gt;วันที่เรือที่นำของเข้ามานั้นได้เข้ามาในเขตท่าที่จะขนถ่ายของขึ้นจากเรือหรือท่าที่มีชื่อส่งของถึง&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ทางรถไฟ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2&lt;/td&gt;
+&lt;td&gt;วันที่รถไฟได้ผ่านเขตแดนเข้ามาในราชอาณาจักร&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ทางรถยนต์&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
+&lt;td&gt;วันที่รถที่นำของเข้ามานั้นได้เข้ามาถึงเขตด่านพรมแดน&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;คนเดินทางบก&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
+&lt;td&gt;วันที่เดินเข้ามาถึงเขตด่านพรมแดน&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ทางเครื่องบิน&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;4&lt;/td&gt;
+&lt;td&gt;วันที่อากาศยานที่นำของเข้ามานั้นได้ถึงสนามบิน ที่เป็นด่านศุลกากร&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ทางไปรษณีย์&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;5&lt;/td&gt;
+&lt;td&gt;วันที่เปิดถุงไปรษณีย์&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ทางท่อขนส่งทางบก /ทางสายส่งไฟฟ้า&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;7&lt;/td&gt;
+&lt;td&gt;วันแรกของเดือนที่มีการขนส่งของทางท่อขนส่งทางบก/ทางสายส่งไฟฟ้า (ให้รวบรวมทำใบขนสินค้าขาเข้าเดือนละฉบับ)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ทางเรือที่เข้าออกด่านศุลกากรทางบก&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;8&lt;/td&gt;
+&lt;td&gt;วันที่เรือมาถึงเขตจอดเรือหรือเขตท่าเรือด่านศุลกากรเช่น ด่านศุลกากรเชียงแสน,ด่านศุลกากรหนองคาย,ด่านศุลกากรแม่สอด&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;เรือเล็กทางทะเล สำหรับด่านศุลกากรทางทะเล&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;8&lt;/td&gt;
+&lt;td&gt;วันที่เรือมาถึงเขตจอดเรือหรือเขตท่าเรือด่านศุลกากร เช่น ด่านศุลกากรระนอง, ด่านศุลกากรคลองใหญ่&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ทางผู้โดยสารนำพาจากอากาศยาน&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;9&lt;/td&gt;
+&lt;td&gt;วันที่อากาศยานที่นำของเข้ามานั้นได้ถึงสนามบินที่เป็นด่านศุลกากร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>เลขที่ใบตราส่ง (Bill of Lading)</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/bill-of-loading-no/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/bill-of-loading-no/</guid>
+      <description>&lt;p&gt;เลขที่ใบตราส่ง 1 (Master Bill of Lading) และเลขที่ใบตราส่ง 2  (House Bill of Lading) ในการจัดทำข้อมูลใบขนสินค้าขาเข้า ให้ระบุ ดังนี้&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;การนำเข้า&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Mode of Transport&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;เลขที่ใบตราส่ง 1 (Master Bill of Lading)&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;เลขที่ใบตราส่ง 2 (House Bill of Lading)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;ทางเรือ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ไม่ต้องระบุ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Bill of Lading&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;ทางรถไฟ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ไม่ต้องระบุ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Bill of Lading&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;ทางรถยนต์&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Received Control No ของ ศ.บ.1&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Item No ของ ศ.บ.1 ส่วนรายการ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;คนเดินทางบก&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Received Control No ของ ศ.บ.1&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Item No ของ ศ.บ.1 ส่วนรายการ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;ทางเครื่องบิน&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;4&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Master Air Waybill&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;House Air Waybill&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;ทางไปรษณีย์&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;5&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ไม่ต้องระบุ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;เลขรายการศุลกากร (Postal No)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;ทางท่อขนส่งทางบก/ทางสายส่งไฟฟ้า&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;7&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Received Control No ของ ศ.บ.1&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Item No ของ ศ.บ.1 ส่วนรายการ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;ทางเรือที่เข้าออกด่านศุลกากรทางบก&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;8&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Received Control No ของ ศ.บ.1&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Item No ของ ศ.บ.1 ส่วนรายการ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;เรือเล็กทางทะเล สำหรับด่านศุลกากรทางทะเล&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;8&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Received Control No ของ ศ.บ.1&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Item No ของ ศ.บ.1 ส่วนรายการ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;ทางผู้โดยสารนำพาจากอากาศยาน&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;9&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ไม่ต้องระบุ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;เลขที่บัญชีสินค้าที่ผู้โดยสารนำพาลงจากอากาศยาน (Passenger Baggage No)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>รหัสสถานที่นำเข้า (Discharge Port )</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/area/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/area/</guid>
+      <description>&lt;p&gt;รหัสสถานที่นำเข้า (Discharge Port ) ให้บันทึกข้อมูลรหัสสถานที่ของศุลกากร ณ ด่านศุลกากร ที่นำของเข้า หรือโรงพักสินค้าหรือที่มั่นคงซึ่งเป็นที่ตรวจและเก็บสินค้าดังกล่าว&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;รหัสสถานที่ตรวจปล่อย (Release Port)&lt;/strong&gt; ให้บันทึกข้อมูล ดังนี้&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;กรณีตรวจปล่อย ณ ด่านศุลกากร ที่นำของเข้า (First Port) รหัสสถานที่ตรวจปล่อย (Release Port)  ให้บันทึกข้อมูลรหัสสถานที่ตรวจปล่อย (Release Port) เป็นด่านศุลกากร ที่นำของเข้า (First Port)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;หากประสงค์จะขออนุญาตขนย้ายสินค้าไปตรวจปล่อย ณ สถานที่อื่นนอกจากเขตด่านศุลกากร ที่นำของเข้า (First Port) ให้บันทึกข้อมูล ดังนี้&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;รหัสสถานที่ตรวจปล่อย (Release Port)  ให้บันทึกข้อมูลรหัสสถานที่ตรวจปล่อย (Release Port) เป็น  ด่านศุลกากร ที่นำของเข้า (First Port)  และ&lt;/li&gt;
+&lt;li&gt;ให้บันทึกค่า &lt;strong&gt;&amp;ldquo;Y&amp;rdquo; ในช่องขออนุญาตเปิดตรวจนอกสถานที่&lt;/strong&gt;  (Inspection request code)&lt;/li&gt;
+&lt;li&gt;หากไม่ติดเงื่อนไขความเสี่ยงระบบจะสั่งการตรวจปล่อยสินค้าโดยไม่ต้องมัดลวด&lt;/li&gt;
+&lt;li&gt;หากติดเงื่อนไขความเสี่ยงระบบจะสั่งการตรวจเป็น “ให้ไปดำเนินการมัดลวด ณ  ด่านศุลกากรที่นำของเข้า” เพื่อนำไปตรวจปล่อยนอกสถานที่ตามที่ระบุข้อมูลไว้ ในช่องรหัสสถานที่ตรวจปล่อยนอกสถานที่ (Outside Release Port)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;กรณีติดเงื่อนไขความเสี่ยง&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;ระบบจะสั่งการตรวจเป็น  &lt;strong&gt;&lt;em&gt;&amp;ldquo;ให้ไปดำเนินการมัดลวด ณ  ด่านศุลกากร ที่นำของเข้า&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; หากพนักงานศุลกากรผู้มีอำนาจหน้าที่
+หรือผู้ที่ได้รับมอบหมายเห็นว่าการเปิดตรวจที่ ด่านศุลกากรที่นำของเข้า (First Port) จะเป็นประโยชน์กว่าให้ทำการเปิดตรวจของ ณ ที่นำของเข้าได้&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>การปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/direct_main/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/direct_main/</guid>
+      <description>&lt;script&gt;
+   var files = &#39;../index.html&#39;
+   document.location = files
+  // location.replace(files)
+  &lt;/script&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
