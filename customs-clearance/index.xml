@@ -428,13 +428,13 @@
     </item>
     
     <item>
-      <title>รายชื่อธนาคาร Bill Payment</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/service/payment/bank_e-bill/</link>
+      <title>รายชื่อธนาคาร e-Payment</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/service/payment/bank_payment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/service/payment/bank_e-bill/</guid>
-      <description> รายชื่อธนาคารที่ให้บริการชำระเงินทางอิเล็กทรอนิกส์ (Bill Payment)  ที่มา : กรมศุลกากร
-ปรับปรุงล่าสุด : 03-04-2563
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/service/payment/bank_payment/</guid>
+      <description> รายชื่อธนาคารที่ให้บริการชำระเงินทางอิเล็กทรอนิกส์ (e-Payment)  ที่มา : กรมศุลกากร
+ปรับปรุงล่าสุด : 15-05-2563
  </description>
     </item>
     
@@ -547,6 +547,17 @@
       
       <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/export/export-guide/part-4/</guid>
       <description>ภาค 4 ของที่ได้รับยกเว้นอากร 1 ภาค 4 รายการสุทธินำกลับ  Re-Importation Certificate = Y (ในส่วนของ Export Declaration Detail) Export Tariff = 1PART4 Privilege Code = 004 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก  2 ภาค 4 รายการนำกลับไปซ่อม  Re-Importation Certificate = Y (ในส่วนของ Export Declaration Detail) Export Tariff = 2PART4 Privilege Code = 004 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก Declaration No = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง ซึ่งนําของเข้ามาครั้งแรก Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง  3 ภาค 4 สิทธิ์ส่งออกทัณฑ์บนนําเข้าชั่วคราว ของที่นําเข้ามาพร้อมกับตน หรือนําเข้ามาเป็นการชั่วคราวและ จะส่งกลับออกไปภายในไม่เกินหกเดือนนับตั้งแต่วันที่นําเข้ามา</description>
+    </item>
+    
+    <item>
+      <title>รายชื่อธนาคาร Bill Payment</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/service/payment/bank_e-bill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/knowledge-center/customs-clearance/docs/service/payment/bank_e-bill/</guid>
+      <description> รายชื่อธนาคารที่ให้บริการชำระเงินทางอิเล็กทรอนิกส์ (Bill Payment)  ที่มา : กรมศุลกากร
+ปรับปรุงล่าสุด : 03-04-2563
+ </description>
     </item>
     
     <item>
