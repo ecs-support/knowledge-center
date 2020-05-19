@@ -288,6 +288,11 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/shipping-marks/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-8/</loc>
     <lastmod>2020-05-09T00:00:00+01:00</lastmod>
   </url>
@@ -298,6 +303,11 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/quantity-weight/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/test_site/book/homo-deus/deus-10/</loc>
     <lastmod>2020-05-09T00:00:00+01:00</lastmod>
   </url>
@@ -305,6 +315,11 @@
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-9/</loc>
     <lastmod>2020-05-09T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/assessment-request-code/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -328,6 +343,11 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/currency-code-exchange-rate/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-12/</loc>
     <lastmod>2020-05-10T00:00:00+01:00</lastmod>
   </url>
@@ -338,8 +358,18 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/merge-item/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-13/</loc>
     <lastmod>2020-05-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/cif-value/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -348,8 +378,18 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/incoterms/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-15/</loc>
     <lastmod>2020-05-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/part-4/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -358,8 +398,18 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/tax-incentives/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-17/</loc>
     <lastmod>2020-05-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/guarantee-argumentative/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -368,8 +418,18 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/guarantee-fuel-fund/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/test_site/book/homo-sapiens/sapiens-19/</loc>
     <lastmod>2020-05-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/gurantee-anti-dumping/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -383,13 +443,48 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/input-duty/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/payment-method/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/argumentative-reason-code/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/type-duty/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/permit-issue-authority/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/checking-mainfest/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/privilege/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/test_site/customs/import/guide/direct_main/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/test_site/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
