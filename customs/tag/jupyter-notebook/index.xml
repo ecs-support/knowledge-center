@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jupyter Notebook | ECS</title>
-    <link>https://ecs-support.github.io/knowledge-center/test_site/tag/jupyter-notebook/</link>
-      <atom:link href="https://ecs-support.github.io/knowledge-center/test_site/tag/jupyter-notebook/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ecs-support.github.io/knowledge-center/customs/tag/jupyter-notebook/</link>
+      <atom:link href="https://ecs-support.github.io/knowledge-center/customs/tag/jupyter-notebook/index.xml" rel="self" type="application/rss+xml" />
     <description>Jupyter Notebook</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ecs-support.github.io/knowledge-center/test_site/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ecs-support.github.io/knowledge-center/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jupyter Notebook</title>
-      <link>https://ecs-support.github.io/knowledge-center/test_site/tag/jupyter-notebook/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/tag/jupyter-notebook/</link>
     </image>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://ecs-support.github.io/knowledge-center/test_site/post/jupyter/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/test_site/post/jupyter/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/post/jupyter/</guid>
       <description>
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
