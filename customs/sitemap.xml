@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/customs-clearance/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/customs-clearance/road/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs/customs/import/</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs/customs/import/import_car/customs_106-2561/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,6 +43,15 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/transit/aticles_transit_01/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/customs-clearance/sea/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/calculate-cif/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url>
@@ -43,6 +67,20 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/data-structure/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/import/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/customs-clearance/air/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs/customs/import/customs-clearance/air/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url>
@@ -50,6 +88,19 @@
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/declaration-no/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/principles-for-recording/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/transit/</loc>
   </url>
   
   <url>
@@ -63,8 +114,18 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/list-of-products/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs/customs/import/reserve-hs/</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/part-4/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,6 +144,11 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/input-tax-incentives/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs/customs/import/import_car/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
   </url>
@@ -93,8 +159,18 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/check-data-declalation/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/area/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/contact-registration/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -103,8 +179,18 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/declaration-no/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/quantity-weight/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/duty-payment/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -118,6 +204,11 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/goods-control-list-structure/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/currency-code-exchange-rate/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
@@ -128,6 +219,11 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/prepare-goods-control-list/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/merge-item/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
@@ -135,6 +231,11 @@
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs/customs/import/excise/excise_announcement_product_list/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/re-export/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -240,6 +341,11 @@
   <url>
     <loc>https://ecs-support.github.io/knowledge-center/customs/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/knowledge-center/customs/customs/export/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
