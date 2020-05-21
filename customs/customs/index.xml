@@ -21,7 +21,7 @@
    var files = &#39;/customs/import/import/index.html&#39;
    document.location = files
   // location.replace(files)
-  &lt;/script&gt;
+&lt;/script&gt;
 </description>
     </item>
     
