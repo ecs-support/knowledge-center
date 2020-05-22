@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export) | ECS Knowledge Center</title>
-    <link>https://example.com/customs/export/</link>
-      <atom:link href="https://example.com/customs/export/index.xml" rel="self" type="application/rss+xml" />
+    <link>/customs/export/</link>
+      <atom:link href="/customs/export/index.xml" rel="self" type="application/rss+xml" />
     <description>การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/images/icon_hu43744f45c14c266b8ced15c1aa1fe7c4_2428_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu43744f45c14c266b8ced15c1aa1fe7c4_2428_512x512_fill_lanczos_center_2.png</url>
       <title>การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export)</title>
-      <link>https://example.com/customs/export/</link>
+      <link>/customs/export/</link>
     </image>
     
     <item>
       <title>การคืนอากรสำหรับของที่นำเข้ามาแล้วส่งกลับออกไป (Re-export)</title>
-      <link>https://example.com/customs/export/re-export/</link>
+      <link>/customs/export/re-export/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/re-export/</guid>
+      <guid>/customs/export/re-export/</guid>
       <description>
 
 &lt;p&gt;ของที่นำเข้ามาในราชอาณาจักรและเสียอากรแล้ว หากส่งกลับออกไปยังเมืองต่างประเทศหรือส่งกลับไปเป็นของใช้สิ้นเปลืองในเรือ เดินทางไปต่างประเทศ สามารถขอคืนเงินอากรขาเข้าที่ชำระไว้แล้วได้ &lt;em&gt;เก้าในสิบส่วน หรือส่วนที่เกินหนึ่งพันบาทของจำนวนที่เรียกเก็บไว้&lt;/em&gt; โดยคำนวณตามใบขนสินค้าขาออกแต่ละฉบับ

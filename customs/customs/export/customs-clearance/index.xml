@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>พิธีการการส่งออกสินค้า | ECS Knowledge Center</title>
-    <link>https://example.com/customs/export/customs-clearance/</link>
-      <atom:link href="https://example.com/customs/export/customs-clearance/index.xml" rel="self" type="application/rss+xml" />
+    <link>/customs/export/customs-clearance/</link>
+      <atom:link href="/customs/export/customs-clearance/index.xml" rel="self" type="application/rss+xml" />
     <description>พิธีการการส่งออกสินค้า</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/images/icon_hu43744f45c14c266b8ced15c1aa1fe7c4_2428_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu43744f45c14c266b8ced15c1aa1fe7c4_2428_512x512_fill_lanczos_center_2.png</url>
       <title>พิธีการการส่งออกสินค้า</title>
-      <link>https://example.com/customs/export/customs-clearance/</link>
+      <link>/customs/export/customs-clearance/</link>
     </image>
     
     <item>
       <title>พิธีการศุลกากรส่งของออกทางบก</title>
-      <link>https://example.com/customs/export/customs-clearance/road/</link>
+      <link>/customs/export/customs-clearance/road/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/customs-clearance/road/</guid>
+      <guid>/customs/export/customs-clearance/road/</guid>
       <description>
 
 &lt;h2 id=&#34;1-การย-นใบขนส-นค-าขาออก&#34;&gt;1. การยื่นใบขนสินค้าขาออก&lt;/h2&gt;
@@ -81,9 +81,9 @@
     
     <item>
       <title>พิธีการศุลกากรส่งของออกทางเรือ</title>
-      <link>https://example.com/customs/export/customs-clearance/sea/</link>
+      <link>/customs/export/customs-clearance/sea/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/customs-clearance/sea/</guid>
+      <guid>/customs/export/customs-clearance/sea/</guid>
       <description>
 
 &lt;p&gt;ในการส่งออกสินค้า ผู้ส่งออกจะต้องปฏิบัติตามกฎหมาย ระเบียบ และประกาศที่กรมศุลกากรและหน่ายงานอื่นๆ ที่เกี่ยวข้องในการส่งออกกำหนดไว้ให้ครบถ้วนเช่นเดียวกับการนำเข้า โดยมีคำแนะนำในการจัดเตรียมเอกสาร เพื่อปฏิบัติตามขั้นตอนพิธีการศุลกากรในการส่งออกสินค้า ดังนี้&lt;/p&gt;
@@ -185,9 +185,9 @@
     
     <item>
       <title>พิธีการศุลกากรส่งของออกทางอากาศ</title>
-      <link>https://example.com/customs/export/customs-clearance/air/</link>
+      <link>/customs/export/customs-clearance/air/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/customs-clearance/air/</guid>
+      <guid>/customs/export/customs-clearance/air/</guid>
       <description>
 
 &lt;h2 id=&#34;การปฏ-บ-ต-พ-ธ-การส-งออกส-นค-า-ณ-สำน-กงานศ-ลกากรตรวจส-นค-าท-าอากาศยานส-วรรณภ-ม&#34;&gt;การปฏิบัติพิธีการส่งออกสินค้า ณ สำนักงานศุลกากรตรวจสินค้าท่าอากาศยานสุวรรณภูมิ&lt;/h2&gt;

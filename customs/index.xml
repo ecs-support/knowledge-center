@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ECS Knowledge Center</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>ECS Knowledge Center</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/images/icon_hu43744f45c14c266b8ced15c1aa1fe7c4_2428_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu43744f45c14c266b8ced15c1aa1fe7c4_2428_512x512_fill_lanczos_center_2.png</url>
       <title>ECS Knowledge Center</title>
-      <link>https://example.com/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>สิทธิประโยชน์ทางภาษีอากร</title>
-      <link>https://example.com/customs/tax_incentive/</link>
+      <link>/customs/tax_incentive/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax_incentive/</guid>
+      <guid>/customs/tax_incentive/</guid>
       <description>&lt;script&gt;
    var files = &#34;../tax-incentive/index.html&#34;
    //document.location = files
@@ -27,9 +27,9 @@
     
     <item>
       <title>พิธีการศุลกากรส่งของออกทางบก</title>
-      <link>https://example.com/customs/export/customs-clearance/road/</link>
+      <link>/customs/export/customs-clearance/road/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/customs-clearance/road/</guid>
+      <guid>/customs/export/customs-clearance/road/</guid>
       <description>
 
 &lt;h2 id=&#34;1-การย-นใบขนส-นค-าขาออก&#34;&gt;1. การยื่นใบขนสินค้าขาออก&lt;/h2&gt;
@@ -94,9 +94,9 @@
     
     <item>
       <title>ข้อพึงรู้พึงระวังเกี่ยวกับกฎว่าด้วยถิ่นกำเนิดสินค้า</title>
-      <link>https://example.com/customs/free-trade-area/checklist/</link>
+      <link>/customs/free-trade-area/checklist/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/free-trade-area/checklist/</guid>
+      <guid>/customs/free-trade-area/checklist/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/e-TaxIncentive/raw/master/img/origin-check-list-01.jpg&#34; alt=&#34;enter image description here&#34; /&gt;
 &lt;img src=&#34;https://github.com/yosarawut/e-TaxIncentive/raw/master/img/origin-check-list-02.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
@@ -115,9 +115,9 @@
     
     <item>
       <title>โครงสร้างข้อมูลใบขนสินค้า</title>
-      <link>https://example.com/customs/import/guide/data-structure/</link>
+      <link>/customs/import/guide/data-structure/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/data-structure/</guid>
+      <guid>/customs/import/guide/data-structure/</guid>
       <description>
 
 &lt;h2 id=&#34;โครงสร-างข-อม-ลใบขนส-นค-าขาเข-า&#34;&gt;โครงสร้างข้อมูลใบขนสินค้าขาเข้า&lt;/h2&gt;
@@ -294,9 +294,9 @@
     
     <item>
       <title>การรับรองถิ่นกำเนิดสินค้าด้วยตนเอง</title>
-      <link>https://example.com/customs/free-trade-area/asean/self-certification/</link>
+      <link>/customs/free-trade-area/asean/self-certification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/free-trade-area/asean/self-certification/</guid>
+      <guid>/customs/free-trade-area/asean/self-certification/</guid>
       <description>
 
 &lt;h1 id=&#34;การร-บรองถ-นกำเน-ดส-นค-าด-วยตนเอง-self-certification&#34;&gt;การรับรองถิ่นกำเนิดสินค้าด้วยตนเอง (Self - Certification)&lt;/h1&gt;
@@ -335,9 +335,9 @@
     
     <item>
       <title>การคืนอากรตามมาตรา 29</title>
-      <link>https://example.com/customs/tax-incentive/section_29/</link>
+      <link>/customs/tax-incentive/section_29/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax-incentive/section_29/</guid>
+      <guid>/customs/tax-incentive/section_29/</guid>
       <description>
 
 &lt;p&gt;การคืนอากรตามมาตรา 29 แห่งพระราชบัญญัติศุลกากร พ.ศ.2560 เป็นการคืนเงินอากรขาเข้าที่ผู้นำของเข้า (ผู้มีสิทธิขอคืนอากร) ที่ได้ชำระไว้ด้วยเงินสดและ/หรือ ใช้หนังสือค้ำประกันของธนาคาร หรือระบบ e-Guarantee หรือ หนังสือค้ำประกันของกระทรวงการคลัง วางประกันแทนการชำระอากรขาเข้าด้วยเงินสด สำหรับของที่นำเข้ามาจากต่างประเทศ เพื่อใช้ผลิต หรือผสม หรือประกอบ หรือบรรจุ หรือดำเนินการด้วยวิธีอื่นใด เป็นของที่ส่งออกไปนอกราชอาณาจักร&lt;strong&gt;ภายใน 1 ปี&lt;/strong&gt; นับแต่&lt;strong&gt;วันที่นำของเข้า&lt;/strong&gt;มาในราชอาณาจักร และต้องยื่นขอคืนอากร &lt;strong&gt;ภายใน 6 เดือน&lt;/strong&gt; นับแต่&lt;strong&gt;วันที่ส่งของออก&lt;/strong&gt;ไป&lt;/p&gt;
@@ -429,9 +429,9 @@
     
     <item>
       <title>บทความทางวิชาการเรื่อง &#34;การผ่านแดนตามพระราชบัญญัติศุลกากร พ.ศ. 2560&#34;</title>
-      <link>https://example.com/customs/transit/aticles_transit_01/</link>
+      <link>/customs/transit/aticles_transit_01/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/transit/aticles_transit_01/</guid>
+      <guid>/customs/transit/aticles_transit_01/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/transit/transitjpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/transit/transitjpg_Page2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -452,9 +452,9 @@
     
     <item>
       <title>พิธีการศุลกากรส่งของออกทางเรือ</title>
-      <link>https://example.com/customs/export/customs-clearance/sea/</link>
+      <link>/customs/export/customs-clearance/sea/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/customs-clearance/sea/</guid>
+      <guid>/customs/export/customs-clearance/sea/</guid>
       <description>
 
 &lt;p&gt;ในการส่งออกสินค้า ผู้ส่งออกจะต้องปฏิบัติตามกฎหมาย ระเบียบ และประกาศที่กรมศุลกากรและหน่ายงานอื่นๆ ที่เกี่ยวข้องในการส่งออกกำหนดไว้ให้ครบถ้วนเช่นเดียวกับการนำเข้า โดยมีคำแนะนำในการจัดเตรียมเอกสาร เพื่อปฏิบัติตามขั้นตอนพิธีการศุลกากรในการส่งออกสินค้า ดังนี้&lt;/p&gt;
@@ -556,9 +556,9 @@
     
     <item>
       <title>ข้อตกลงองค์การการค้าโลก (WTO)</title>
-      <link>https://example.com/customs/free-trade-area/wto/</link>
+      <link>/customs/free-trade-area/wto/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/free-trade-area/wto/</guid>
+      <guid>/customs/free-trade-area/wto/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/wto-logo.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -758,18 +758,18 @@
     
     <item>
       <title>การตรวจสอบผลการคำนวณมูลค่าเงินนำเข้า เงินบาท และเงินต่างประเทศ ในใบขนสินค้าขาเข้า</title>
-      <link>https://example.com/customs/import/guide/calculate-cif/</link>
+      <link>/customs/import/guide/calculate-cif/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/calculate-cif/</guid>
+      <guid>/customs/import/guide/calculate-cif/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/img/30-07-2019%2017-04-55.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>โครงสร้างข้อมูลใบขนสินค้าขาออก</title>
-      <link>https://example.com/customs/export/export-guide/data-structure/</link>
+      <link>/customs/export/export-guide/data-structure/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/export-guide/data-structure/</guid>
+      <guid>/customs/export/export-guide/data-structure/</guid>
       <description>
 
 &lt;h2 id=&#34;โครงสร-างข-อม-ล&#34;&gt;โครงสร้างข้อมูล&lt;/h2&gt;
@@ -936,9 +936,9 @@
     
     <item>
       <title>คลังสินค้าทัณฑ์บน (Bonded Warehouse)</title>
-      <link>https://example.com/customs/tax-incentive/bond/</link>
+      <link>/customs/tax-incentive/bond/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax-incentive/bond/</guid>
+      <guid>/customs/tax-incentive/bond/</guid>
       <description>
 
 &lt;p&gt;จัดตั้งขึ้นเพื่อประโยชน์ในการเก็บรักษาของที่นำเข้าจากต่างประเทศ การบรรจุหรือแบ่งบรรจุ การขนถ่ายสินค้า การกระจายสินค้า และเพื่อกิจการอื่น ๆ ที่อธิบดีกรมศุลกากรเห็นสมควรอันจะเป็นการช่วยสนับสนุนการผลิต การประกอบอุตสาหกรรม และการค้าระหว่างประเทศให้มีประสิทธิภาพมากยิ่งขึ้น&lt;/p&gt;
@@ -1223,9 +1223,9 @@
     
     <item>
       <title>พิธีการศุลกากรส่งของออกทางอากาศ</title>
-      <link>https://example.com/customs/export/customs-clearance/air/</link>
+      <link>/customs/export/customs-clearance/air/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/customs-clearance/air/</guid>
+      <guid>/customs/export/customs-clearance/air/</guid>
       <description>
 
 &lt;h2 id=&#34;การปฏ-บ-ต-พ-ธ-การส-งออกส-นค-า-ณ-สำน-กงานศ-ลกากรตรวจส-นค-าท-าอากาศยานส-วรรณภ-ม&#34;&gt;การปฏิบัติพิธีการส่งออกสินค้า ณ สำนักงานศุลกากรตรวจสินค้าท่าอากาศยานสุวรรณภูมิ&lt;/h2&gt;
@@ -1354,9 +1354,9 @@
     
     <item>
       <title>นำของเข้าทางบก</title>
-      <link>https://example.com/customs/import/customs-clearance/road/</link>
+      <link>/customs/import/customs-clearance/road/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/customs-clearance/road/</guid>
+      <guid>/customs/import/customs-clearance/road/</guid>
       <description>
 
 &lt;h2 id=&#34;1-การรายงานยานพาหนะเข-าและการย-นบ-ญช-ส-นค-าทางบก-car-manifest&#34;&gt;1. การรายงานยานพาหนะเข้าและการยื่นบัญชีสินค้าทางบก (Car Manifest)&lt;/h2&gt;
@@ -1436,18 +1436,18 @@
     
     <item>
       <title>รูปแบบเลขที่ใบขนสินค้า</title>
-      <link>https://example.com/customs/import/guide/declaration-no/</link>
+      <link>/customs/import/guide/declaration-no/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/declaration-no/</guid>
+      <guid>/customs/import/guide/declaration-no/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page52.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>หลักการบันทึกข้อมูลใบขนสินค้าขาออก</title>
-      <link>https://example.com/customs/export/export-guide/principles-for-recording/</link>
+      <link>/customs/export/export-guide/principles-for-recording/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/export-guide/principles-for-recording/</guid>
+      <guid>/customs/export/export-guide/principles-for-recording/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;สามารถใช้สิทธิ์ Freezone, I-EAT Free Zone, Bond เพียงอย่างใดอย่างหนึ่งในแต่ละรายการของ
 ใบขนสินค้า (บันทึกการขอใช้สิทธิ์ในส่วนของ Export Declaration Control)&lt;/li&gt;
@@ -1464,9 +1464,9 @@
     
     <item>
       <title>พิธีการการส่งออกสินค้า</title>
-      <link>https://example.com/customs/export/</link>
+      <link>/customs/export/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/</guid>
+      <guid>/customs/export/</guid>
       <description>&lt;script&gt;
    var files = &#34;../export/index.html&#34;
    //document.location = files
@@ -1477,9 +1477,9 @@
     
     <item>
       <title>เขตการค้าเสรีอาเซียน - จีน (ASEAN - China Free Trade Agreement)</title>
-      <link>https://example.com/customs/free-trade-area/acn/</link>
+      <link>/customs/free-trade-area/acn/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/free-trade-area/acn/</guid>
+      <guid>/customs/free-trade-area/acn/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://supplychainasia.org/wp-content/uploads/2017/07/China-ASEAN-trade-to-hit-US1tr-by-2020.jpg&#34; alt=&#34;ภาพโดย : supplychainasia.org&#34; /&gt;&lt;/p&gt;
@@ -1634,9 +1634,9 @@
     
     <item>
       <title>เขตปลอดอากร (Freezone)</title>
-      <link>https://example.com/customs/tax-incentive/freezone/</link>
+      <link>/customs/tax-incentive/freezone/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax-incentive/freezone/</guid>
+      <guid>/customs/tax-incentive/freezone/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;เขตปลอดอากร&lt;/strong&gt; คือ เขตพื้นที่ที่กำหนดไว้ เพื่อประโยชน์ทางอากรศุลกากรในการประกอบอุตสาหกรรม พาณิชยกรรม หรือกิจการอื่นที่เป็นประโยชน์แก่การเศรษฐกิจของประเทศ โดยผู้ที่ประสงค์จะจัดตั้งเขตปลอดอากรต้องได้รับใบอนุญาตจากอธิบดี&lt;/p&gt;
@@ -1777,9 +1777,9 @@
     
     <item>
       <title>นำของเข้าทางเรือ</title>
-      <link>https://example.com/customs/import/customs-clearance/sea/</link>
+      <link>/customs/import/customs-clearance/sea/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/customs-clearance/sea/</guid>
+      <guid>/customs/import/customs-clearance/sea/</guid>
       <description>
 
 &lt;p&gt;กรมศุลกากรได้พัฒนานำระบบอิเล็กทรอนิกส์ มาใช้ในการบริการผ่านพิธีการศุลกากรซึ่งปัจจุบันเรียกว่าระบบ TCS ผู้ประสงค์จะดำเนินการผ่านพิธีการศุลกากรทางอิเล็กทรอนิกส์จะต้องทำการลงทะเบียนกับกรมศุลกากร เพื่อบันทึกข้อมูลไว้ในฐานข้อมูลระบบคอมพิวเตอร์ของกรมศุลกากร ซึ่งผู้ที่ลงทะเบียนแล้วสามารถเข้าสู่ระบบการผ่านพิธีการศุลกากรทางคอมพิวเตอร์ของตนเองหรือผ่าน SERVICE COUNTER ของเอกชนหรือที่จุดให้บริการของกรมศุลกากร ณ จุดนำเข้า-ส่งออก&lt;/p&gt;
@@ -1892,9 +1892,9 @@
     
     <item>
       <title>ประเภทของเอกสาร (Document Type)</title>
-      <link>https://example.com/customs/import/guide/type-ducument/</link>
+      <link>/customs/import/guide/type-ducument/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/type-ducument/</guid>
+      <guid>/customs/import/guide/type-ducument/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -2017,9 +2017,9 @@
     
     <item>
       <title>หลักการรวมรายการสินค้า</title>
-      <link>https://example.com/customs/export/export-guide/list-of-products/</link>
+      <link>/customs/export/export-guide/list-of-products/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/export-guide/list-of-products/</guid>
+      <guid>/customs/export/export-guide/list-of-products/</guid>
       <description>
 
 &lt;h2 id=&#34;ใช-ส-ทธ-ตามมาตรา-29&#34;&gt;ใช้สิทธิ์ตามมาตรา 29&lt;/h2&gt;
@@ -2054,9 +2054,9 @@
     
     <item>
       <title>เขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี (ASEAN - Korea Free Trade Agreement)</title>
-      <link>https://example.com/customs/free-trade-area/ak/</link>
+      <link>/customs/free-trade-area/ak/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/free-trade-area/ak/</guid>
+      <guid>/customs/free-trade-area/ak/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/asian-korea.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -2205,9 +2205,9 @@
     
     <item>
       <title>เขตประกอบการเสรี (I-EAT)</title>
-      <link>https://example.com/customs/tax-incentive/ieat/</link>
+      <link>/customs/tax-incentive/ieat/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax-incentive/ieat/</guid>
+      <guid>/customs/tax-incentive/ieat/</guid>
       <description>
 
 &lt;h2 id=&#34;หล-กการท-วไป&#34;&gt;หลักการทั่วไป&lt;/h2&gt;
@@ -2349,9 +2349,9 @@
     
     <item>
       <title>นำของเข้าทางอากาศ</title>
-      <link>https://example.com/customs/import/customs-clearance/air/</link>
+      <link>/customs/import/customs-clearance/air/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/customs-clearance/air/</guid>
+      <guid>/customs/import/customs-clearance/air/</guid>
       <description>
 
 &lt;ul&gt;
@@ -2372,9 +2372,9 @@
     
     <item>
       <title>ภาค 4 ของที่ได้รับยกเว้นอากร</title>
-      <link>https://example.com/customs/export/export-guide/part-4/</link>
+      <link>/customs/export/export-guide/part-4/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/export-guide/part-4/</guid>
+      <guid>/customs/export/export-guide/part-4/</guid>
       <description>
 
 &lt;h2 id=&#34;1-ภาค-4-รายการส-ทธ-นำกล-บ&#34;&gt;1 ภาค 4 รายการสุทธินำกลับ&lt;/h2&gt;
@@ -2436,9 +2436,9 @@
     
     <item>
       <title>การตรวจสอบข้อมูลใบขนสินค้าขาเข้าและขาออก กับระบบทะเบียนผู้มาติดต่อ</title>
-      <link>https://example.com/customs/import/guide/contact-registration/</link>
+      <link>/customs/import/guide/contact-registration/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/contact-registration/</guid>
+      <guid>/customs/import/guide/contact-registration/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;การตรวจสอบลายเซ็นอิเล็กทรอนิกส์ (Digital Signature) มีเงื่อนไขดังนี้&lt;/p&gt;
 
@@ -2483,9 +2483,9 @@
     
     <item>
       <title>การชดเชยค่าภาษีอากรสำหรับสินค้าส่งออกที่ผลิตในราชอาณาจักร (FREETRADE ZONE)</title>
-      <link>https://example.com/customs/tax-incentive/compensate/</link>
+      <link>/customs/tax-incentive/compensate/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax-incentive/compensate/</guid>
+      <guid>/customs/tax-incentive/compensate/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/export-freezone-11-03-20.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -2758,9 +2758,9 @@
     
     <item>
       <title>วันนำเข้า (Arrival Date)</title>
-      <link>https://example.com/customs/import/guide/arrival-date/</link>
+      <link>/customs/import/guide/arrival-date/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/arrival-date/</guid>
+      <guid>/customs/import/guide/arrival-date/</guid>
       <description>&lt;p&gt;วันนำเข้า (Arrival Date) วันที่นำเข้ามาสำเร็จ ตามมาตรา 50 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560  วันที่นำเข้า ปี ค.ศ. เดือน วัน (CCYYMMDD) ให้กำหนดดังนี้&lt;/p&gt;
 
 &lt;ul&gt;
@@ -2845,9 +2845,9 @@
     
     <item>
       <title>สิทธิประโยชน์ทางภาษีอากร</title>
-      <link>https://example.com/customs/export/export-guide/input-tax-incentives/</link>
+      <link>/customs/export/export-guide/input-tax-incentives/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/export-guide/input-tax-incentives/</guid>
+      <guid>/customs/export/export-guide/input-tax-incentives/</guid>
       <description>
 
 &lt;h2 id=&#34;re-export&#34;&gt;Re-Export&lt;/h2&gt;
@@ -2957,9 +2957,9 @@
     
     <item>
       <title>เลขที่ใบตราส่ง (Bill of Lading)</title>
-      <link>https://example.com/customs/import/guide/bill-of-loading-no/</link>
+      <link>/customs/import/guide/bill-of-loading-no/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/bill-of-loading-no/</guid>
+      <guid>/customs/import/guide/bill-of-loading-no/</guid>
       <description>&lt;p&gt;เลขที่ใบตราส่ง 1 (Master Bill of Lading) และเลขที่ใบตราส่ง 2  (House Bill of Lading) ในการจัดทำข้อมูลใบขนสินค้าขาเข้า ให้ระบุ ดังนี้&lt;/p&gt;
 
 &lt;table&gt;
@@ -3049,9 +3049,9 @@
     
     <item>
       <title>การตรวจสอบข้อมูลใบขนสินค้าขาออก</title>
-      <link>https://example.com/customs/export/export-guide/check-data-declalation/</link>
+      <link>/customs/export/export-guide/check-data-declalation/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/export-guide/check-data-declalation/</guid>
+      <guid>/customs/export/export-guide/check-data-declalation/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;การตรวจสอบความถูกต้องเบื้องต้น ระบบคอมพิวเตอร์ของศุลกากรจะตรวจสอบความถูกต้อง
 เบื้องต้นกับแฟ้มข้อมูลอ้างอิง และกับข้อมูลการอนุมัติ/อนุญาตตามกฎหมายที่เกี่ยวข้อง&lt;/li&gt;
@@ -3067,9 +3067,9 @@
     
     <item>
       <title>ระบบตัดบัญชีวัตถุดิบแบบไร้เอกสาร</title>
-      <link>https://example.com/customs/tax-incentive/boi/boi-raw-material/</link>
+      <link>/customs/tax-incentive/boi/boi-raw-material/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax-incentive/boi/boi-raw-material/</guid>
+      <guid>/customs/tax-incentive/boi/boi-raw-material/</guid>
       <description>
 
 &lt;p&gt;สำนักงานคณะกรรมการส่งเสริมการลงทุน (BOI) ได้กำหนดให้ใช้ &lt;strong&gt;&amp;ldquo;ระบบตัดบัญชีวัตถุดิบแบบไร้เอกสาร&amp;rdquo;&lt;/strong&gt; สำหรับใบขนสินค้าขาออกที่ส่งออกตั้งแต่ &lt;em&gt;วันที่ 1 ตุลาคม 2561&lt;/em&gt; เป็นต้นมา ซึ่งระบบดังกล่าวจะใช้ข้อมูลใบขนสินค้าขาออก ของกรมศุลกากร ในการยืนยันการส่งออกสินค้าไปนอกราชอาณาจักร เพื่อสามารถตัดบัญชีวัตถุดิบให้ผู้ประกอบการได้โดยอัตโนมัติ&lt;/p&gt;
@@ -3127,9 +3127,9 @@
     
     <item>
       <title>รหัสสถานที่นำเข้า (Discharge Port )</title>
-      <link>https://example.com/customs/import/guide/area/</link>
+      <link>/customs/import/guide/area/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/area/</guid>
+      <guid>/customs/import/guide/area/</guid>
       <description>&lt;p&gt;รหัสสถานที่นำเข้า (Discharge Port ) ให้บันทึกข้อมูลรหัสสถานที่ของศุลกากร ณ ด่านศุลกากร ที่นำของเข้า หรือโรงพักสินค้าหรือที่มั่นคงซึ่งเป็นที่ตรวจและเก็บสินค้าดังกล่าว&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;รหัสสถานที่ตรวจปล่อย (Release Port)&lt;/strong&gt; ให้บันทึกข้อมูล ดังนี้&lt;/p&gt;
@@ -3160,9 +3160,9 @@
     
     <item>
       <title>การตรวจสอบข้อมูลใบขนสินค้า กับระบบทะเบียนผู้มาติดต่อ</title>
-      <link>https://example.com/customs/export/export-guide/contact-registration/</link>
+      <link>/customs/export/export-guide/contact-registration/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/export-guide/contact-registration/</guid>
+      <guid>/customs/export/export-guide/contact-registration/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;การตรวจสอบลายเซ็นอิเล็กทรอนิกส์ (Digital Signature)&lt;/strong&gt; มีเงื่อนไขดังนี้&lt;/p&gt;
 
@@ -3207,9 +3207,9 @@
     
     <item>
       <title>การปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป</title>
-      <link>https://example.com/customs/import/import_car/customs_106-2561/</link>
+      <link>/customs/import/import_car/customs_106-2561/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/import_car/customs_106-2561/</guid>
+      <guid>/customs/import/import_car/customs_106-2561/</guid>
       <description>
 
 &lt;h1 id=&#34;การปฏ-บ-ต-พ-ธ-การศ-ลกากรนำเข-าทางอ-เล-กทรอน-กส-ว-าด-วยรถยนต-สำเร-จร-ป&#34;&gt;การปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป&lt;/h1&gt;
@@ -3253,9 +3253,9 @@
     
     <item>
       <title>การคืนอากรสำหรับของที่นำเข้ามาแล้วส่งกลับออกไป (Re-export)</title>
-      <link>https://example.com/customs/tax-incentive/re-export/</link>
+      <link>/customs/tax-incentive/re-export/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax-incentive/re-export/</guid>
+      <guid>/customs/tax-incentive/re-export/</guid>
       <description>
 
 &lt;p&gt;ของที่นำเข้ามาในราชอาณาจักรและเสียอากรแล้ว หากส่งของนั้นกลับออกไปนอกราชอาณาจักร หรือส่งไปเป็นของใช้สิ้นเปลืองในเรือหรืออากาศยาน ที่เดินทางออกไปนอกราชอาณาจักรให้มีสิทธิขอคืนอากรขาเข้าสำหรับของนั้นเก้าในสิบส่วน หรือส่วนที่เกินหนึ่งพันบาทของจำนวนที่ได้เรียกเก็บไว้โดยคำนวณตาม
@@ -3335,9 +3335,9 @@
     
     <item>
       <title>เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks)</title>
-      <link>https://example.com/customs/import/guide/shipping-marks/</link>
+      <link>/customs/import/guide/shipping-marks/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/shipping-marks/</guid>
+      <guid>/customs/import/guide/shipping-marks/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks) ต้องสำแดงเครื่องหมายและเลขหมายหีบห่อให้ตรงกับความเป็นจริง ซึ่งจะต้องตรงกับใบตราส่งสินค้า โดยให้สำแดง ดังนี้&lt;/p&gt;
 
@@ -3368,9 +3368,9 @@
     
     <item>
       <title>คู่มือสำหรับประชาชนของกรมสรรพสามิต ตามพระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560</title>
-      <link>https://example.com/customs/import/excise/excise_announcement_list/</link>
+      <link>/customs/import/excise/excise_announcement_list/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/excise/excise_announcement_list/</guid>
+      <guid>/customs/import/excise/excise_announcement_list/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;(6 งาน 65 กระบวนงาน)&lt;/strong&gt;&lt;/p&gt;
@@ -3483,18 +3483,18 @@
     
     <item>
       <title>รูปแบบเลขที่ใบขนสินค้า</title>
-      <link>https://example.com/customs/export/export-guide/declaration-no/</link>
+      <link>/customs/export/export-guide/declaration-no/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/export-guide/declaration-no/</guid>
+      <guid>/customs/export/export-guide/declaration-no/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page49.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ไทย-ญี่ปุ่น (JTEPA)</title>
-      <link>https://example.com/customs/free-trade-area/jtepa/</link>
+      <link>/customs/free-trade-area/jtepa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/free-trade-area/jtepa/</guid>
+      <guid>/customs/free-trade-area/jtepa/</guid>
       <description>
 
 &lt;h1 id=&#34;ความตกลงห-นส-วนเศรษฐก-จท-ใกล-ช-ดไทย-ญ-ป-น-japan-thailand-economic-partnership-agreement-jtepa&#34;&gt;ความตกลงหุ้นส่วนเศรษฐกิจที่ใกล้ชิดไทย-ญี่ปุ่น (Japan-Thailand Economic Partnership Agreement: JTEPA)&lt;/h1&gt;
@@ -3621,9 +3621,9 @@
     
     <item>
       <title>จำนวนและน้ำหนักของสินค้า</title>
-      <link>https://example.com/customs/import/guide/quantity-weight/</link>
+      <link>/customs/import/guide/quantity-weight/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/quantity-weight/</guid>
+      <guid>/customs/import/guide/quantity-weight/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;จำนวนหีบห่อรวม (Total Package Amount) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน หากสินค้ามีหลายลักษณะรวมกัน ให้ระบุจำนวนหีบห่อรวม&lt;/li&gt;
 &lt;li&gt;ลักษณะหีบห่อรวม (Total Package Unit Code) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน UNECE Recommendation 21 หากสินค้ามีหลายลักษณะรวมกัน เช่น กล่อง Roll Drum ให้ระบุหน่วยเป็น &lt;strong&gt;&amp;ldquo;PK&amp;rdquo;&lt;/strong&gt;&lt;/li&gt;
@@ -3639,9 +3639,9 @@
     
     <item>
       <title>ประกาศกรมสรรพสามิต แยกตามประเภทสินค้าและบริการ</title>
-      <link>https://example.com/customs/import/excise/excise_announcement_product_list/</link>
+      <link>/customs/import/excise/excise_announcement_product_list/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/excise/excise_announcement_product_list/</guid>
+      <guid>/customs/import/excise/excise_announcement_product_list/</guid>
       <description>
 
 &lt;h2 id=&#34;ประกาศกรมสรรพสาม-ตท-ออกตามความในกฎกระทรวงกำหนดพ-ก-ดอ-ตราภาษ-สรรพสาม-ต-พ-ศ-2560-และท-แก-ไขเพ-มเต-ม-รวมถ-งประกาศ-ระเบ-ยบ-คำส-งอ-น-ๆ-ท-เก-ยวข-อง-แยกตามประเภทส-นค-าและบร-การ&#34;&gt;ประกาศกรมสรรพสามิตที่ออกตามความในกฎกระทรวงกำหนดพิกัดอัตราภาษีสรรพสามิต พ.ศ. 2560 และที่แก้ไขเพิ่มเติม รวมถึงประกาศ/ระเบียบ/คำสั่งอื่น ๆ ที่เกี่ยวข้อง แยกตามประเภทสินค้าและบริการ&lt;/h2&gt;
@@ -3791,9 +3791,9 @@
     
     <item>
       <title>การชําระภาษีอากร</title>
-      <link>https://example.com/customs/export/export-guide/duty-payment/</link>
+      <link>/customs/export/export-guide/duty-payment/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/export-guide/duty-payment/</guid>
+      <guid>/customs/export/export-guide/duty-payment/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;การบันทึกข้อมูลการชําระภาษีอากรผ่านธนาคาร&lt;/li&gt;
 &lt;li&gt;การวางคํ้าประกันของธนาคาร เมื่อผู้ส่งของออกดําเนินการตั้งภาระค้ำประกันตามมาตรฐานที่กรมศุลกากรกําหนดแล้ว ระบบคอมพิวเตอร์ของศุลกากรจะออกเลขที่รับประกันธนาคาร พร้อมกับเปลี่ยนสถานะ ใบขนสินค้าขาออกเป็น &lt;strong&gt;“ใบขนสินค้าที่ชําระค่าภาษีอากรแล้ว”&lt;/strong&gt; โดยอัตโนมัติ&lt;/li&gt;
@@ -3808,9 +3808,9 @@
     
     <item>
       <title>มีปัญหาในเรื่องต่าง ๆ ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า (Assessment Request Code)</title>
-      <link>https://example.com/customs/import/guide/assessment-request-code/</link>
+      <link>/customs/import/guide/assessment-request-code/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/assessment-request-code/</guid>
+      <guid>/customs/import/guide/assessment-request-code/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;ldquo;Assessment Request Code&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&amp;ldquo;มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ ด่านศุลกากร ที่นำเข้า&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
@@ -3836,9 +3836,9 @@
     
     <item>
       <title>สืบค้นรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์</title>
-      <link>https://example.com/customs/import/excise/search_by_product/</link>
+      <link>/customs/import/excise/search_by_product/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/excise/search_by_product/</guid>
+      <guid>/customs/import/excise/search_by_product/</guid>
       <description>&lt;p&gt;&lt;strong&gt;สืบค้นตามชนิดสินค้า&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
@@ -3941,9 +3941,9 @@
     
     <item>
       <title>โครงสร้างข้อมูลใบกำกับการขนย้ายสินค้า</title>
-      <link>https://example.com/customs/export/export-guide/goods-control-list-structure/</link>
+      <link>/customs/export/export-guide/goods-control-list-structure/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/export-guide/goods-control-list-structure/</guid>
+      <guid>/customs/export/export-guide/goods-control-list-structure/</guid>
       <description>
 
 &lt;h2 id=&#34;ใบก-าก-บการขนย-ายส-นค-า-แบ-งออกเป-น-2-ส-วน-ได-แก&#34;&gt;ใบกํากับการขนย้ายสินค้า แบ่งออกเป็น 2 ส่วน ได้แก่&lt;/h2&gt;
@@ -4038,9 +4038,9 @@
     
     <item>
       <title>รหัสสกุลเงินตราและอัตราแลกเปลี่ยน</title>
-      <link>https://example.com/customs/import/guide/currency-code-exchange-rate/</link>
+      <link>/customs/import/guide/currency-code-exchange-rate/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/currency-code-exchange-rate/</guid>
+      <guid>/customs/import/guide/currency-code-exchange-rate/</guid>
       <description>
 
 &lt;h2 id=&#34;รห-สสก-ลเง-นตรา-currency-code&#34;&gt;รหัสสกุลเงินตรา (Currency Code)&lt;/h2&gt;
@@ -4087,9 +4087,9 @@
     
     <item>
       <title>โครงสร้างราคาขายปลีกแนะนำ</title>
-      <link>https://example.com/customs/import/excise/price_structure/</link>
+      <link>/customs/import/excise/price_structure/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/excise/price_structure/</guid>
+      <guid>/customs/import/excise/price_structure/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;ต้นทุนการผลิต&lt;/strong&gt;&lt;/p&gt;
 
@@ -4115,9 +4115,9 @@
     
     <item>
       <title>การจัดทําข้อมูลใบกํากับการขนย้ายสินค้า</title>
-      <link>https://example.com/customs/export/export-guide/prepare-goods-control-list/</link>
+      <link>/customs/export/export-guide/prepare-goods-control-list/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/export-guide/prepare-goods-control-list/</guid>
+      <guid>/customs/export/export-guide/prepare-goods-control-list/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page65.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -4186,9 +4186,9 @@
     
     <item>
       <title>หลักการรวมรายการสินค้า</title>
-      <link>https://example.com/customs/import/guide/merge-item/</link>
+      <link>/customs/import/guide/merge-item/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/merge-item/</guid>
+      <guid>/customs/import/guide/merge-item/</guid>
       <description>
 
 &lt;ol&gt;
@@ -4245,18 +4245,18 @@
     
     <item>
       <title>หลักเกณฑ์ วิธีการ แจ้งราคาขายปลีกแนะนำและคำนวนภาษีสรรพสามิต</title>
-      <link>https://example.com/customs/import/excise/notifications_price/</link>
+      <link>/customs/import/excise/notifications_price/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/excise/notifications_price/</guid>
+      <guid>/customs/import/excise/notifications_price/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/notifications_price.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>การคืนอากรสำหรับของที่นำเข้ามาแล้วส่งกลับออกไป (Re-export)</title>
-      <link>https://example.com/customs/export/re-export/</link>
+      <link>/customs/export/re-export/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/export/re-export/</guid>
+      <guid>/customs/export/re-export/</guid>
       <description>
 
 &lt;p&gt;ของที่นำเข้ามาในราชอาณาจักรและเสียอากรแล้ว หากส่งกลับออกไปยังเมืองต่างประเทศหรือส่งกลับไปเป็นของใช้สิ้นเปลืองในเรือ เดินทางไปต่างประเทศ สามารถขอคืนเงินอากรขาเข้าที่ชำระไว้แล้วได้ &lt;em&gt;เก้าในสิบส่วน หรือส่วนที่เกินหนึ่งพันบาทของจำนวนที่เรียกเก็บไว้&lt;/em&gt; โดยคำนวณตามใบขนสินค้าขาออกแต่ละฉบับ
@@ -4317,9 +4317,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>ราคาของในการจัดทำข้อมูลใบขนสินค้าขาเข้า</title>
-      <link>https://example.com/customs/import/guide/cif-value/</link>
+      <link>/customs/import/guide/cif-value/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/cif-value/</guid>
+      <guid>/customs/import/guide/cif-value/</guid>
       <description>
 
 &lt;ul&gt;
@@ -4444,9 +4444,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>ตัวอย่างการคำนวณภาษีสินค้าสรรพสามิต</title>
-      <link>https://example.com/customs/import/excise/calculate_excise/</link>
+      <link>/customs/import/excise/calculate_excise/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/excise/calculate_excise/</guid>
+      <guid>/customs/import/excise/calculate_excise/</guid>
       <description>
 
 &lt;p&gt;การคำนวณภาษีสินค้าสรรพสามิต ในกรณีสินค้าทั่วไป (&lt;strong&gt;ยกเว้นสินค้าในหมวด สุรา ยาสูบ และเครื่องดื่ม&lt;/strong&gt;) เมื่อกำหนดพิกัดสรรพสามิตและบันทึกข้อมูลตามปกติ โปรแกรมจะคำนวณภาษีสรรพสามิต และภาษีเพื่อมหาดไทยให้โดยอัตโนมัติ&lt;/p&gt;
@@ -4559,9 +4559,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>International Commercial Terms (INCOTERMS)</title>
-      <link>https://example.com/customs/import/guide/incoterms/</link>
+      <link>/customs/import/guide/incoterms/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/incoterms/</guid>
+      <guid>/customs/import/guide/incoterms/</guid>
       <description>
 
 &lt;h1 id=&#34;incoterms&#34;&gt;INCOTERMS&lt;/h1&gt;
@@ -4633,9 +4633,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>อาเซียน-ฮ่องกง (ASEAN – Hong Kong)</title>
-      <link>https://example.com/customs/free-trade-area/ahk/</link>
+      <link>/customs/free-trade-area/ahk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/free-trade-area/ahk/</guid>
+      <guid>/customs/free-trade-area/ahk/</guid>
       <description>
 
 &lt;h1 id=&#34;ความตกลงการค-าเสร-อาเซ-ยน-ฮ-องกง-asean-hong-kong-china-free-trade-agreement&#34;&gt;ความตกลงการค้าเสรีอาเซียน-ฮ่องกง (ASEAN – Hong Kong, China Free Trade Agreement)&lt;/h1&gt;
@@ -4806,9 +4806,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>ภาค 4 ของที่ได้รับยกเว้นอากร</title>
-      <link>https://example.com/customs/import/guide/part-4/</link>
+      <link>/customs/import/guide/part-4/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/part-4/</guid>
+      <guid>/customs/import/guide/part-4/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://th.customs.go.th/data_files/1607131431341649716888.png&#34; alt=&#34;การยกเว้นอากรตามภาค 4&#34; /&gt;&lt;/p&gt;
@@ -5213,9 +5213,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>สิทธิประโยชน์ทางภาษีอากร</title>
-      <link>https://example.com/customs/import/guide/tax-incentives/</link>
+      <link>/customs/import/guide/tax-incentives/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/tax-incentives/</guid>
+      <guid>/customs/import/guide/tax-incentives/</guid>
       <description>
 
 &lt;h2 id=&#34;ส-ทธ-ขอค-นอากรตามมาตรา-29&#34;&gt;สิทธิขอคืนอากรตามมาตรา 29&lt;/h2&gt;
@@ -5392,9 +5392,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>การขอวางประกันโต้แย้งพิกัดอัตราศุลกากร/.การวางประกัน</title>
-      <link>https://example.com/customs/import/guide/guarantee-argumentative/</link>
+      <link>/customs/import/guide/guarantee-argumentative/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/guarantee-argumentative/</guid>
+      <guid>/customs/import/guide/guarantee-argumentative/</guid>
       <description>
 
 &lt;h2 id=&#34;การขอวางประก-น-ม-ป-ญหาเก-ยวก-บจำนวนค-าอากร&#34;&gt;การขอวางประกัน มีปัญหาเกี่ยวกับจำนวนค่าอากร&lt;/h2&gt;
@@ -5448,9 +5448,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>การขอวางประกันกองทุนน้ำมันเชื้อเพลิงและเงินกองทุนเพื่อส่งเสริมการอนุรักษ์พลังงาน</title>
-      <link>https://example.com/customs/import/guide/guarantee-fuel-fund/</link>
+      <link>/customs/import/guide/guarantee-fuel-fund/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/guarantee-fuel-fund/</guid>
+      <guid>/customs/import/guide/guarantee-fuel-fund/</guid>
       <description>&lt;p&gt;หลักการสำแดงข้อมูลใบขนสินค้าขาเข้า  &lt;strong&gt;กรณีขอวางประกันกองทุนน้ำมันเชื้อเพลิงและเงินกองทุนเพื่อส่งเสริมการอนุรักษ์พลังงาน&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page110.png&#34; alt=&#34;enter image description here&#34; /&gt;
@@ -5460,9 +5460,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>การขอชำระหรือวางประกันอากรตอบโต้การทุ่มตลาดและการอุดหนุน</title>
-      <link>https://example.com/customs/import/guide/gurantee-anti-dumping/</link>
+      <link>/customs/import/guide/gurantee-anti-dumping/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/gurantee-anti-dumping/</guid>
+      <guid>/customs/import/guide/gurantee-anti-dumping/</guid>
       <description>&lt;p&gt;หลักการสำแดงข้อมูลใบขนสินค้าขาเข้า  &lt;strong&gt;กรณีมีค่าอากรตอบโต้การทุ่มตลาดและการอุดหนุนต้องชำระ&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page112.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -5482,9 +5482,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>โครงสร้างข้อมูลใบขนสินค้าขาออกโอนย้ายภายในประเทศ</title>
-      <link>https://example.com/customs/tax-incentive/tax-incentive_guide/data_structure_export/</link>
+      <link>/customs/tax-incentive/tax-incentive_guide/data_structure_export/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax-incentive/tax-incentive_guide/data_structure_export/</guid>
+      <guid>/customs/tax-incentive/tax-incentive_guide/data_structure_export/</guid>
       <description>
 
 &lt;h2 id=&#34;โครงสร-างข-อม-ลใบขนส-นค-าขาออกโอนย-ายภายในประเทศ-แบ-งได-เป-น-6-ส-วนด-งน&#34;&gt;โครงสร้างข้อมูลใบขนสินค้าขาออกโอนย้ายภายในประเทศ แบ่งได้เป็น 6 ส่วนดังนี้&lt;/h2&gt;
@@ -5633,9 +5633,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>หลักการบันทึกค่าภาษีอากรและวางประกัน</title>
-      <link>https://example.com/customs/import/guide/input-duty/</link>
+      <link>/customs/import/guide/input-duty/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/input-duty/</guid>
+      <guid>/customs/import/guide/input-duty/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/img/deposit.jpg&#34; alt=&#34; หลักการบันทึกค่าภาษีอากรและวางประกัน&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;หมายเหตุ&lt;/strong&gt;&lt;/p&gt;
@@ -5658,9 +5658,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>Payment Method and Guarantee Method Guideline</title>
-      <link>https://example.com/customs/import/guide/payment-method/</link>
+      <link>/customs/import/guide/payment-method/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/payment-method/</guid>
+      <guid>/customs/import/guide/payment-method/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/img/Payment-Method.png&#34; alt=&#34;Payment Method and Guarantee Method Guideline&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;หมายเหตุ&lt;/strong&gt;&lt;/p&gt;
@@ -5692,18 +5692,18 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>รหัสเหตุผลการโต้แย้ง (Argumentative Reason Code)</title>
-      <link>https://example.com/customs/import/guide/argumentative-reason-code/</link>
+      <link>/customs/import/guide/argumentative-reason-code/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/argumentative-reason-code/</guid>
+      <guid>/customs/import/guide/argumentative-reason-code/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page121.png&#34; alt=&#34;รหัสเหตุผลการโต้แย้ง&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ประเภทค่าภาษีอากรที่ต้องชำระและ/หรือวางประกัน  (Duty Type)</title>
-      <link>https://example.com/customs/import/guide/type-duty/</link>
+      <link>/customs/import/guide/type-duty/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/type-duty/</guid>
+      <guid>/customs/import/guide/type-duty/</guid>
       <description>
 
 &lt;h1 id=&#34;ประเภทค-าภาษ-อากรท-ต-องชำระและ-หร-อวางประก-น-duty-type&#34;&gt;ประเภทค่าภาษีอากรที่ต้องชำระและ/หรือวางประกัน  (Duty Type)&lt;/h1&gt;
@@ -5714,9 +5714,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>เลขประจำตัวผู้เสียภาษีของหน่วยงานผู้ออกใบอนุญาต (Permit Issue Authority)</title>
-      <link>https://example.com/customs/import/guide/permit-issue-authority/</link>
+      <link>/customs/import/guide/permit-issue-authority/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/permit-issue-authority/</guid>
+      <guid>/customs/import/guide/permit-issue-authority/</guid>
       <description>
 
 &lt;h1 id=&#34;เลขประจำต-วผ-เส-ยภาษ-ของหน-วยงานผ-ออกใบอน-ญาต-permit-issue-authority&#34;&gt;เลขประจำตัวผู้เสียภาษีของหน่วยงานผู้ออกใบอนุญาต (Permit Issue Authority)&lt;/h1&gt;
@@ -5929,9 +5929,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>การตัดบัญชีใบขนสินค้ากับรายงานการนำของเข้า</title>
-      <link>https://example.com/customs/import/guide/checking-mainfest/</link>
+      <link>/customs/import/guide/checking-mainfest/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/checking-mainfest/</guid>
+      <guid>/customs/import/guide/checking-mainfest/</guid>
       <description>
 
 &lt;h2 id=&#34;การตรวจสอบข-อม-ลใบขนส-นค-าก-บข-อม-ล-manifest&#34;&gt;การตรวจสอบข้อมูลใบขนสินค้ากับข้อมูล Manifest&lt;/h2&gt;
@@ -6222,9 +6222,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>รหัสสิทธิพิเศษ ตามข้อผูกพันสัญญาหรือความตกลงระหว่างประเทศ</title>
-      <link>https://example.com/customs/import/guide/privilege/</link>
+      <link>/customs/import/guide/privilege/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/privilege/</guid>
+      <guid>/customs/import/guide/privilege/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -6499,9 +6499,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>โครงสร้างข้อมูลใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ</title>
-      <link>https://example.com/customs/tax-incentive/tax-incentive_guide/data_structure_import/</link>
+      <link>/customs/tax-incentive/tax-incentive_guide/data_structure_import/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax-incentive/tax-incentive_guide/data_structure_import/</guid>
+      <guid>/customs/tax-incentive/tax-incentive_guide/data_structure_import/</guid>
       <description>
 
 &lt;h2 id=&#34;โครงสร-างข-อม-ลใบขนส-นค-าขาเข-าโอนย-ายภายในประเทศ-แบ-งได-เป-น-6-ส-วนด-งน&#34;&gt;โครงสร้างข้อมูลใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ แบ่งได้เป็น 6 ส่วนดังนี้&lt;/h2&gt;
@@ -6664,9 +6664,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>การตรวจสอบข้อมูลใบขนสินค้า กับระบบทะเบียนผู้มาติดต่อ</title>
-      <link>https://example.com/customs/tax-incentive/tax-incentive_guide/visitor-registration/</link>
+      <link>/customs/tax-incentive/tax-incentive_guide/visitor-registration/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax-incentive/tax-incentive_guide/visitor-registration/</guid>
+      <guid>/customs/tax-incentive/tax-incentive_guide/visitor-registration/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;การตรวจสอบลายเซ็นอิเล็กทรอนิกส์ (Digital Signature) มีเงื่อนไขดังนี้&lt;/p&gt;
 
@@ -6711,9 +6711,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks)</title>
-      <link>https://example.com/customs/tax-incentive/tax-incentive_guide/shipping-marks/</link>
+      <link>/customs/tax-incentive/tax-incentive_guide/shipping-marks/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax-incentive/tax-incentive_guide/shipping-marks/</guid>
+      <guid>/customs/tax-incentive/tax-incentive_guide/shipping-marks/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks) ต้องสำแดงเครื่องหมายและเลขหมายหีบห่อให้ตรงกับความเป็นจริง ซึ่งจะต้องตรงกับใบตราส่งสินค้า โดยให้สำแดง ดังนี้&lt;/p&gt;
 
@@ -6744,9 +6744,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>การปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า</title>
-      <link>https://example.com/customs/import/guide/direct_main/</link>
+      <link>/customs/import/guide/direct_main/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/guide/direct_main/</guid>
+      <guid>/customs/import/guide/direct_main/</guid>
       <description>&lt;script&gt;
    var files = &#39;/knowledge-center/customs/customs/import/index.html&#39;
    //document.location = files
@@ -6757,9 +6757,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>จำนวนและน้ำหนักของสินค้า</title>
-      <link>https://example.com/customs/tax-incentive/tax-incentive_guide/quantity-and-weight/</link>
+      <link>/customs/tax-incentive/tax-incentive_guide/quantity-and-weight/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax-incentive/tax-incentive_guide/quantity-and-weight/</guid>
+      <guid>/customs/tax-incentive/tax-incentive_guide/quantity-and-weight/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;จำนวนหีบห่อรวม (Total Package Amount) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน หากสินค้ามีหลายลักษณะรวมกัน ให้ระบุจำนวนหีบห่อรวม&lt;/p&gt;&lt;/li&gt;
 
@@ -6780,9 +6780,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า (Assessment Request Code)</title>
-      <link>https://example.com/customs/tax-incentive/tax-incentive_guide/assessment-request/</link>
+      <link>/customs/tax-incentive/tax-incentive_guide/assessment-request/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax-incentive/tax-incentive_guide/assessment-request/</guid>
+      <guid>/customs/tax-incentive/tax-incentive_guide/assessment-request/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;ldquo;Assessment Request Code&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&amp;ldquo;มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ ด่านศุลกากร ที่นำเข้า&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
@@ -6808,9 +6808,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>การโอนย้ายของออกจากคลังสินค้าทัณฑ์บน</title>
-      <link>https://example.com/customs/tax-incentive/transfer-of-goods/bond/</link>
+      <link>/customs/tax-incentive/transfer-of-goods/bond/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax-incentive/transfer-of-goods/bond/</guid>
+      <guid>/customs/tax-incentive/transfer-of-goods/bond/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tranfer-bond.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -6975,9 +6975,9 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>การโอนย้ายของออกจากสิทธิ ขอคืนอากรตามมาตรา 29</title>
-      <link>https://example.com/customs/tax-incentive/transfer-of-goods/section_29/</link>
+      <link>/customs/tax-incentive/transfer-of-goods/section_29/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax-incentive/transfer-of-goods/section_29/</guid>
+      <guid>/customs/tax-incentive/transfer-of-goods/section_29/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/section-29-2.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -7094,9 +7094,9 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>การโอนย้ายของออกจากสิทธิ ส่งเสริมการลงทุน BOI</title>
-      <link>https://example.com/customs/tax-incentive/transfer-of-goods/boi/</link>
+      <link>/customs/tax-incentive/transfer-of-goods/boi/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax-incentive/transfer-of-goods/boi/</guid>
+      <guid>/customs/tax-incentive/transfer-of-goods/boi/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tranfer-boi.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -7179,9 +7179,9 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>การโอนย้ายของออกจากเขตปลอดอากร (Freezone)</title>
-      <link>https://example.com/customs/tax-incentive/transfer-of-goods/freezone/</link>
+      <link>/customs/tax-incentive/transfer-of-goods/freezone/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax-incentive/transfer-of-goods/freezone/</guid>
+      <guid>/customs/tax-incentive/transfer-of-goods/freezone/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tranfer-freezone.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -7283,9 +7283,9 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>การโอนย้ายของออกจากเขตประกอบการเสรี (I-EAT)</title>
-      <link>https://example.com/customs/tax-incentive/transfer-of-goods/i-eat/</link>
+      <link>/customs/tax-incentive/transfer-of-goods/i-eat/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/tax-incentive/transfer-of-goods/i-eat/</guid>
+      <guid>/customs/tax-incentive/transfer-of-goods/i-eat/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tranfer-i-eat-2.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -7381,9 +7381,9 @@ Reference Declaration Line Number = รายการในใบขนสิ�
     
     <item>
       <title>Collections.Counter</title>
-      <link>https://example.com/post/collections/</link>
+      <link>/post/collections/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/collections/</guid>
+      <guid>/post/collections/</guid>
       <description>&lt;p&gt;มอดูล collections ของไพธอนประกอบไปด้วยออบเจ็กต์จิปาถะที่อาจสะดวกที่จะใช้ในงานบางอย่าง เช่น collections.OrderedDict ที่ได้เขียนไปใน &lt;a href=&#34;https://phyblas.hinaboshi.com/20190706&#34;&gt;https://phyblas.hinaboshi.com/20190706&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;ในบทความนี้จะแนะนำออบเจ็กต์อีกตัวที่อาจมีโอกาสได้ใช้บ่อย คือ collections.Counter Counter เป็นออบเจ็กต์ที่ใช้งานสะดวก ในเวลาที่เราต้องการจะนับจำนวนของอะไรบางอย่างว่ามีอะไรอยู่เท่าไหร่ เช่น มีลิสต์ที่มีตัวเลขอยู่จำนวนหนึ่ง ต้องการจะนับดูว่ามีตัวเลขอะไรอยู่เท่าไหร่ ถ้าใช้ดิกชันนารีทั่วไป อาจเขียนได้แบบนี้&lt;/p&gt;
@@ -7573,9 +7573,9 @@ print(yaek(51000)) # ได้ Counter({2: 3, 5: 3, 3: 1, 17: 1})
     
     <item>
       <title>Pale Blue Dot ภาพถ่ายที่บอกว่าดาราศาสตร์คือความอ่อนน้อมถ่อมตน</title>
-      <link>https://example.com/post/pale_blue_dot/</link>
+      <link>/post/pale_blue_dot/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/pale_blue_dot/</guid>
+      <guid>/post/pale_blue_dot/</guid>
       <description>&lt;p&gt;ในหนังสือเรื่อง Cosmos ของคุณ Carl Sagan ซึ่งผู้เขียนยกย่องให้เป็นหนึ่งในหนังสือที่ดีที่สุดตลอดกาล และเป็นคัมภีร์การใช้ชีวิตมาจนถึงทุกวันนี้ อวกาศและดาราศาสตร์ในมุมมองของ Carl Sagan ชายที่ทำให้มนุษย์รักเขาด้วยความรักที่เขามีต่อจักรวาลถ่ายทอดออกมาผ่านตัวอักษรในทั้งงานเขียน งานบรรยาย นวนิยาย และมุมมองที่ทำให้เรารู้จักกับตัวเองมากขึ้นผ่านการศึกษาธรรมชาติ&lt;/p&gt;
 
 &lt;p&gt;หนึ่งในตอนที่เขาได้เขียนไว้ในหนังสือ Cosmos ที่ทำให้เราได้เปิดมุมมองไปพร้อมกันย้อนกลับไป ณ ช่วงที่ยาน Pioneer 10 เดินทางโฉบดาวพฤหัสฯ ในปี 1972 เป็นยานอวกาศลำแรกที่จะได้ถ่ายภาพในระยะใกล้ของดาวพฤหัสฯ ส่งกลับมา ภาพถ่ายนี้จะเป็นภาพถ่ายประวัติศาสตร์ แต่มุมมองที่ Sagan ถ่ายทอดมาในหนังสือของเขาได้แก่ช่วงเวลา 20-30 นาที ในขณะที่เขานั่งอยู่บนรถที่กำลังเดินทางไปยังสำนักงานใหญ่ของ JPL ในแคลิฟอร์เนีย เพื่อเป็นสักขีพยานเมื่อ Pioneer 10 ส่งภาพถ่ายนั้นกลับมา Sagan เล่าว่า เขานึกจินตนาการถึงดาวพฤหัสฯ ว่าจะมีลักษณะเป็นอย่างไรและนั่นจะเป็นการจินตนาการถึงดาวพฤหัสครั้งสุดท้าย เพราะต่อไปจากนี้ดินแดนที่ยังไม่เคยถูกสำรวจจะถูกสำรวจแล้ว เมื่อภาพถ่ายของดาวพฤหัสเดินทางมาถึง มันจะเปลี่ยนมุมมองที่เราเคยมีต่อดาวพฤหัสฯ ไปตลอดกาล&lt;/p&gt;
@@ -7614,9 +7614,9 @@ print(yaek(51000)) # ได้ Counter({2: 3, 5: 3, 3: 1, 17: 1})
     
     <item>
       <title>มาตรการตอบโต้การทุ่มตลาด (Anti-dumping)</title>
-      <link>https://example.com/customs/import/trade-protection/anti-dumping/</link>
+      <link>/customs/import/trade-protection/anti-dumping/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/trade-protection/anti-dumping/</guid>
+      <guid>/customs/import/trade-protection/anti-dumping/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/anti-dumping.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -7762,9 +7762,9 @@ print(yaek(51000)) # ได้ Counter({2: 3, 5: 3, 3: 1, 17: 1})
     
     <item>
       <title>มาตรการตอบโต้การอุดหนุน (Countervailing Duty)</title>
-      <link>https://example.com/customs/import/trade-protection/cvd/</link>
+      <link>/customs/import/trade-protection/cvd/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/trade-protection/cvd/</guid>
+      <guid>/customs/import/trade-protection/cvd/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/CVD.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -7942,9 +7942,9 @@ print(yaek(51000)) # ได้ Counter({2: 3, 5: 3, 3: 1, 17: 1})
     
     <item>
       <title>มาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น (Safeguard Measure)</title>
-      <link>https://example.com/customs/import/trade-protection/sg/</link>
+      <link>/customs/import/trade-protection/sg/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/trade-protection/sg/</guid>
+      <guid>/customs/import/trade-protection/sg/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/SG.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -8120,9 +8120,9 @@ print(yaek(51000)) # ได้ Counter({2: 3, 5: 3, 3: 1, 17: 1})
     
     <item>
       <title>คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า (e-Import)</title>
-      <link>https://example.com/customs/import/direct_guide/</link>
+      <link>/customs/import/direct_guide/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/customs/import/direct_guide/</guid>
+      <guid>/customs/import/direct_guide/</guid>
       <description>&lt;script&gt;
    var files = &#39;../guide/index.html&#39;
    //document.location = files
@@ -8133,9 +8133,9 @@ print(yaek(51000)) # ได้ Counter({2: 3, 5: 3, 3: 1, 17: 1})
     
     <item>
       <title>Dictionary</title>
-      <link>https://example.com/post/dictionary/</link>
+      <link>/post/dictionary/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/dictionary/</guid>
+      <guid>/post/dictionary/</guid>
       <description>
 
 &lt;p&gt;ในบทนี้ คุณจะได้เรียนรู้เกี่ยวกับโครงสร้างข้อมูล Dictionary ในภาษา Python เราจะแนะนำให้คุณรู้จักกับ Dictionary คืออะไร และการประกาศและใช้งานสำหรับเก็บข้อมูลในการเขียนโปรแกรม นอกจากนี้ เรายังจะพูดถึงการใช้งานเมธอดและ built-in functions ของ Dictionary และตัวอย่างการใช้งานกับการเขียนโปรแกรมใบรูปแบบต่างๆ ในภาษา Python&lt;/p&gt;
@@ -8368,9 +8368,9 @@ dict_items([(&#39;de&#39;, &#39;Germany&#39;), (&#39;ua&#39;, &#39;Ukraine&#39;)
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://example.com/post/jupyter/</link>
+      <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/jupyter/</guid>
+      <guid>/post/jupyter/</guid>
       <description>
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
@@ -8435,9 +8435,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>/slides/example/</guid>
       <description>
 
 &lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
@@ -8616,9 +8616,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Terms</title>
-      <link>https://example.com/post/terms/</link>
+      <link>/post/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://example.com/post/terms/</guid>
+      <guid>/post/terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>

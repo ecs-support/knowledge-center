@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jupyter Notebook | ECS Knowledge Center</title>
-    <link>https://example.com/tag/jupyter-notebook/</link>
-      <atom:link href="https://example.com/tag/jupyter-notebook/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/jupyter-notebook/</link>
+      <atom:link href="/tag/jupyter-notebook/index.xml" rel="self" type="application/rss+xml" />
     <description>Jupyter Notebook</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/images/icon_hu43744f45c14c266b8ced15c1aa1fe7c4_2428_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu43744f45c14c266b8ced15c1aa1fe7c4_2428_512x512_fill_lanczos_center_2.png</url>
       <title>Jupyter Notebook</title>
-      <link>https://example.com/tag/jupyter-notebook/</link>
+      <link>/tag/jupyter-notebook/</link>
     </image>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://example.com/post/jupyter/</link>
+      <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/jupyter/</guid>
+      <guid>/post/jupyter/</guid>
       <description>
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
