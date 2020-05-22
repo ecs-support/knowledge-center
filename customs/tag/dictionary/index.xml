@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dictionary | ECS Knowledge Center</title>
-    <link>/tag/dictionary/</link>
-      <atom:link href="/tag/dictionary/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ecs-support.github.io/knowledge-center/customs/tag/dictionary/</link>
+      <atom:link href="https://ecs-support.github.io/knowledge-center/customs/tag/dictionary/index.xml" rel="self" type="application/rss+xml" />
     <description>Dictionary</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu43744f45c14c266b8ced15c1aa1fe7c4_2428_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ecs-support.github.io/knowledge-center/customs/images/icon_hu43744f45c14c266b8ced15c1aa1fe7c4_2428_512x512_fill_lanczos_center_2.png</url>
       <title>Dictionary</title>
-      <link>/tag/dictionary/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/tag/dictionary/</link>
     </image>
     
     <item>
       <title>Dictionary</title>
-      <link>/post/dictionary/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/post/dictionary/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/dictionary/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/post/dictionary/</guid>
       <description>
 
 &lt;p&gt;ในบทนี้ คุณจะได้เรียนรู้เกี่ยวกับโครงสร้างข้อมูล Dictionary ในภาษา Python เราจะแนะนำให้คุณรู้จักกับ Dictionary คืออะไร และการประกาศและใช้งานสำหรับเก็บข้อมูลในการเขียนโปรแกรม นอกจากนี้ เรายังจะพูดถึงการใช้งานเมธอดและ built-in functions ของ Dictionary และตัวอย่างการใช้งานกับการเขียนโปรแกรมใบรูปแบบต่างๆ ในภาษา Python&lt;/p&gt;

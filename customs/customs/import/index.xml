@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>การปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (Import) | ECS Knowledge Center</title>
-    <link>/customs/import/</link>
-      <atom:link href="/customs/import/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/</link>
+      <atom:link href="https://ecs-support.github.io/knowledge-center/customs/customs/import/index.xml" rel="self" type="application/rss+xml" />
     <description>การปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (Import)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu43744f45c14c266b8ced15c1aa1fe7c4_2428_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ecs-support.github.io/knowledge-center/customs/images/icon_hu43744f45c14c266b8ced15c1aa1fe7c4_2428_512x512_fill_lanczos_center_2.png</url>
       <title>การปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (Import)</title>
-      <link>/customs/import/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/</link>
     </image>
     
     <item>
       <title>คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า (e-Import)</title>
-      <link>/customs/import/direct_guide/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/direct_guide/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>/customs/import/direct_guide/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/direct_guide/</guid>
       <description>&lt;script&gt;
    var files = &#39;../guide/index.html&#39;
    //document.location = files
