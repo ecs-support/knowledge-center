@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | ECS</title>
-    <link>https://ecs-support.github.io/knowledge-center/customs/categories/</link>
-      <atom:link href="https://ecs-support.github.io/knowledge-center/customs/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories | ECS Knowledge Center</title>
+    <link>https://example.com/categories/</link>
+      <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ecs-support.github.io/knowledge-center/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://example.com/images/icon_hu43744f45c14c266b8ced15c1aa1fe7c4_2428_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/categories/</link>
+      <link>https://example.com/categories/</link>
     </image>
     
     <item>
       <title>Aticles</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/category/aticles/</link>
+      <link>https://example.com/category/aticles/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/customs/category/aticles/</guid>
+      <guid>https://example.com/category/aticles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/category/python/</link>
+      <link>https://example.com/category/python/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/customs/category/python/</guid>
+      <guid>https://example.com/category/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Begin</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/category/begin/</link>
+      <link>https://example.com/category/begin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/customs/category/begin/</guid>
+      <guid>https://example.com/category/begin/</guid>
       <description></description>
     </item>
     
