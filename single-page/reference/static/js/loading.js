@@ -1,5 +1,5 @@
 $(document).ready(function () {
-   $(".container-fluid").hide();
+   $(".container-table").hide();
   var counter = 0;
   var c = 0;
   var i = setInterval(function () {
@@ -16,9 +16,20 @@ $(document).ready(function () {
     if (counter == 101) {
       clearInterval(i);
       $(".loading-page").fadeOut();
-      $(".container-fluid").fadeIn();
+      $(".container-table").show();
+     
     }
   }, 40);
+
+  var table = $("#table_ref").DataTable({
+    responsive: true,
+    scroller: true,
+    scrollY: 600,
+    scrollX: 700,
+  });
+
+  $ .fn.dataTable.FixedHeader(table);
+
 });
 
 

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>พิธีการศุลกากร | ECS</title>
+    <link>https://ecs-support.github.io/knowledge-center/customs/customs/</link>
+      <atom:link href="https://ecs-support.github.io/knowledge-center/customs/customs/index.xml" rel="self" type="application/rss+xml" />
+    <description>พิธีการศุลกากร</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright>
+    <image>
+      <url>https://ecs-support.github.io/knowledge-center/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>พิธีการศุลกากร</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/</link>
+    </image>
+    
+    <item>
+      <title>พิธีการการนำเข้าสินค้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/</guid>
+      <description>&lt;script&gt;
+   var files = &#39;/customs/import/import/index.html&#39;
+   document.location = files
+  // location.replace(files)
+  &lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>พิธีการการส่งออกสินค้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/export/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/export/</guid>
+      <description>&lt;script&gt;
+   var files = &#39;/customs/export/export/index.html&#39;
+   document.location = files
+  // location.replace(files)
+&lt;/script&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
