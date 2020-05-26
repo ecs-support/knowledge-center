@@ -2529,7 +2529,7 @@
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/direct_main/</guid>
       <description>&lt;script&gt;
-   var files = &#39;/knowledge-center/customs/customs/import/index.html&#39;
+   var files = &#39;/knowledge-center/test_site/customs/import/index.html&#39;
    //document.location = files
    location.replace(files)
   &lt;/script&gt;
