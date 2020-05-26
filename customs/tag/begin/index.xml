@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Begin | ECS</title>
-    <link>https://ecs-support.github.io/tag/begin/</link>
-      <atom:link href="https://ecs-support.github.io/tag/begin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ecs-support.github.io/knowledge-center/customs/tag/begin/</link>
+      <atom:link href="https://ecs-support.github.io/knowledge-center/customs/tag/begin/index.xml" rel="self" type="application/rss+xml" />
     <description>Begin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ecs-support.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ecs-support.github.io/knowledge-center/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Begin</title>
-      <link>https://ecs-support.github.io/tag/begin/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/tag/begin/</link>
     </image>
     
     <item>
       <title>Collections.Counter</title>
-      <link>https://ecs-support.github.io/post/collections/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/post/collections/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/post/collections/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/post/collections/</guid>
       <description>&lt;p&gt;มอดูล collections ของไพธอนประกอบไปด้วยออบเจ็กต์จิปาถะที่อาจสะดวกที่จะใช้ในงานบางอย่าง เช่น collections.OrderedDict ที่ได้เขียนไปใน &lt;a href=&#34;https://phyblas.hinaboshi.com/20190706&#34;&gt;https://phyblas.hinaboshi.com/20190706&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;ในบทความนี้จะแนะนำออบเจ็กต์อีกตัวที่อาจมีโอกาสได้ใช้บ่อย คือ collections.Counter Counter เป็นออบเจ็กต์ที่ใช้งานสะดวก ในเวลาที่เราต้องการจะนับจำนวนของอะไรบางอย่างว่ามีอะไรอยู่เท่าไหร่ เช่น มีลิสต์ที่มีตัวเลขอยู่จำนวนหนึ่ง ต้องการจะนับดูว่ามีตัวเลขอะไรอยู่เท่าไหร่ ถ้าใช้ดิกชันนารีทั่วไป อาจเขียนได้แบบนี้&lt;/p&gt;
@@ -206,9 +206,9 @@ print(yaek(51000)) # ได้ Counter({2: 3, 5: 3, 3: 1, 17: 1})
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://ecs-support.github.io/post/jupyter/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/post/jupyter/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/post/jupyter/</guid>
       <description>
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
