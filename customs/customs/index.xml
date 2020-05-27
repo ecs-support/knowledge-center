@@ -12,5 +12,57 @@
       <link>https://ecs-support.github.io/knowledge-center/customs/customs/</link>
     </image>
     
+    <item>
+      <title>การปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (Import)</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/direct_import/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/direct_import/</guid>
+      <description>&lt;script&gt;
+   var files = &#39;../import/index.html&#39;
+   //document.location = files
+   location.replace(files)
+  &lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export)</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/direct_export/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/direct_export/</guid>
+      <description>&lt;script&gt;
+   var files = &#39;../export/index.html&#39;
+   //document.location = files
+   location.replace(files)
+  &lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>สิทธิประโยชน์ทางภาษีอากร</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/direct_incentive/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/direct_incentive/</guid>
+      <description>&lt;script&gt;
+   var files = &#39;../tax-incentive/index.html&#39;
+   //document.location = files
+   location.replace(files)
+  &lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>สิทธิพิเศษทางการค้า</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/direct_free_trade/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/direct_free_trade/</guid>
+      <description>&lt;script&gt;
+   var files = &#39;../free-trade-area/index.html&#39;
+   //document.location = files
+   location.replace(files)
+  &lt;/script&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

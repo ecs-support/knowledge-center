@@ -319,6 +319,29 @@
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;http://th.customs.go.th/list_strc_download.php?ini_content=business_190117_01_01&amp;amp;ini_menu=menu_business_160421_04&amp;amp;order_by=co_priority&amp;amp;sort_type=0&amp;amp;lang=th&amp;amp;left_menu=menu_business_160421_04_01&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;div class=&#34;book-expand&#34;&gt;
+  &lt;label&gt;
+    &lt;div class=&#34;book-expand-head flex justify-between&#34;&gt;
+      &lt;span&gt;การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชย&lt;/span&gt;
+      &lt;span&gt;&amp;#43;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;input type=&#34;checkbox&#34; class=&#34;hidden&#34; /&gt;
+    &lt;div class=&#34;book-expand-content markdown-inner&#34;&gt;
+      &lt;h2 id=&#34;การปฏ-บ-ต-พ-ธ-การในการนำของท-ผล-ตในประเทศเข-าไปบรรจ-ในเขตปลอดอากร-เขตประกอบการเสร-และขอใช-ส-ทธ-ชดเชยค-าภาษ-อากรเม-อส-งออก&#34;&gt;การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชยค่าภาษีอากรเมื่อส่งออก&lt;/h2&gt;
+
+&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;strong&gt;คำตอบ :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ที่มา : &lt;a href=&#34;http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a324149505f47&amp;amp;left_menu=interesting_article&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;วันที่ปรับปรุงล่าสุด : 4 ตุลาคม 2562&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+    &lt;/div&gt;
+  &lt;/label&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -1427,6 +1450,32 @@
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page6.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>กลับไปเมนูหลัก  พิธีการศุลกากร</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/direct_main/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/direct_main/</guid>
+      <description>&lt;script&gt;
+   var files = &#39;/knowledge-center/customs/customs/index.html&#39;
+   //document.location = files
+   location.replace(files)
+  &lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/direct_guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/direct_guide/</guid>
+      <description>&lt;script&gt;
+   var files = &#39;../guide/index.html&#39;
+   //document.location = files
+   location.replace(files)
+  &lt;/script&gt;
 </description>
     </item>
     
