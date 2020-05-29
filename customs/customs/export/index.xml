@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export) | ECS Knowledge Center</title>
+    <title>การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export) | ECS</title>
     <link>https://ecs-support.github.io/knowledge-center/customs/customs/export/</link>
       <atom:link href="https://ecs-support.github.io/knowledge-center/customs/customs/export/index.xml" rel="self" type="application/rss+xml" />
     <description>การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ecs-support.github.io/knowledge-center/customs/images/icon_hu43744f45c14c266b8ced15c1aa1fe7c4_2428_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ecs-support.github.io/knowledge-center/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export)</title>
       <link>https://ecs-support.github.io/knowledge-center/customs/customs/export/</link>
     </image>
@@ -72,6 +72,19 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
 
 &lt;p&gt;&lt;strong&gt;ที่มา :&lt;/strong&gt; กรมศุลกากร&lt;/p&gt;
 &lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>กลับไปเมนูหลัก  พิธีการศุลกากร</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/export/direct_main/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/export/direct_main/</guid>
+      <description>&lt;script&gt;
+   var files = &#39;/knowledge-center/customs/customs/index.html&#39;
+   //document.location = files
+   location.replace(files)
+  &lt;/script&gt;
 </description>
     </item>
     
