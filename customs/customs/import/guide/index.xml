@@ -19,8 +19,6 @@
       <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/data-structure/</guid>
       <description>
 
-&lt;h2 id=&#34;โครงสร-างข-อม-ลใบขนส-นค-าขาเข-า&#34;&gt;โครงสร้างข้อมูลใบขนสินค้าขาเข้า&lt;/h2&gt;
-
 &lt;p&gt;โครงสร้างข้อมูลใบขนสินค้าขาเข้า แบ่งได้เป็น 6 ส่วนดังนี้&lt;/p&gt;
 
 &lt;ol&gt;
@@ -47,7 +45,9 @@
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;อ-กษรย-อ-ท-ใช-ในการอธ-บายร-ปแบบชน-ดของข-อม-ล&#34;&gt;อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล&lt;/h2&gt;
+&lt;h2 id=&#34;อ-กษรย-อ&#34;&gt;อักษรย่อ&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -95,7 +95,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 id=&#34;import-declaration-control&#34;&gt;Import Declaration Control&lt;/h3&gt;
+&lt;h3 id=&#34;declaration-control&#34;&gt;Declaration Control&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page7.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
@@ -129,7 +129,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page25.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;import-invoice-control&#34;&gt;Import Invoice Control&lt;/h3&gt;
+&lt;h3 id=&#34;invoice-control&#34;&gt;Invoice Control&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page26.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
@@ -141,7 +141,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page30.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;import-invoice-detail&#34;&gt;Import Invoice Detail&lt;/h3&gt;
+&lt;h3 id=&#34;invoice-detail&#34;&gt;Invoice Detail&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page31.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
@@ -171,7 +171,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page44.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;import-invoice-duty&#34;&gt;Import Invoice Duty&lt;/h3&gt;
+&lt;h3 id=&#34;invoice-duty&#34;&gt;Invoice Duty&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page45.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
@@ -179,13 +179,13 @@
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page47.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;import-invoice-permit&#34;&gt;Import Invoice Permit&lt;/h3&gt;
+&lt;h3 id=&#34;invoice-permit&#34;&gt;Invoice Permit&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page48.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page49.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;import-invoice-deposit&#34;&gt;Import Invoice Deposit&lt;/h3&gt;
+&lt;h3 id=&#34;invoice-deposit&#34;&gt;Invoice Deposit&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page50.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 </description>
@@ -362,15 +362,18 @@
 &lt;ul&gt;
 &lt;li&gt;ผู้รับจ้างช่วงต้องได้รับการว่าจ้างจากตัวแทนออกของ และ&lt;/li&gt;
 &lt;li&gt;ตัวแทนออกของต้องได้รับจ้างผู้นำเข้า/ผู้ส่งออก และ&lt;/li&gt;
-&lt;li&gt;ผู้นำเข้า/ผู้ส่งออกต้องว่าจ้างตัวแทนออกของ
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;ผู้นำเข้า/ผู้ส่งออกต้องว่าจ้างตัวแทนออกของ&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;สำหรับกรณีผู้นำเข้า/ผู้ส่งออก มีการมอบอำนาจให้ตัวแทนออกของทำการว่าจ้างช่วงได้&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;/li&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;สำหรับกรณีผู้นำเข้า/ผู้ส่งออก มีการมอบอำนาจให้ตัวแทนออกของทำการว่าจ้างช่วงได้&lt;/strong&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;li&gt;&lt;p&gt;การตรวจสอบความสัมพันธ์ของ ผู้จัดการ/ผู้รับมอบอำนาจ (ช่อง Manager ID Card) กับผู้นำเข้า/ผู้ส่งออก หรือตัวแทนออกของ มีการตรวจสอบเฉพาะกรณีที่ส่งข้อมูลผ่านระบบของ Service Counter เท่านั้น จะตรวจสอบกับระบบทะเบียน ดังนี้&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;การตรวจสอบความสัมพันธ์ของ ผู้จัดการ/ผู้รับมอบอำนาจ (ช่อง Manager ID Card) กับผู้นำเข้า/ผู้ส่งออก หรือตัวแทนออกของ มีการตรวจสอบเฉพาะกรณีที่ส่งข้อมูลผ่านระบบของ Service Counter เท่านั้น จะตรวจสอบกับระบบทะเบียน ดังนี้
 
 &lt;ul&gt;
 &lt;li&gt;ต้องเป็น ผู้จัดการ/ผู้รับมอบอำนาจ ของ ผู้ส่งออก/ผู้นำเข้า หรือ&lt;/li&gt;
@@ -582,14 +585,15 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;blockquote class=&#34;book-hint info&#34;&gt;
-  &lt;p&gt;&lt;strong&gt;กรณีติดเงื่อนไขความเสี่ยง&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;&lt;strong&gt;กรณีติดเงื่อนไขความเสี่ยง&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;ระบบจะสั่งการตรวจเป็น  &lt;strong&gt;&lt;em&gt;&amp;ldquo;ให้ไปดำเนินการมัดลวด ณ  ด่านศุลกากร ที่นำของเข้า&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; หากพนักงานศุลกากรผู้มีอำนาจหน้าที่
 หรือผู้ที่ได้รับมอบหมายเห็นว่าการเปิดตรวจที่ ด่านศุลกากรที่นำของเข้า (First Port) จะเป็นประโยชน์กว่าให้ทำการเปิดตรวจของ ณ ที่นำของเข้าได้&lt;/p&gt;
 
-&lt;/blockquote&gt;
-
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -645,29 +649,36 @@
     </item>
     
     <item>
-      <title>มีปัญหาในเรื่องต่าง ๆ ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า (Assessment Request Code)</title>
+      <title>ต้องการให้ตรวจสอบข้อมูลใบขนสินค้า (Assessment Request Code)</title>
       <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/assessment-request-code/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/assessment-request-code/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;ldquo;Assessment Request Code&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&amp;ldquo;มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ ด่านศุลกากร ที่นำเข้า&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;กรณีมีปัญหาและต้องการพบพนักงานศุลกากร ณ ด่านศุลกากรที่นำของเข้า
+&lt;li&gt;&lt;p&gt;กรณีมีปัญหาและต้องการพบพนักงานศุลกากร ณ ด่านศุลกากรที่นำของเข้า&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;ในเรื่องปัญหาพิกัดศุลกากร อัตราศุลกากร ราคาศุลกากร&lt;/li&gt;
 &lt;li&gt;ในเรื่องที่ต้องแจ้งความไว้ต่อพนักงานศุลกากรก่อนการส่งมอบว่าจะยื่นคำขอคืนเงินอากร และได้มีการแจ้งเหตุผลไว้ในช่อง หมายเหตุ &lt;strong&gt;&amp;ldquo;Remark&amp;rdquo;&lt;/strong&gt; แล้ว&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;กรณีของนำเข้าเป็นของที่มีลักษณะ ดังต่อไปนี้&lt;/strong&gt;
 
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;กรณีของนำเข้าเป็นของที่มีลักษณะ ดังต่อไปนี้&lt;/strong&gt;
+&lt;div class=&#34;alert alert-note_warning&#34;&gt;
+&lt;div&gt;
 &lt;ul&gt;
 &lt;li&gt;ของนำเข้าตามภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร&lt;/li&gt;
 &lt;li&gt;ของเก่าใช้แล้ว&lt;/li&gt;
 &lt;li&gt;ของด้อยสภาพ&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ในการจัดทำข้อมูลใบขนสินค้าขาเข้าตาม (1) หรือ (2) ให้ระบุค่า &lt;strong&gt;&amp;ldquo;Y&amp;rdquo;&lt;/strong&gt; ในช่อง &lt;strong&gt;&lt;em&gt;&amp;ldquo;Assessment Request Code&amp;rdquo;&lt;/em&gt; “มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ด่านศุลกากรที่นำเข้า”&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;ระบบคอมพิวเตอร์ของศุลกากรจะสั่งการตรวจใบขนสินค้าขาเข้าเป็น &lt;strong&gt;&amp;ldquo;เปิดตรวจ&amp;rdquo;&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;พบพนักงานศุลกากร ณ หน่วยบริการศุลกากร ที่นำของเข้า เพื่อยื่นหลักฐานหรือเอกสารมาแสดง หรือร้องขอให้พนักงานศุลกากรพิจารณาดำเนินการใด ๆ&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ในการจัดทำข้อมูลใบขนสินค้าขาเข้าตาม (1) หรือ (2) ให้ระบุค่า &lt;em&gt;&amp;ldquo;Y&amp;rdquo;&lt;/em&gt; ในช่อง &lt;em&gt;&amp;ldquo;Assessment Request Code&amp;rdquo;&lt;/em&gt; &lt;em&gt;“มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ด่านศุลกากรที่นำเข้า”&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ระบบคอมพิวเตอร์ของศุลกากรจะสั่งการตรวจใบขนสินค้าขาเข้าเป็น &lt;em&gt;&amp;ldquo;เปิดตรวจ&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;พบพนักงานศุลกากร ณ หน่วยบริการศุลกากร ที่นำของเข้า เพื่อยื่นหลักฐานหรือเอกสารมาแสดง หรือร้องขอให้พนักงานศุลกากรพิจารณาดำเนินการใด ๆ&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -682,7 +693,7 @@
 &lt;h2 id=&#34;รห-สสก-ลเง-นตรา-currency-code&#34;&gt;รหัสสกุลเงินตรา (Currency Code)&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;รหัสสกุลเงินตรา (Currency Code) ในส่วน Import Declaration Control ให้บันทึกค่ารหัสสกุลเงินตราตามมาตรฐาน &lt;strong&gt;หากสินค้ามีหลายสกุลเงินตราในใบขนสินค้าให้ใช้รหัสสกุลเงินตราที่มีอัตราแลกเปลี่ยนสูงสุด&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;รหัสสกุลเงินตรา (Currency Code) ในส่วน Import Declaration Control ให้บันทึกค่ารหัสสกุลเงินตราตามมาตรฐาน &lt;em&gt;หากสินค้ามีหลายสกุลเงินตราในใบขนสินค้าให้ใช้รหัสสกุลเงินตราที่มีอัตราแลกเปลี่ยนสูงสุด&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;รหัสสกุลเงินตรา (Currency Code) ในส่วน Import Declaration Control (Invoice) ให้บันทึกค่ารหัสสกุลเงินตราตามมาตรฐาน &lt;strong&gt;หากสินค้ามีหลายสกุลเงินตราในใบขนสินค้าให้ใช้รหัสสกุลเงินตราที่มีอัตราแลกเปลี่ยนสูงสุด&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;รหัสสกุลเงินตรา (Currency) ในส่วน Import Declaration Detail ให้บันทึกค่ารหัสสกุลเงินตราจริงตามมาตรฐาน&lt;/li&gt;
 &lt;/ul&gt;
@@ -701,8 +712,8 @@
 
 &lt;ul&gt;
 &lt;li&gt;คำนวณตามอัตราแลกเปลี่ยนเงินตราต่างประเทศที่กรมศุลกากรประกาศกำหนด  สำหรับการนำเข้าและการส่งออก&lt;/li&gt;
-&lt;li&gt;ของที่&lt;strong&gt;นำเข้า&lt;/strong&gt; ให้ใช้อัตราแลกเปลี่ยนที่ใช้อยู่ใน &lt;strong&gt;วันนำเข้า&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;ของ&lt;strong&gt;ส่งออก&lt;/strong&gt;ให้ใช้อัตราแลกเปลี่ยนที่ใช้อยู่ใน &lt;strong&gt;วันที่ออกใบขนสินค้าให้&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ของที่&lt;strong&gt;นำเข้า&lt;/strong&gt; ให้ใช้อัตราแลกเปลี่ยนที่ใช้อยู่ใน &lt;em&gt;วันนำเข้า&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;ของ&lt;strong&gt;ส่งออก&lt;/strong&gt;ให้ใช้อัตราแลกเปลี่ยนที่ใช้อยู่ใน &lt;em&gt;วันที่ออกใบขนสินค้าให้&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;การประกาศกำหนดอัตราแลกเปลี่ยนเงินตราต่างประเทศ สำนักมาตรฐานพิธีการและราคาศุลกากร จะดำเนินการ ดังนี้
 
@@ -713,7 +724,7 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;div class=&#34;alert alert-info&#34;&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;a href=&#34;https://ecs-support.github.io/knowledge-center/single-page/reference/exchange_rate.html&#34;&gt;&lt;strong&gt;ตรวจสอบอัตราแลกเปลี่ยนกรมศุลกากร&lt;/strong&gt;&lt;/a&gt;
   &lt;/div&gt;
@@ -729,7 +740,7 @@
       <description>
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;เลขที่บัญชีราคาสินค้า (Invoice  Number)&lt;/strong&gt; ให้ระบุค่าตามจริง กรณีการนำเข้าไม่หมดในครั้งเดียวสามารถใช้เลขที่บัญชีราคาสินค้า ในใบขนสินค้าขาเข้าซ้ำได้อีก&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;เลขที่บัญชีราคาสินค้า (Invoice  Number)&lt;/strong&gt; ให้ระบุค่าตามจริง กรณีการนำเข้าไม่หมดในครั้งเดียว สามารถใช้เลขที่บัญชีราคาสินค้า ในใบขนสินค้าขาเข้าซ้ำได้อีก&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;ลำดับรายการในบัญชีราคาสินค้า  (Invoice Item Number)&lt;/strong&gt; ให้ระบุค่าตามจริง&lt;/p&gt;
 
@@ -769,7 +780,7 @@
 &lt;li&gt;การใช้สิทธิประโยชน์ &lt;strong&gt;การใช้สิทธิยกเว้นอากร ในกรณีอื่น ๆ (ถ้ามี)&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;หากมี&lt;strong&gt;&lt;em&gt;เลขที่ใบขนสินค้าที่อ้างถึง&lt;/em&gt; (Reference Declaration Number) และ&lt;em&gt;รายการในใบขนสินค้าที่อ้างถึง&lt;/em&gt; (Reference Declaration Line Number) &lt;em&gt;ต่างกัน&lt;/em&gt;&lt;/strong&gt; ให้&lt;strong&gt;&lt;em&gt;แยกรายการของในส่วน Import Declaration Detail&lt;/em&gt; ด้วย&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;หากมี &lt;em&gt;เลขที่ใบขนสินค้าที่อ้างถึง&lt;/em&gt; (Reference Declaration Number) และ &lt;em&gt;รายการในใบขนสินค้าที่อ้างถึง&lt;/em&gt; (Reference Declaration Line Nmber) &lt;em&gt;ต่างกัน&lt;/em&gt; ให้ &lt;strong&gt;แยกรายการของในส่วน Import Declaration Detail ด้วย&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;div class=&#34;alert alert-danger&#34;&gt;
@@ -822,11 +833,14 @@
 &lt;li&gt;&lt;p&gt;กรณีผู้นำของเข้าไม่มีหลักฐานหรือเอกสารอื่นจากผู้ขายมาแสดง ให้กำหนดราคาศุลกากรโดย &lt;em&gt;&lt;strong&gt;ไม่มีส่วนลด&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&#34;ค-าบำเหน-จต-วแทนจากการขายและค-านายหน-า&#34;&gt;ค่าบำเหน็จตัวแทนจากการขายและค่านายหน้า&lt;/h3&gt;
+&lt;h3 id=&#34;ค-านายหน-า&#34;&gt;ค่านายหน้า&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;ค่าบำเหน็จตัวแทนจากการขายและค่านายหน้า&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;ค่าบำเหน็จตัวแทนจากการขาย (Selling Commission) หมายถึง ผลตอบแทนที่เป็นตัวเงินที่ผู้ขาย จ่ายให้แก่บุคคลหรือนิติบุคคลผู้เป็นตัวแทนของตนในการขายของที่นำเข้า ทั้งนี้ ไม่รวมถึงค่าบำเหน็จตัวแทนจากการซื้อ (Buying Commission)&lt;/li&gt;
-&lt;li&gt;ค่านายหน้าหรือค่าคนกลาง (Brokerage) หมายถึง ผลตอบแทนที่เป็นตัวเงินที่ผู้ขายและหรือผู้ซื้อจ่ายให้แก่ บุคคลหรือนิติบุคคลผู้เป็นตัวกลางในการติดต่อซื้อขายจนสำเร็จ ค่าธรรมเนียมหรือค่านายหน้าเป็นผลตอบแทนที่เกี่ยวข้องกับ “คนกลาง” ซึ่งทำงานโดยอิสระไม่ใช่ลูกจ้างหรือพนักงานของผู้ซื้อหรือผู้ขาย&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ค่าบำเหน็จตัวแทนจากการขาย (Selling Commission) หมายถึง ผลตอบแทนที่เป็นตัวเงินที่ผู้ขาย จ่ายให้แก่บุคคลหรือนิติบุคคลผู้เป็นตัวแทนของตนในการขายของที่นำเข้า ทั้งนี้ ไม่รวมถึงค่าบำเหน็จตัวแทนจากการซื้อ (Buying Commission)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ค่านายหน้าหรือค่าคนกลาง (Brokerage) หมายถึง ผลตอบแทนที่เป็นตัวเงินที่ผู้ขายและหรือผู้ซื้อจ่ายให้แก่ บุคคลหรือนิติบุคคลผู้เป็นตัวกลางในการติดต่อซื้อขายจนสำเร็จ ค่าธรรมเนียมหรือค่านายหน้าเป็นผลตอบแทนที่เกี่ยวข้องกับ “คนกลาง” ซึ่งทำงานโดยอิสระไม่ใช่ลูกจ้างหรือพนักงานของผู้ซื้อหรือผู้ขาย&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;ในการจัดทำข้อมูลใบขนสินค้าขาเข้า
 3.1 ในกรณีที่ผู้นำของเข้ามีหลักฐานการชำระค่าบำเหน็จตัวแทนจากการขาย ให้นำมารวมไว้เป็นราคาศุลกากร&lt;/p&gt;
@@ -844,7 +858,9 @@
     - พบพนักงานศุลกากร ณ หน่วยบริการศุลกากรที่นำของเข้า เพื่อยื่นหลักฐานหรือเอกสารจากผู้ขายมาแสดงให้พนักงานศุลกากรพิจารณาว่า การซื้อขายไม่มีการชำระค่าบำเหน็จตัวแทนจากการขาย หรือมีแต่นำมารวมไว้เป็นราคาศุลกากรแล้ว&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&#34;ค-าส-ทธ-และค-าธรรมเน-ยมใบอน-ญาต-royalties-and-license-fees&#34;&gt;ค่าสิทธิและค่าธรรมเนียมใบอนุญาต (Royalties and License Fees)&lt;/h3&gt;
+&lt;h3 id=&#34;ค-าส-ทธ&#34;&gt;ค่าสิทธิ&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;ค่าสิทธิและค่าธรรมเนียมใบอนุญาต (Royalties and License Fees)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;ค่าสิทธิและค่าธรรมเนียมใบอนุญาตจะต้องนำมารวมไว้เป็นราคาศุลกากร&lt;/li&gt;
@@ -854,7 +870,7 @@
 &lt;li&gt;กรณีมีเอกสารสัญญา ข้อตกลง ข้อผูกพัน หรือหลักฐานอื่นอันเกี่ยวกับค่าสิทธิและค่าธรรมเนียมใบอนุญาต ระบุค่าสิทธิและค่าธรรมเนียมใบอนุญาตอย่างชัดเจน แต่ยังไม่สามารถคำนวณได้ในขณะจัดทำข้อมูลใบขนสินค้าขาเข้า
 
 &lt;ul&gt;
-&lt;li&gt;ให้ผู้นำของเข้าประมาณการค่าสิทธิที่ต้องชำระสำหรับแต่ละรอบบัญชีโดยใช้ฐานค่าสิทธิที่ยังมิได้หักภาษี ณ ที่จ่ายของรอบบัญชีที่ผ่านมา นำมาคาดการณ์การขายในรอบบัญชีปัจจุบันว่าน่าจะมียอดขายเป็นจำนวนเท่าใด เพื่อนำมาคำนวณหาประมาณการค่าสิทธิที่จะต้องชำระสำหรับรอบบัญชีนี้ โดยคำนวณเป็นอัตราร้อยละของราคา CIF แล้วนำไปบวกเพิ่มในราคา CIF เป็นราคาศุลกากร&lt;/li&gt;
+&lt;li&gt;ให้ผู้นำของเข้าประมาณการค่าสิทธิ ที่ต้องชำระสำหรับแต่ละรอบบัญชี โดยใช้ฐานค่าสิทธิที่ยังมิได้หักภาษี ณ ที่จ่ายของรอบบัญชีที่ผ่านมา นำมาคาดการณ์การขายในรอบบัญชีปัจจุบันว่าน่าจะมียอดขายเป็นจำนวนเท่าใด เพื่อนำมาคำนวณหาประมาณการค่าสิทธิที่จะต้องชำระสำหรับรอบบัญชีนี้ โดยคำนวณเป็นอัตราร้อยละของราคา CIF แล้วนำไปบวกเพิ่มในราคา CIF เป็นราคาศุลกากร&lt;/li&gt;
 &lt;li&gt;ในการจัดทำข้อมูลใบขนสินค้าขาเข้าให้ระบุค่า “หากชำระอากรเกินประสงค์จะขอคืนอากร” ในช่อง &lt;em&gt;“Remark”&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;กรณีที่ผู้นำของเข้าทราบว่ามีค่าสิทธิ แต่ไม่สามารถคำนวณค่าสิทธิได้ หรือสัญญาซื้อขายระบุ
@@ -862,7 +878,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;ให้ผู้นำของเข้าวางประกันเพิ่มโดยคำนวณค่าสิทธิที่จะต้องวางประกันจากยอดขายสุทธิของรอบบัญชีที่ผ่านมา&lt;/li&gt;
-&lt;li&gt;ในการจัดทำข้อมูลใบขนสินค้าขาเข้าให้ระบุค่า “หากชำระอากรเกินประสงค์จะขอคืนอากร” ในช่อง &lt;em&gt;“Remark”&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;ในการจัดทำข้อมูลใบขนสินค้าขาเข้าให้ระบุค่า &lt;strong&gt;“หากชำระอากรเกินประสงค์จะขอคืนอากร”&lt;/strong&gt; ในช่อง &lt;em&gt;“Remark”&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;กรณีที่มีการชำระค่าสิทธิในกรณีอื่น ๆ
 
@@ -870,7 +886,7 @@
 &lt;li&gt;ในการจัดทำข้อมูลใบขนสินค้าขาเข้าให้ระบุค่า &lt;em&gt;“มีค่าสิทธิ หากชำระอากรเกินประสงค์จะขอคืนอากร”&lt;/em&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;พบพนักงานศุลกากร ณ หน่วยบริการศุลกากรที่นำของเข้า เพื่อยื่นหลักฐาน หรือเอกสารมาแสดงให้พนักงานศุลกากร พิจารณากำหนดวงเงินประกัน&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ให้ผู้นำของเข้ายื่นใบสรุปยอดรวมค่าสิทธิต่อหน่วยงานบริการ ณ ด่านศุลกากรที่นำของเข้า &lt;em&gt;ภายใน 30 วัน&lt;/em&gt; นับแต่วันครบงวดการชำระค่าสิทธิ&lt;/li&gt;
+&lt;li&gt;ให้ผู้นำของเข้ายื่นใบสรุปยอดรวมค่าสิทธิต่อหน่วยงานบริการ ณ ด่านศุลกากรที่นำของเข้า &lt;strong&gt;ภายใน 30 วัน&lt;/strong&gt; นับแต่วันครบงวดการชำระค่าสิทธิ&lt;/li&gt;
 &lt;li&gt;พนักงานศุลกากร จะดำเนินตรวจสอบและประเมินราคาใหม่และบันทึกผลรายละเอียดของ
 การประเมินราคาและค่าภาษีอากรที่ขาดหรือเกินไว้ในใบขนสินค้าขาเข้า โดยจัดทำข้อมูล Reassessment&lt;/li&gt;
 &lt;li&gt;กรณีชำระค่าภาษีอากรไว้ขาด ให้ดำเนินการออกแบบแจ้งการประเมินอากรขาเข้าภาษีสรรพสามิตและภาษีมูลค่าเพิ่ม (แบบ กศก.115) และแจ้งให้ผู้นำของเข้าชำระค่าภาษีอากรพร้อมเงินเพิ่มให้ครบถ้วน&lt;/li&gt;
@@ -878,7 +894,9 @@
 &lt;li&gt;การดำเนินงานในการประเมินอากรใหม่ กรณีอากรเกินหรืออากรขาดไม่ต้องส่งเรื่องให้หน่วยงานคดี พิจารณาความผิดกับผู้นำของเข้า&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&#34;ค-าประก-นภ-ย-ค-าขนส-งของ-ค-าขนของลง-ค-าขนของข-น-หร-อ-ค-าจ-ดการต-าง-ๆ&#34;&gt;ค่าประกันภัย ค่าขนส่งของ ค่าขนของลง ค่าขนของขึ้น หรือ ค่าจัดการต่าง ๆ&lt;/h3&gt;
+&lt;h3 id=&#34;ค-าใช-จ-าย-ค-าจ-ดการต-าง-ๆ&#34;&gt;ค่าใช้จ่าย ค่าจัดการต่าง ๆ&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;ค่าประกันภัย ค่าขนส่งของ ค่าขนของลง ค่าขนของขึ้น หรือ ค่าจัดการต่าง ๆ&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;กรณีบัญชีราคาสินค้า (Invoice) รายใดไม่มี&lt;em&gt;ค่าประกันภัย (Insurance)&lt;/em&gt; หรือไม่มีเอกสารหลักฐานการจ่ายค่าประกันภัยให้บวกค่าประกันภัยขึ้นอีก&lt;em&gt;ร้อยละ 1&lt;/em&gt; ของราคา FOB&lt;/p&gt;&lt;/li&gt;
@@ -898,7 +916,7 @@
 &lt;li&gt;ของที่นำเข้าทางอากาศยาน แต่มีบัญชีราคาสินค้า (INVOICE) สำแดงราคารวม  ค่าขนส่งทางอากาศยานเท่ากับ ราคารวมค่าขนส่งที่นำเข้าทางเรือ ในกรณีเช่นนี้ การกำหนดราคาให้หักค่าขนส่งทางเรือออกเสียจากราคาดังกล่าว แล้วบวกค่าขนส่งทางอากาศยานที่ผู้ขายหรือผู้ส่งออกได้ชำระไป หากไม่ทราบ ค่าขนส่งทางเรือที่จะคำนวณหักออกได้ ให้หักค่าขนส่งของทางเรือออกในอัตรา &lt;em&gt;ร้อยละ 10&lt;/em&gt; ของราคาของ&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;2.3 การนำเข้าทางไปรษณีย์ ให้บวกค่าขนส่งตามอัตราไปรษณียากรสำหรับพัสดุไปรษณีย์ระหว่างประเทศของบริษัทไปรษณีย์ไทย จำกัด ที่ใช้อยู่ในขณะนำเข้า&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;2.3 การนำเข้าทางไปรษณีย์ ให้บวกค่าขนส่งตามอัตราไปรษณียากร สำหรับพัสดุไปรษณีย์ระหว่างประเทศของบริษัทไปรษณีย์ไทย จำกัด ที่ใช้อยู่ในขณะนำเข้า&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;บัญชีราคาสินค้า (INVOICE) ที่ยังไม่รวมค่าขนของลง ค่าขนของขึ้น หรือค่าจัดการต่าง ๆ ที่เกี่ยวเนื่องกับการขนส่งของมายังด่านศุลกากรที่นำของเข้า  แต่ข้อตกลงการส่งมอบของได้กำหนดค่าใช้จ่ายต่าง ๆ  ไว้ ให้นำค่าใช้จ่ายดังกล่าวบวกราคาซื้อขายตามเอกสารหลักฐานที่มีการชำระจริง&lt;/p&gt;&lt;/li&gt;
 
@@ -908,13 +926,11 @@
     </item>
     
     <item>
-      <title>International Commercial Terms (INCOTERMS)</title>
+      <title>International Commercial Terms</title>
       <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/incoterms/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/incoterms/</guid>
       <description>
-
-&lt;h1 id=&#34;incoterms&#34;&gt;INCOTERMS&lt;/h1&gt;
 
 &lt;p&gt;&lt;strong&gt;Incoterms (International Commercial Terms)&lt;/strong&gt; เป็นข้อกำหนดการส่งมอบสินค้า (Term of Shipment) ระหว่างผู้ซื้อกับผู้ขายที่เป็นสากล ซึ่งกำหนดขึ้นโดยสภาหอการค้านานาชาติ (International Chamber of Commerce) ได้มีการประชุมบรรดาสมาชิกสภาหอการค้าระหว่างประเทศ &lt;strong&gt;ทุก 10 ปี&lt;/strong&gt; เพื่อวางหลักเกณฑ์ข้อตกลงในการส่งมอบสินค้าระหว่างประเทศ เริ่มใช้ในปี ค.ศ. 1963 ฉบับปัจจุบันปรับปรุงแก้ไขเมื่อ ค.ศ. 2010 ประกาศใช้เมื่อ 1 มกราคม ค.ศ. 2011 เพื่อให้กฎเกณฑ์ดังกล่าวสอดคล้องกับหลักปฏิบัติทางการค้าระหว่างประเทศและในประเทศในปัจจุบัน โดยกําหนดให้ขอบเขตของ Incoterms @ 2010 จํากัดอยู่เฉพาะเรื่องที่เกี่ยวข้องกับสิทธิและหน้าที่ของคู่สัญญาซื้อขาย ในเรื่องการสส่งมอบสินค้าที่ขาย ว่าโดยนัยของสินค้า &lt;strong&gt;ที่จับต้องได้&lt;/strong&gt; (Tangible Goods) เท่านั้น ไม่รวมถึง &lt;strong&gt;ที่จับต้องไม่ได้&lt;/strong&gt;&lt;/p&gt;
 
@@ -1783,15 +1799,11 @@
     </item>
     
     <item>
-      <title>เลขประจำตัวผู้เสียภาษีของหน่วยงานผู้ออกใบอนุญาต (Permit Issue Authority)</title>
+      <title>เลขประจำตัวผู้เสียภาษีของหน่วยงานผู้ออกใบอนุญาต</title>
       <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/permit-issue-authority/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/permit-issue-authority/</guid>
-      <description>
-
-&lt;h1 id=&#34;เลขประจำต-วผ-เส-ยภาษ-ของหน-วยงานผ-ออกใบอน-ญาต-permit-issue-authority&#34;&gt;เลขประจำตัวผู้เสียภาษีของหน่วยงานผู้ออกใบอนุญาต (Permit Issue Authority)&lt;/h1&gt;
-
-&lt;table&gt;
+      <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;center&#34;&gt;ลำดับที่&lt;/th&gt;
@@ -1989,11 +2001,12 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;blockquote class=&#34;book-hint info&#34;&gt;
-  &lt;strong&gt;หากเป็นใบอนุญาตจากต่างประเทศ&lt;/strong&gt; เช่น ATIGA  Form D ในช่องเลขประจำตัวผู้เสียภาษีอากร
+&lt;div class=&#34;alert alert-note_success&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;หากเป็นใบอนุญาตจากต่างประเทศ&lt;/strong&gt; เช่น ATIGA  Form D ในช่องเลขประจำตัวผู้เสียภาษีอากร
 ของผู้ออกใบอนุญาตให้ระบุ&lt;strong&gt;ชื่อย่อประเทศผู้ออกใบอนุญาต&lt;/strong&gt; นั้น เช่น &lt;strong&gt;MY = ประเทศมาเลเซีย&lt;/strong&gt; เป็นต้น
-&lt;/blockquote&gt;
-
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -2004,7 +2017,9 @@
       <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/checking-mainfest/</guid>
       <description>
 
-&lt;h2 id=&#34;การตรวจสอบข-อม-ลใบขนส-นค-าก-บข-อม-ล-manifest&#34;&gt;การตรวจสอบข้อมูลใบขนสินค้ากับข้อมูล Manifest&lt;/h2&gt;
+&lt;h2 id=&#34;การตรวจสอบข-อม-ล&#34;&gt;การตรวจสอบข้อมูล&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;การตรวจสอบข้อมูลใบขนสินค้ากับข้อมูล Manifest&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;การยื่นใบขนสินค้าขาเข้าและการชำระค่าภาษีอากร  หรือวางประกันค่าภาษีอากรสำหรับใบขนสินค้า
@@ -2111,7 +2126,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;div class=&#34;alert alert-info&#34;&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;strong&gt;เลขที่ใบตราส่ง 1&lt;/strong&gt; มีความสัมพันธ์กับ Transport Mode ดังนี้.&lt;/p&gt;
 
@@ -2125,7 +2140,7 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;alert alert-warning&#34;&gt;
+&lt;div class=&#34;alert alert-note_warning&#34;&gt;
   &lt;div&gt;
     &lt;strong&gt;เลขที่ใบตราส่ง 2&lt;/strong&gt; มีความสัมพันธ์กับ Transport Mode ดังนี้.&lt;/p&gt;
 
@@ -2268,7 +2283,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 id=&#34;เลขท-ใบอน-ญาตให-ผ-านแดน-ศ-บ-1&#34;&gt;เลขที่ใบอนุญาตให้ผ่านแดน (ศ.บ. 1)&lt;/h3&gt;
+&lt;h2 id=&#34;เลขท-ใบอน-ญาตให-ผ-านแดน-ศ-บ-1&#34;&gt;เลขที่ใบอนุญาตให้ผ่านแดน (ศ.บ.1)&lt;/h2&gt;
 
 &lt;p&gt;รูปแบบเลขที่ใบอนุญาตให้ผ่านแดนในรูปแบบกระดาษ มีจำนวน 17 หลัก ดังนี้&lt;/p&gt;
 
@@ -2280,13 +2295,16 @@
 
 &lt;h3 id=&#34;กรณ-การนำเข-าทางบกท-ใช-ศ-บ-1-หลายฉบ-บ&#34;&gt;กรณีการนำเข้าทางบกที่ใช้ ศ.บ. 1 หลายฉบับ&lt;/h3&gt;
 
-&lt;p&gt;กรณีการขนส่งทางบกที่มีการขนส่งผ่านด่านพรมแดนทางบกหลายเที่ยวรถยนต์ให้ดำเนินการดังนี้&lt;/p&gt;
-
-&lt;ul&gt;
+&lt;p&gt;กรณีการขนส่งทางบกที่มีการขนส่งผ่านด่านพรมแดนทางบกหลายเที่ยวรถยนต์ให้ดำเนินการดังนี้
+&lt;div class=&#34;alert alert-note_warning&#34;&gt;
+  &lt;div&gt;
+    &lt;ul&gt;
 &lt;li&gt;ในการจัดทำข้อมูลใบขนสินค้าขาเข้าให้ระบุค่า &lt;strong&gt;“Y”&lt;/strong&gt; ในช่อง &lt;strong&gt;“Assessment request code”&lt;/strong&gt;
 &lt;strong&gt;“มีปัญหาพิกัด ราคา พบ พนักงานศุลกากร ที่ ด่านศุลกากรที่นำเข้า”&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;พบ พนักงานศุลกากร ที่ด่านศุลกากร เพื่อขออนุญาตรวม ศ.บ.1 หลายฉบับต่อ 1 ใบขนสินค้า&lt;/li&gt;
 &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
     

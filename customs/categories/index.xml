@@ -5,12 +5,36 @@
     <link>https://ecs-support.github.io/knowledge-center/customs/categories/</link>
       <atom:link href="https://ecs-support.github.io/knowledge-center/customs/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ecs-support.github.io/knowledge-center/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
       <link>https://ecs-support.github.io/knowledge-center/customs/categories/</link>
     </image>
+    
+    <item>
+      <title>mail</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/category/mail/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/category/mail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>บทความทางวิชาการ</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/category/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/category/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AD</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/category/ad/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/category/ad/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ประกาศ</title>
@@ -57,6 +81,14 @@
       <link>https://ecs-support.github.io/knowledge-center/customs/category/begin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://ecs-support.github.io/knowledge-center/customs/category/begin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ของต้องห้าม-ต้องกำกัด</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/category/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/category/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/</guid>
       <description></description>
     </item>
     
