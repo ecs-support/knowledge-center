@@ -7,10 +7,31 @@
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright>
     <image>
-      <url>https://ecs-support.github.io/knowledge-center/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ecs-support.github.io/knowledge-center/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_300x300_fit_lanczos_2.png</url>
       <title>Posts</title>
       <link>https://ecs-support.github.io/knowledge-center/customs/post/</link>
     </image>
+    
+    <item>
+      <title>การเพิ่มประสิทธิภาพในการควบคุมการเคลื่อนย้ายสินค้าระหว่างเขตพื้นที่รับผิดชอบของด่านศุลกากร</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/post/controlling-goods-movement/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/post/controlling-goods-movement/</guid>
+      <description>&lt;p&gt;บทความจากจุลสารศุลกากร ปีที่ 28 ฉบับที่ 06 เดือน มีนาคม 2563 เรื่อง &lt;strong&gt;&amp;ldquo;การเพิ่มประสิทธิภาพในการควบคุมการเคลื่อนย้ายสินค้าระหว่างเขตพื้นที่รับผิดชอบของด่านศุลกากร&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/goods-movementpng_Page10.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/goods-movementpng_Page11.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/goods-movementpng_Page12.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/goods-movementpng_Page13.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : จุลสารศุลกากร ปีที่ 28 ฉบับที่ 06 เดือน มีนาคม 2563&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>การใช้ใบรับรองถิ่นกำเนิดอิเล็กทรอนิกส์เพื่อรองรับการขยายตัวการใช้สิทธิพิเศษความตกลงการค้าเสรี</title>
@@ -654,15 +675,6 @@ date: 2019-09-01
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 
 &lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/post/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/customs/post/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     

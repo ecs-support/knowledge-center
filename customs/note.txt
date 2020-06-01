@@ -21,3 +21,12 @@ Here's some important information...
 ## Embled PDF
 
 {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}.
+
+{{< tabs "uniqueid" >}}
+{{< tab "การชดเชยค่าภาษีอากร" >}} 
+
+{{< /tab >}}
+{{< /tabs >}}
+
+
+

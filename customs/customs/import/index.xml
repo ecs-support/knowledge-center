@@ -1,29 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>การปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (Import) | ECS</title>
+    <title>การนำเข้าสินค้า (Import) | ECS</title>
     <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/</link>
       <atom:link href="https://ecs-support.github.io/knowledge-center/customs/customs/import/index.xml" rel="self" type="application/rss+xml" />
-    <description>การปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (Import)</description>
+    <description>การนำเข้าสินค้า (Import)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ecs-support.github.io/knowledge-center/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>การปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (Import)</title>
+      <url>https://ecs-support.github.io/knowledge-center/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_300x300_fit_lanczos_2.png</url>
+      <title>การนำเข้าสินค้า (Import)</title>
       <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/</link>
     </image>
     
     <item>
-      <title>พิธีการนำเข้าสินค้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/customs-clearange/</link>
-      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/customs-clearange/</guid>
+      <title>พิธีการการนำเข้าสินค้า (Import)</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/customs-clearance/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/customs-clearance/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/import-Customs-clearance.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;นำของเข-าทางบก&#34;&gt;นำของเข้าทางบก&lt;/h1&gt;
+&lt;h2 id=&#34;เน-อหา&#34;&gt;เนื้อหา&lt;/h2&gt;
 
-&lt;h2 id=&#34;การรายงานยานพาหนะ&#34;&gt;การรายงานยานพาหนะ&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note_toc&#34;&gt;
+  &lt;div&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E0%B8%99%E0%B8%B3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%82-%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%81&#34;&gt;พิธีการศุลกากรนำของเข้าทางบก&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E0%B8%99%E0%B8%B3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%82-%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A3-%E0%B8%AD&#34;&gt;พิธีการศุลกากรนำของเข้าทางเรือ&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E0%B8%99%E0%B8%B3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%82-%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8&#34;&gt;พิธีการศุลกากรนำของเข้าทางอากาศ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;พ-ธ-การศ-ลกากรนำของเข-าทางบก&#34;&gt;พิธีการศุลกากรนำของเข้าทางบก&lt;/h2&gt;
+
+&lt;h3 id=&#34;การรายงานยานพาหนะ&#34;&gt;การรายงานยานพาหนะ&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;การรายงานยานพาหนะเข้าและการยื่นบัญชีสินค้าทางบก (Car Manifest)&lt;/strong&gt;&lt;/p&gt;
 
@@ -31,7 +43,7 @@
 
 &lt;p&gt;กรณีผู้รับผิดชอบการขนส่งสินค้า ไม่สามารถส่งข้อมูลทางอิเล็กทรอนิกส์เองได้ ให้กรอกรายละเอียดในรายงานยานพาหนะเข้าและบัญชีสินค้าทางบก (Car Manifest) ตามแบบ ศบ.1 ให้ครบถ้วน นำมายื่นแบบศบ.1 ต่อพนักงานศุลกากรประจำด่านพรมแดนเพื่อตรวจสอบและส่งข้อมูลเข้าระบบคอมพิวเตอร์ของกรมฯ เพื่อออกเลขที่รับรายงานยานพาหนะ (Received Control Number) ก่อนอนุญาตให้ควบคุมยานพาหนะไปยังด่านศุลกากร&lt;/p&gt;
 
-&lt;h2 id=&#34;การย-นใบขนส-นค-าขาเข-า&#34;&gt;การยื่นใบขนสินค้าขาเข้า&lt;/h2&gt;
+&lt;h3 id=&#34;การย-นใบขนส-นค-าขาเข-า&#34;&gt;การยื่นใบขนสินค้าขาเข้า&lt;/h3&gt;
 
 &lt;p&gt;เมื่อยานพาหนะที่บรรทุกสินค้าได้ผ่านด่านพรมแดนมายังด่านศุลกากร ในกรณีที่เป็นสินค้าทั่วไป ผู้นำของเข้าจะต้องจัดทำ “ใบขนสินค้าขาเข้าพร้อมแบบแสดงรายการภาษีสรรพสามิตและภาษีมูลค่าเพิ่ม (กศก. &lt;sup&gt;99&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1&lt;/sub&gt; )” ตามมาตรฐานและรูปแบบที่กรมศุลกากรกำหนด โดยส่งข้อมูลใบขนสินค้าในรูปแบบอิเล็กทรอนิกส์มายังระบบคอมพิวเตอร์ของกรมศุลกากร เมื่อระบบคอมพิวเตอร์ของกรมฯ ได้รับข้อมูลแล้วจะทำการตรวจสอบและตัดบัญชีสินค้าทางบก (Car Manifest) หากพบว่าข้อมูลถูกต้องตามมาตรฐานและรูปแบบที่กำหนด ระบบคอมพิวเตอร์จะตอบกลับและออกเลขที่ใบขนสินค้าขาเข้าเพื่อให้ผู้นำของเข้าไปดำเนินการชำระภาษีอากรและรอรับการตรวจปล่อยออกจากอารักขาศุลกากรต่อไป&lt;/p&gt;
 
@@ -67,7 +79,7 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;การชำระค-าภาษ-อากร&#34;&gt;การชำระค่าภาษีอากร&lt;/h2&gt;
+&lt;h3 id=&#34;การชำระค-าภาษ-อากร&#34;&gt;การชำระค่าภาษีอากร&lt;/h3&gt;
 
 &lt;p&gt;เมื่อผู้นำของเข้าได้ยื่นข้อมูลใบขนสินค้าเข้าสู่ระบบคอมพิวเตอร์ของกรมศุลกากรและได้รับการตอบกลับเลขที่ใบขนสินค้าแล้ว ผู้นำของเข้าจะต้องดำเนินการชำระค่าภาษีอากร (ถ้ามี) และค่าธรรมเนียมศุลกากรให้แล้วเสร็จก่อนไปดำเนินการรับการตรวจปล่อยของออกจากอารักขาศุลกากร โดยผู้นำของเข้าสามารถชำระค่าภาษีอากรและค่าธรรมเนียมศุลกากรได้ 3 ช่องทางดังต่อไปนี้&lt;/p&gt;
 
@@ -79,7 +91,7 @@
 &lt;li&gt;&lt;p&gt;ชำระในระบบ e-Bill Payment คือ การใช้เอกสารของกรมศุลกากร (เช่น ใบขนสินค้า ใบสั่งเก็บ)ซึ่งมี QR Code หรือ Bar Code หรือเลขอ้างอิงตามที่ปรากฏในเอกสารนั้น ไปชำระ ณ เคาน์เตอร์ของธนาคาร หรือ Internet Banking หรือ ATM หรือช่องทางการรับชำระเงินอื่น ๆ ของธนาคาร หรือ ผ่านตัวแทนรับชำระเงินที่ทำความตกลงกับกรมศุลกากร ได้แก่ เคาน์เตอร์เซอร์วิสของ 7-11 และ บิ๊กซี&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;การตรวจปล-อย&#34;&gt;การตรวจปล่อย&lt;/h2&gt;
+&lt;h3 id=&#34;การตรวจปล-อย&#34;&gt;การตรวจปล่อย&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;การตรวจปล่อยของออกไปจากอารักขาศุลกากร&lt;/strong&gt;&lt;/p&gt;
 
@@ -95,18 +107,25 @@
 
 &lt;p&gt;&lt;img src=&#34;http://www.customs.go.th/data_files/412cd544aa8863e68c4e75c064abcefa.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
+&lt;div class=&#34;alert alert-success&#34;&gt;
+  &lt;div&gt;
+    ติดต่อสอบถาม : ด่านศุลกากรอรัญประเทศ สำนักงานศุลกากรภาคที่ 1.&lt;br /&gt;
+โทรศัพท์ 0-3723-0313.
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;ติดต่อสอบถาม : ด่านศุลกากรอรัญประเทศ สำนักงานศุลกากรภาคที่ 1 โทรศัพท์ 0-3723-0313.&lt;br /&gt;
-ที่มา :  &lt;a href=&#34;http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&amp;amp;ini_content=business_160426_02_160426_01&amp;amp;lang=th&amp;amp;root_left_menu=menu_business_160421_02_160421_01&amp;amp;left_menu=menu_business_160421_02_160421_01_160914_01&#34;&gt;กรมศุลกากร&lt;/a&gt;  ปรับปรุงล่าสุด : 19 มีนาคม 2563&lt;/p&gt;
+&lt;p&gt;ที่มา :  &lt;a href=&#34;http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&amp;amp;ini_content=business_160426_02_160426_01&amp;amp;lang=th&amp;amp;root_left_menu=menu_business_160421_02_160421_01&amp;amp;left_menu=menu_business_160421_02_160421_01_160914_01&#34;&gt;กรมศุลกากร&lt;/a&gt;.&lt;br /&gt;
+ปรับปรุงล่าสุด : 19 มีนาคม 2563&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;นำของเข-าทางเร-อ&#34;&gt;นำของเข้าทางเรือ&lt;/h1&gt;
+&lt;h2 id=&#34;พ-ธ-การศ-ลกากรนำของเข-าทางเร-อ&#34;&gt;พิธีการศุลกากรนำของเข้าทางเรือ&lt;/h2&gt;
 
 &lt;p&gt;กรมศุลกากรได้พัฒนานำระบบอิเล็กทรอนิกส์ มาใช้ในการบริการผ่านพิธีการศุลกากรซึ่งปัจจุบันเรียกว่าระบบ TCS ผู้ประสงค์จะดำเนินการผ่านพิธีการศุลกากรทางอิเล็กทรอนิกส์จะต้องทำการลงทะเบียนกับกรมศุลกากร เพื่อบันทึกข้อมูลไว้ในฐานข้อมูลระบบคอมพิวเตอร์ของกรมศุลกากร ซึ่งผู้ที่ลงทะเบียนแล้วสามารถเข้าสู่ระบบการผ่านพิธีการศุลกากรทางคอมพิวเตอร์ของตนเองหรือผ่าน SERVICE COUNTER ของเอกชนหรือที่จุดให้บริการของกรมศุลกากร ณ จุดนำเข้า-ส่งออก&lt;/p&gt;
 
-&lt;h2 id=&#34;การลงทะเบ-ยน&#34;&gt;การลงทะเบียน&lt;/h2&gt;
+&lt;h3 id=&#34;การลงทะเบ-ยน&#34;&gt;การลงทะเบียน&lt;/h3&gt;
 
 &lt;p&gt;การลงทะเบียนกับกรมศุลกากรต้องเตรียมเอกสารดังต่อไปนี้&lt;/p&gt;
 
@@ -122,7 +141,9 @@
 โดยยื่นคำร้องที่ ส่วนทะเบียนและสิทธิพิเศษ สำนักมาตรฐานพิธีการและราคาศุลกากร กรมศุลกากรหรือยื่นผ่านสำนักงานศุลกากร หรือด่านศุลกากร ทั้งนี้ผู้ลงทะเบียนจะสามารถปฏิบัติงานเกี่ยวกับการออกของได้สามปีนับแต่วันที่ได้รับอนุญาต&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;พ-ธ-การศ-ลกากรนำเข-าทางเร-อ&#34;&gt;พิธีการศุลกากรนำเข้าทางเรือ&lt;/h2&gt;
+&lt;h3 id=&#34;พ-ธ-การศ-ลกากร&#34;&gt;พิธีการศุลกากร&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;พิธีการศุลกากรนำเข้าทางเรือ&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;ในการนำเข้าสินค้า ผู้นำเข้าจะต้องปฏิบัติตามกฎหมาย ระเบียบ และประกาศที่กรมศุลกากรและหน่วยงานอื่น ๆ ที่เกี่ยวข้องในการนำเข้า อาทิ กระทรวงพาณิชย์สำนักงานคณะกรรมการอาหารและยา กรมปศุสัตว์ ฯลฯ ที่กำหนดไว้ให้ครบถ้วน โดยมีคำแนะนำในการจัดเตรียมเอกสาร เพื่อปฏิบัติตามขั้นตอนพิธีการศุลกากรในการนำเข้าสินค้า ดังนี้&lt;/p&gt;
 
@@ -173,7 +194,7 @@
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;ข-นตอนการปฏ-บ-ต-พ-ธ-การ&#34;&gt;ขั้นตอนการปฏิบัติพิธีการ&lt;/h2&gt;
+&lt;h3 id=&#34;ข-นตอนการปฏ-บ-ต-พ-ธ-การ&#34;&gt;ขั้นตอนการปฏิบัติพิธีการ&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;ขั้นตอนการปฏิบัติพิธีการนำเข้าสินค้าทางเรือ&lt;/strong&gt;&lt;/p&gt;
 
@@ -206,142 +227,57 @@
 
 &lt;p&gt;&lt;img src=&#34;http://th.customs.go.th/data_files/1609141607232045596574.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
+&lt;div class=&#34;alert alert-success&#34;&gt;
+  &lt;div&gt;
+    สอบถามข้อมูลเพิ่มเติมได้ที่ : สำนักงานศุลกากรท่าเรือแหลมฉบัง (สทบ.).&lt;br /&gt;
+โทรศัพท์ : 0-3840-7701 หรือ 0-2667-7000 ต่อ 25-7701.
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;สอบถามข้อมูลเพิ่มเติมได้ที่ : สำนักงานศุลกากรท่าเรือแหลมฉบัง (สทบ.)  โทรศัพท์ : 0-3840-7701 หรือ 0-2667-7000 ต่อ 25-7701.&lt;br /&gt;
-ที่มา :  &lt;a href=&#34;http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&amp;amp;ini_content=business_160426_02_160914_02_160914_02&amp;amp;lang=th&amp;amp;root_left_menu=menu_business_160421_02_160421_02&amp;amp;left_menu=menu_business_160421_02_160421_02_160914_02&#34;&gt;กรมศุลกากร&lt;/a&gt;.&lt;br /&gt;
+&lt;p&gt;ที่มา :  &lt;a href=&#34;http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&amp;amp;ini_content=business_160426_02_160914_02_160914_02&amp;amp;lang=th&amp;amp;root_left_menu=menu_business_160421_02_160421_02&amp;amp;left_menu=menu_business_160421_02_160421_02_160914_02&#34;&gt;กรมศุลกากร&lt;/a&gt;.&lt;br /&gt;
 ปรับปรุงล่าสุด : 13 มิ.ย. 2560&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;นำของเข-าทางอากาศ&#34;&gt;นำของเข้าทางอากาศ&lt;/h1&gt;
+&lt;h2 id=&#34;พ-ธ-การศ-ลกากรนำของเข-าทางอากาศ&#34;&gt;พิธีการศุลกากรนำของเข้าทางอากาศ&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://th.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02_160421_01&amp;amp;ini_content=business_160426_02_160914_01_160929_01_160929_01&amp;amp;left_menu=menu_business_160421_02_160421_01_160914_03&#34;&gt;การผ่านพิธีการศุลกากรนาเข้าในระบบอิเล็กทรอนิกส์แบบไร้เอกสาร (e-Import)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://th.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02_160421_01&amp;amp;ini_content=business_160426_02_160914_01_160929_01_160929_02&amp;amp;left_menu=menu_business_160421_02_160421_01_160914_03&#34;&gt;การรับของจากอารักขาศุลกากรในระบบ e-Import&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;แผนภ-ม-กระบวนการนำเข-าทางอากาศ&#34;&gt;แผนภูมิกระบวนการนำเข้าทางอากาศ&lt;/h2&gt;
+&lt;h3 id=&#34;กระบวนการนำเข-า&#34;&gt;กระบวนการนำเข้า&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;แผนภูมิกระบวนการนำเข้าทางอากาศ&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://www.customs.go.th/data_files/a17c638b1d83e89a5535f06fa937b441.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;สอบถามข้อมูลเพิ่มเติมได้ที่ : สำนักงานศุลกากรตรวจสินค้าท่าอากาศยานสุวรรณภูมิ (สสภ.) โทรศัพท์ : 02-134-1246.&lt;br /&gt;
-ที่มา : &lt;a href=&#34;http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&amp;amp;ini_content=business_160426_02_160914_01_160914_02&amp;amp;lang=th&amp;amp;root_left_menu=menu_business_160421_02_160421_01&amp;amp;left_menu=menu_business_160421_02_160421_01_160914_03&#34;&gt;กรมศุลกากร&lt;/a&gt; ปรับปรุงล่าสุด : 15 มิ.ย. 2560&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ของตกค้าง</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/overtime/</link>
-      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/overtime/</guid>
-      <description>
-
-&lt;p&gt;เนื่องจากก่อนหน้านี้พบว่า มีใบขนสินค้าผ่านแดน ที่ส่งข้อมูลหลักจากวันนำเข้า&lt;em&gt;เกิน 60 วัน&lt;/em&gt; ระบบกรมศุลกากรได้ Lock ไม่ให้ส่งข้อมูลใบขนสินค้าผ่านแดน ทำให้มีคำถามกลับเข้ามาถึงกฎหมายที่เกี่ยวข้อง และขั้นตอนการปฏิบัติพิธีการศุลกากรสำหร้ับเรื่องดังกล่าว ในส่วนของโปรแกรม เราจำเป็นต้องทราบว่าระบบหลังบ้านกรมศุลกากร จะทำการตรวจสอบและ lock สินค้าที่อยู่ในอารักขาของศุลกากร&lt;em&gt;เกิน 60 วัน&lt;/em&gt; นับแต่วันที่นําเข้า โดย&lt;em&gt;ไม่มีการยื่นใบขนสินค้า&lt;/em&gt; หรือ &lt;em&gt;ไม่ได้เสียอากรหรือวางประกันค่าอากรที่ศุลกากรเรียกเก็บ&lt;/em&gt; ไม่สามารถส่งข้อมูลทางอิเล็กทรอนิกส์ได้ เราจึงรวบรวมข้อกฎหมายและขั้นตอนการปฏิบัติของหน่วยงานต่าง ๆ ที่เกี่ยวข้องกับของตกค้าง เพื่อใช้ประกอบทำความเข้าใจ และใช้เป็นแนวทางในการแก้ปัญหาในเรื่องดังกล่าวดังนี้&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/remainder-01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ตามประกาศกรมศุลกากรที่ 142/ 2560 เรื่อง พิธีการศุลกากรว่าด้วยของตกค้าง &lt;a href=&#34;http://www.ratchakitcha.soc.go.th/DATA/PDF/2560/E/276/56.PDF&#34;&gt;&lt;strong&gt;(ดาวน์โหลดประกาศ)&lt;/strong&gt;&lt;/a&gt; ได้นิยามความหมายและหลักเกณฑ์ไว้ดังนี้&lt;/p&gt;
-
-&lt;h2 id=&#34;ความหมาย&#34;&gt;ความหมาย&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;“ของตกค้าง”&lt;/strong&gt; หมายถึง ของที่อยู่ในอารักขาของศุลกากรในลักษณะใดลักษณะหนึ่ง ดังต่อไปนี้&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;ของนําเข้าที่เป็น &lt;em&gt;สินค้าอันตราย&lt;/em&gt; ตามชนิด หรือประเภทที่กําหนดตามมาตรา 5 (5) แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 ที่ผู้นําของเข้ายังมิได้นําของออกไปจากเขตศุลกากร &lt;em&gt;ภายใน 5 วัน&lt;/em&gt; สําหรับของที่&lt;em&gt;ขนถ่ายข้างลํา (OVERSIDE)&lt;/em&gt; และ &lt;em&gt;ภายใน 7 วัน&lt;/em&gt; สําหรับกรณีอื่นนับแต่สินค้าอันตรายอยู่ในอารักขาของศุลกากร&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;ของนําเข้าอื่นใดนอกจากข้อ (1) ที่อยู่ในอารักขาของศุลกากร&lt;em&gt;เกิน 30 วัน&lt;/em&gt; นับแต่วันที่นําเข้า โดย&lt;em&gt;ไม่มีการยื่นใบขนสินค้า&lt;/em&gt; และไม่ได้เสียอากรหรือวางประกันค่าอากรที่พึงเรียกเก็บแก่ของนั้น ซึ่งอธิบดีมีหนังสือแจ้งไปยังตัวแทนของเรือที่นําของเข้ามา แต่ตัวแทนของเรือไม่ยอมดําเนินการให้ถูกต้อง ภายใน 15 วันนับแต่วันที่ได้รับหนังสือแจ้งจากอธิบดี&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;ของนําเข้าอื่นใดนอกจากข้อ (1) ที่&lt;em&gt;ยื่นใบขนสินค้า&lt;/em&gt; และ&lt;em&gt;เสียอากรหรือ วางประกันค่าอากรไว้ไม่ครบถ้วน&lt;/em&gt; และไม่ได้นําออกไปจากอารักขาของศุลกากร ภายในกําหนด 30 วัน นับแต่วันที่ได้รับหนังสือแจ้งจากอธิบดี&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;em&gt;ของสดของเสียได้&lt;/em&gt; ที่ยังมิได้รับมอบไปจากอารักขาของศุลกากร และเห็นได้ชัดว่ามีลักษณะบูดเน่า หรือเสียแล้ว ตามมาตรา 109 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;หล-กเกณฑ-ของการเป-นของตกค-าง&#34;&gt;หลักเกณฑ์ของการเป็นของตกค้าง&lt;/h2&gt;
-
-&lt;p&gt;ของที่อยู่ในอารักขาของศุลกากรที่มีลักษณะอย่างใดอย่างหนึ่งดังต่อไปนี้ เป็นของตกค้างตามมาตรา 107 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;ของนําเข้าที่เป็นสินค้าอันตรายตามชนิด หรือประเภทที่กําหนด ตามมาตรา 5 (5) แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 ซึ่งผู้นําของเข้ามิได้นําของออกไปจากเขตศุลกากรภายใน 5 วัน สําหรับของที่ขนถ่ายข้างลํา (OVERSIDE) และภายใน 7 วันสําหรับกรณีอื่น นับแต่สินค้าอันตรายอยู่ในอารักขาของศุลกากร ถ้าพ้นกําหนดแล้วสินค้าอันตรายนั้นจะตกเป็นของตกค้างโดยผลของกฎหมาย&lt;/li&gt;
-&lt;li&gt;ของนําเข้าอื่นนอกจากข้อ (1) จะตกเป็นของตกค้าง มี 2 ประเภทได้แก่
-
-&lt;ul&gt;
-&lt;li&gt;ของที่อยู่ในอารักขาของศุลกากรเกินเวลา 30 วัน นับแต่วันนําเข้าสําเร็จ จะตกเป็นของตกค้าง ต้องประกอบด้วยหลักเกณฑ์ดังต่อไปนี้
-
-&lt;ul&gt;
-&lt;li&gt;เป็นของที่ไม่มีการยื่นใบขนสินค้าและไม่ได้เสียอากร หรือวางประกันค่าอากรที่พึงเรียกเก็บแก่ของนั้น&lt;/li&gt;
-&lt;li&gt;อธิบดีได้มีหนังสือแจ้งไปยังตัวแทนของเรือที่นําของเข้ามา แต่ตัวแทนของเรือไม่ยอมดําเนินการให้ถูกต้อง ภายใน 15 วันนับแต่วันที่ได้รับหนังสือแจ้งจากอธิบดี&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ของนําเข้าที่ไม่ได้นําออกไปจากอารักขาของศุลกากร ภายในกําหนด 30 วันนับแต่วันที่ได้รับหนังสือแจ้งจากอธิบดี จะตกเป็นของตกค้าง ต้องประกอบด้วยหลักเกณฑ์ดังต่อไปนี้
-
-&lt;ul&gt;
-&lt;li&gt;เป็นของที่มีการยื่นใบขนสินค้าโดยไม่ได้เสียอากรหรือวางประกันอากร หรือ&lt;/li&gt;
-&lt;li&gt;เป็นของที่มีการยื่นใบขนสินค้าและเสียอากรหรือ วางประกันค่าอากรไว้ไม่ครบถ้วน&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;ในส่วนของประกาศกรมศุลกากรที่ 66/ 2561 เรื่อง การปฏิบัติพิธีการศุลกากร ณ เขตปลอดอากรท่าอากาศยานสุวรรณภูมิ &lt;a href=&#34;http://www.e-customs.co.th/ECS/wp-content/uploads/2018/03/21032018-02.pdf&#34;&gt;&lt;strong&gt;(ดาวน์โหลดประกาศ)&lt;/strong&gt;&lt;/a&gt; ได้มีแนวทางปฏิบัติพิธีการศุลกากร เกี่ยวกับของตกค้างทั้งในส่วนของเจ้าหน้าที่ และฝ่ายอื่น ๆ ที่เกี่ยวข้อง จึงขอยกข้อความเกี่ยวกับของตกค้างในประกาศฉบับดังกล่าว เพื่อให้ทราบถึงรายละเอียดในการปฏบัติเรื่องดังกล่าวมากขึ้นดังนี้&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/remainder-02.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/remainder-03.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/remainder-04.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/remainder-05.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>การปฏิบัติพิธีการศุลกากรกรณีผู้นำของเข้าแจ้งความสงวนสิทธิขอคืนอากร</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/reverve/</link>
-      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/reverve/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;การปฏิบัติพิธีการศุลกากรกรณีผู้นำของเข้าแจ้งความสงวนสิทธิขอคืนอากรและการวางประกันเกี่ยวกับ ปัญหาพิกัดศุลกากร&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;เนื่องจากภายหลังพระราชบัญญัติศุลกากร พ.ศ. 2560 มีผลบังคับ กรมศุลกากรยังไม่มีประกาศแนวทางปฏิบัติ สำหรับกรณีที่ผู้นำของเข้าไม่แน่ใจ ในประเภทพิกัดที่จะสำแดง จึงขอวางประกัน/แจ้งความสงวนสิทธิคืนอากร เพื่อขอให้กรมศุลกากรพิจำรณาว่าจัดเข้าพิกัดใด แต่ปัจจุบันยังไม่มีแนวทางปฏิบัติให้ผู้ประกอบการ และเจ้าหน้าที่ดำเนินการ แนวทางการแก้ไขปัญหา กรมศุลกากรจึงกำหนดแนวทางให้หน่วยงานที่เกี่ยวข้องไปดำเนินการกำหนดแนวทางการปฏิบัติ และออกเป็นประกาศกรมศุลกากร สำหรับเรื่องดังกล่าว&lt;/p&gt;
-
-&lt;p&gt;ในระหว่างที่ยังดำเนินการออกประกาศไม่แล้วเสร็จ ให้ทุกหน่วยงานรับปฏิบัติพิธีการศุลกากรไป พลางก่อน จนกว่าจะมีประกาศกรมฯ และคำสั่งทั่วไปกรมฯ ให้มีผลบังคับใช้ โดยให้พนักงานศุลกากรที่ ทำหน้าที่ตรวจปล่อยสินค้าชักตัวอย่างตามระเบียบที่กำหนด และจัดส่งให้คณะทำงานพิจารณาปัญหาพิกัดอัตรา ศุลกากรประจำสำนักงานฯ ที่มีผู้แทนของสำนักพิกัดอัตราศุลกากรร่วมเป็นคณะทำงาน พิจารณาดำเนินการต่อไป&lt;/p&gt;
-
-&lt;p&gt;กรมศุลกากรได้แจ้งทุกหน่วยงาน ตามหนังสือที่ กค 0501/247 ลว. 8 มกราคม 2562 (e-13051)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;สรุปประเด็นพิจารณาในที่ประชุม คณะทำงานร่วมภาครัฐและภาคเอกชนเพื่ออำนวยความสะดวกในการนำเข้าส่งออก (ครอ.) ครั้งที่ 1 /2561&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/library/raw/master/img/request%20duty%20refunds-01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;สรุปประเด็นพิจารณาในที่ประชุม คณะทำงานร่วมภาครัฐและภาคเอกชนเพื่ออำนวยความสะดวกในการนำเข้าส่งออก (ครอ.) ครั้งที่ 3 /2562&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/library/raw/master/img/request%20duty%20refunds-02.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://th.customs.go.th/list_strc_download.php?ini_content=business_190117_01_01&amp;amp;ini_menu=menu_business_160421_04&amp;amp;order_by=co_priority&amp;amp;sort_type=0&amp;amp;lang=th&amp;amp;left_menu=menu_business_160421_04_01&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;book-expand&#34;&gt;
-  &lt;label&gt;
-    &lt;div class=&#34;book-expand-head flex justify-between&#34;&gt;
-      &lt;span&gt;การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชย&lt;/span&gt;
-      &lt;span&gt;&amp;#43;&lt;/span&gt;
-    &lt;/div&gt;
-    &lt;input type=&#34;checkbox&#34; class=&#34;hidden&#34; /&gt;
-    &lt;div class=&#34;book-expand-content markdown-inner&#34;&gt;
-      &lt;h2 id=&#34;การปฏ-บ-ต-พ-ธ-การในการนำของท-ผล-ตในประเทศเข-าไปบรรจ-ในเขตปลอดอากร-เขตประกอบการเสร-และขอใช-ส-ทธ-ชดเชยค-าภาษ-อากรเม-อส-งออก&#34;&gt;การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชยค่าภาษีอากรเมื่อส่งออก&lt;/h2&gt;
-
-&lt;blockquote class=&#34;book-hint info&#34;&gt;
-  &lt;strong&gt;คำตอบ :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ที่มา : &lt;a href=&#34;http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a324149505f47&amp;amp;left_menu=interesting_article&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;วันที่ปรับปรุงล่าสุด : 4 ตุลาคม 2562&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-    &lt;/div&gt;
-  &lt;/label&gt;
+&lt;div class=&#34;alert alert-success&#34;&gt;
+  &lt;div&gt;
+    สอบถามข้อมูลเพิ่มเติมได้ที่ : สำนักงานศุลกากรตรวจสินค้าท่าอากาศยานสุวรรณภูมิ (สสภ.).&lt;br /&gt;
+โทรศัพท์ : 02-134-1246.
+  &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&amp;amp;ini_content=business_160426_02_160914_01_160914_02&amp;amp;lang=th&amp;amp;root_left_menu=menu_business_160421_02_160421_01&amp;amp;left_menu=menu_business_160421_02_160421_01_160914_03&#34;&gt;กรมศุลกากร&lt;/a&gt;.&lt;br /&gt;
+ปรับปรุงล่าสุด : 15 มิ.ย. 2560&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/direct_guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/direct_guide/</guid>
+      <description>&lt;script&gt;
+   var files = &#39;../guide/index.html&#39;
+   //document.location = files
+   location.replace(files)
+  &lt;/script&gt;
 </description>
     </item>
     
@@ -354,7 +290,21 @@
 
 &lt;p&gt;&lt;img src=&#34;https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LlVhH2uMzkQQNM73WMS%2F-LsZj7zJJapJJjs5Zg2J%2F-LsZjQ1QhWpRqEz35NyG%2Fexcise_logo.jpg?alt=media&amp;amp;token=c2a0d657-ef4c-45e7-8b22-3b2d4eee8cfd&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;ความหมาย&#34;&gt;ความหมาย&lt;/h2&gt;
+&lt;h2 id=&#34;เน-อหา&#34;&gt;เนื้อหา&lt;/h2&gt;
+
+&lt;div class=&#34;alert alert-note_toc&#34;&gt;
+  &lt;div&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E0%B8%AA-%E0%B8%99%E0%B8%84-%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%9A%E0%B8%A3-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97-%E0%B8%95-%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA-%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%A9-%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1-%E0%B8%95&#34;&gt;สินค้าและบริการที่ต้องเสียภาษีสรรพสามิต&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E0%B8%AA-%E0%B8%9A%E0%B8%84-%E0%B8%99%E0%B8%A3%E0%B8%AB-%E0%B8%AA%E0%B8%AA-%E0%B8%99%E0%B8%84-%E0%B8%B2%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1-%E0%B8%95&#34;&gt;สืบค้นรหัสสินค้าสรรพสามิต&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A3-%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%A5-%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3&#34;&gt;โครงสร้างราคาขายปลีกแนะนำ&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%A5-%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A9-%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1-%E0%B8%95&#34;&gt;ราคาขายปลีกแนะนำและการคำนวนภาษีสรรพสามิต&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E0%B8%95-%E0%B8%A7%E0%B8%AD%E0%B8%A2-%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%A9&#34;&gt;ตัวอย่างการคำนวณภาษี&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1-%E0%B8%95-%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B8%AA-%E0%B8%99%E0%B8%84-%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B&#34;&gt;ประกาศกรมสรรพสามิต แยกตามประเภทสินค้าและบริการ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E0%B8%84-%E0%B8%A1-%E0%B8%AD%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3-%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1-%E0%B8%95&#34;&gt;คู่มือสำหรับประชาชนของกรมสรรพสามิต&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;ภาษีสรรพสามิต คือ ภาษีที่จัดเก็บจากสินค้าและบริการซึ่งมีเหตุผลสมควรที่จะต้องรับภาระภาษีสูงกว่าปกติ เช่น บริโภคแล้วอาจก่อให้เกิดผลเสียต่อสุขภาพ และศีลธรรมอันดี มีลักษณะฟุ่มเฟือย และสินค้าและบริการที่ได้รับผลประโยชน์เป็นพิเศษจากกิจการของรัฐ เป็นต้น เพื่อเป็นรายได้ให้รัฐบาลนำไปบริหารประเทศ และทะนุบำรุงท้องถิ่นต่าง ๆ โดยอาศัยอำนาจตามกฎหมาย&lt;/p&gt;
 
@@ -901,13 +851,22 @@
       <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/trade-protection/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/trade-protection/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/trade-protection.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/trade-protection.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;การค้าเป็นสิ่งคัญที่ทุกประเทศจะนำมาใช้ในการพัฒนาประเทศให้เจริญรุ่งเรือง และเป็นกลไก สำคัญที่จะพัฒนาประเทศ แต่เนื่องจากการผลิตสินค้าในประเทศนั้น อาจมีค่าแรงสูงและกระบวนการผลิตที่ทำให้สินค้ามีราคาสูงจึงเป็นเรื่องปกติที่คนในประเทศจะใช้สินค้านำเข้าราคาถูกจากประเทศอื่น เช่น จีน หรือเวียดนาม ที่มีค่าแรงขั้นต่ำราคาถูก ที่มาโจมตีสินค้าภายในประเทศได้ กรณีนี้จึงต้องมีมาตรการป้องกันเศรษฐกิจและสินค้าภายในประเทศตนเอง เพื่อให้คนในประเทศหันมาอุดหนุนสินค้าของประเทศตนเอง โดยองค์การการค้าโลกได้มีวิธีที่จะให้ประเทศสมาชิกใช้มาตรการต่าง ๆ เพื่อป้องกันการทุ่มตลาดจากประเทศอื่น ๆ ได้เช่น  มาตรการตอบโต้การทุ่มตลาด (Anti-dumping: AD) และมาตรการตอบโต้การอุดหนุน (Countervailing Duty: CVD), มาตรการสนับสนุนของรัฐ รวมทั้งใช้เป็นมาตรการทางการค้า ที่ประเทศผู้นำเข้าใช้เพื่อปกป้องอุตสาหกรรมภายในที่ได้รับความเสียหาย หรือมีแนวโน้มที่จะได้รับความเสียหาย อันเกิดจากการนำเข้าสินค้าจากต่างประเทศที่ไม่เป็นธรรม มีรายละเอียดของมาตรการต่าง ๆ ดังนี้&lt;/p&gt;
 
-&lt;h1 id=&#34;มาตรการตอบโต-การท-มตลาด-anti-dumping&#34;&gt;มาตรการตอบโต้การทุ่มตลาด (Anti-dumping)&lt;/h1&gt;
+
+
+
+
+&lt;div class=&#34;book-tabs&#34;&gt;
+
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-มาตรการปกป้องและตอบโต้ทางการค้า&#34; id=&#34;tabs-มาตรการปกป้องและตอบโต้ทางการค้า-0&#34; checked=&#34;checked&#34; /&gt;
+  &lt;label for=&#34;tabs-มาตรการปกป้องและตอบโต้ทางการค้า-0&#34;&gt;
+    Anti-dumping: AD
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;h2 id=&#34;มาตรการตอบโต-การท-มตลาด-anti-dumping&#34;&gt;มาตรการตอบโต้การทุ่มตลาด (Anti-dumping)&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/anti-dumping.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
@@ -1048,9 +1007,14 @@
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 
-&lt;hr /&gt;
+  &lt;/div&gt;
 
-&lt;h1 id=&#34;มาตรการตอบโต-การอ-ดหน-น-countervailing-duty&#34;&gt;มาตรการตอบโต้การอุดหนุน (Countervailing Duty)&lt;/h1&gt;
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-มาตรการปกป้องและตอบโต้ทางการค้า&#34; id=&#34;tabs-มาตรการปกป้องและตอบโต้ทางการค้า-1&#34;  /&gt;
+  &lt;label for=&#34;tabs-มาตรการปกป้องและตอบโต้ทางการค้า-1&#34;&gt;
+    Countervailing Duty: CVD
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;h2 id=&#34;มาตรการตอบโต-การอ-ดหน-น-countervailing-duty&#34;&gt;มาตรการตอบโต้การอุดหนุน (Countervailing Duty)&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/CVD.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
@@ -1136,22 +1100,22 @@
 &lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/cvd/investigate&#34;&gt;รายการสินค้า สินค้าที่ไทยใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;ข-อกฎหมาย-1&#34;&gt;ข้อกฎหมาย&lt;/h2&gt;
+&lt;h2 id=&#34;ข-อกฎหมาย&#34;&gt;ข้อกฎหมาย&lt;/h2&gt;
 
-&lt;h3 id=&#34;wto-1&#34;&gt;WTO&lt;/h3&gt;
+&lt;h3 id=&#34;wto&#34;&gt;WTO&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/4FJhLS5gOe2JOUkJRR1dhj5KFSOAwh0Q3ODgkADb.pdf&#34;&gt;AGREEMENT ON SUBSIDIES AND COUNTERVAILING MEASURES&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;พระราชบ-ญญ-ต-1&#34;&gt;พระราชบัญญัติ&lt;/h3&gt;
+&lt;h3 id=&#34;พระราชบ-ญญ-ต&#34;&gt;พระราชบัญญัติ&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/lksc37V3c5cH5uNj3WIyiwibFZOCZBHyFjE8cc3L.pdf&#34;&gt;The Anti- Dumping and Countervailing Act B.E.2542 (Unofficial Translation)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9pvSgZh9ViHpAKsJs5NUP3dSqI1yNR7h0wpaGRZQ.pdf&#34;&gt;พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;กฎกระทรวง-1&#34;&gt;กฎกระทรวง&lt;/h3&gt;
+&lt;h3 id=&#34;กฎกระทรวง&#34;&gt;กฎกระทรวง&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/b7U8uaFHQWquk650wWOdeGfPt36AfJWPKp7w14eD.pdf&#34;&gt;กฎกระทรวง(ฉบับที่ 4) (พ.ศ. 2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 ลงวันที่ 8 มีนาคม พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
@@ -1161,7 +1125,7 @@
 &lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9IOsHUg8KdkOpuHMXkjmT4qkICJOmDc1y7HqtxV3.pdf&#34;&gt;กฏกระทรวง ฉบับที่3 (พ.ศ.2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ.2542 ลงวันที่ 8 มีนาคม พ.ศ.2543&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;ประกาศกระทรวงพาณ-ชย-1&#34;&gt;ประกาศกระทรวงพาณิชย์&lt;/h3&gt;
+&lt;h3 id=&#34;ประกาศกระทรวงพาณ-ชย&#34;&gt;ประกาศกระทรวงพาณิชย์&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/tnTulQNQgSuHZ7GZn6Hj3zGl9MynUp5q5zqYNPRp.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 2) พ.ศ. 2542 ลงวันที่ 23 กรกฎาคม พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
@@ -1175,7 +1139,7 @@
 &lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/FZwrkGZGQPkFHTCouhcA63NXBCCaCS80FKodz4BQ.pdf&#34;&gt;ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง แนวทางปฏิบัติเกี่ยวกับระยะเวลาในการยื่นคำขอทบทวนความจำเป็นในการต่ออายุการใช้มาตรการตอบโต้การทุ่มตลาดและการอุดหนุน&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;ข-นตอนการไต-สวน-1&#34;&gt;ขั้นตอนการไต่สวน&lt;/h2&gt;
+&lt;h2 id=&#34;ข-นตอนการไต-สวน&#34;&gt;ขั้นตอนการไต่สวน&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cvd_step.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
@@ -1223,9 +1187,14 @@
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 
-&lt;hr /&gt;
+  &lt;/div&gt;
 
-&lt;h1 id=&#34;มาตรการปกป-องการนำเข-าส-นค-าท-เพ-มข-น-safeguard-measure&#34;&gt;มาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น (Safeguard Measure)&lt;/h1&gt;
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-มาตรการปกป้องและตอบโต้ทางการค้า&#34; id=&#34;tabs-มาตรการปกป้องและตอบโต้ทางการค้า-2&#34;  /&gt;
+  &lt;label for=&#34;tabs-มาตรการปกป้องและตอบโต้ทางการค้า-2&#34;&gt;
+    Safeguard Measure: SG
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;h2 id=&#34;มาตรการปกป-องการนำเข-าส-นค-าท-เพ-มข-น-safeguard-measure&#34;&gt;มาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น (Safeguard Measure)&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/SG.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
@@ -1327,28 +1296,28 @@
 &lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/sg/investigate&#34;&gt;รายการสินค้า สินค้าที่ไทยใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;ข-อกฎหมาย-2&#34;&gt;ข้อกฎหมาย&lt;/h2&gt;
+&lt;h2 id=&#34;ข-อกฎหมาย&#34;&gt;ข้อกฎหมาย&lt;/h2&gt;
 
-&lt;h3 id=&#34;wto-2&#34;&gt;WTO&lt;/h3&gt;
+&lt;h3 id=&#34;wto&#34;&gt;WTO&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/WXjm7Tqw7dAwxpHoQEPKgUAHNdasBlxx5GB08d00.pdf&#34;&gt;AGREEMENT ON SAFEGUARDS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;พระราชบ-ญญ-ต-2&#34;&gt;พระราชบัญญัติ&lt;/h3&gt;
+&lt;h3 id=&#34;พระราชบ-ญญ-ต&#34;&gt;พระราชบัญญัติ&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/NHyQ7X80IJKMa9UAUUb9AESKnkwN4QV3sTmnNP27.pdf&#34;&gt;พระราชบัญญัติมาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2550&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;กฎกระทรวง-2&#34;&gt;กฎกระทรวง&lt;/h3&gt;
+&lt;h3 id=&#34;กฎกระทรวง&#34;&gt;กฎกระทรวง&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/M1fBgL4EfKZ0dEkFwf57GojIvIPGh82qcJvbxPVh.pdf&#34;&gt;กฎกระทรวงพาณิชย์กำหนดหลักเกณฑ์ วิธีการ และเงื่อนไขในการประกาศเผยแพร่ผลคำวินิจฉัยเกี่ยวกับการพิจารณามาตรการปกป้อง พ.ศ. 2553&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/ALOuLMbyIlORXnAFT2MJjsNqYPlnkmltAFpWkrFB.pdf&#34;&gt;กฏกระทรวงพาณิชย์กำหนดหลักเกณฑ์ วิธีการ และเงื่อนไขในการพิจารณาความเสียหายจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2553&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;ประกาศกระทรวงพาณ-ชย-2&#34;&gt;ประกาศกระทรวงพาณิชย์&lt;/h3&gt;
+&lt;h3 id=&#34;ประกาศกระทรวงพาณ-ชย&#34;&gt;ประกาศกระทรวงพาณิชย์&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/8l01nHboEL4TpUGiIGyFJHCtE9u5phHneHw5UOxm.pdf&#34;&gt;ประกาศกรมการค้าต่างประเทศ เรื่อง หลักเกณฑ์ของประกาศไต่สวนการนำเข้าสินค้าที่เพิ่มขึ้นและความเสียหาย พ.ศ. 2551&lt;/a&gt;&lt;/li&gt;
@@ -1362,7 +1331,7 @@
 &lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/NVfgpPe3YjPZ3L7iufuMgpyUdsIHt5E0pjMoaaTJ.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ ว่าด้วยการกำหนดมาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ.2542&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;ข-นตอนการไต-สวน-2&#34;&gt;ขั้นตอนการไต่สวน&lt;/h2&gt;
+&lt;h2 id=&#34;ข-นตอนการไต-สวน&#34;&gt;ขั้นตอนการไต่สวน&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/sg_step.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
@@ -1395,6 +1364,11 @@
 &lt;li&gt;วันที่ปรับปรุงล่าสุด : 4 กุมภาพันธ์ 2563&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
+
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -1414,32 +1388,42 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/ecs-support/knowledge-center/raw/master/data/moc/used_car.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง กำหนดให้รถยนต์ใช้แล้วเป็นสินค้าที่ต้องห้ามหรือต้องขออนุญาตในการนำเข้ามาในราชอาณาจักร พ.ศ. 2562&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;การปฏ-บ-ต-พ-ธ-การศ-ลกากรนำเข-าทางอ-เล-กทรอน-กส-ว-าด-วยรถยนต-สำเร-จร-ป&#34;&gt;การปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป&lt;/h2&gt;
+&lt;h2 id=&#34;การปฏ-บ-ต-พ-ธ-การ&#34;&gt;การปฏิบัติพิธีการ&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;ประกาศกรมศุลกากร ที่ 106/ 2561 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;การปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป ตามประกาศกรมศุลกากร ที่ 106/ 2561 เรื่อง &lt;strong&gt;หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page1-1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;ส-วนท-1-การจ-ดทำข-อม-ลใบขนส-นค-า&#34;&gt;ส่วนที่ 1 การจัดทำข้อมูลใบขนสินค้า&lt;/h3&gt;
+&lt;h3 id=&#34;การจ-ดทำข-อม-ลใบขนส-นค-า&#34;&gt;การจัดทำข้อมูลใบขนสินค้า&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;ส่วนที่ 1 การจัดทำข้อมูลใบขนสินค้า&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page1-2.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page2-1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;การจ-ดทำใบร-บรองรายละเอ-ยดของรถยนต-สำเร-จร-ปนำเข-า&#34;&gt;การจัดทำใบรับรองรายละเอียดของรถยนต์สำเร็จรูปนำเข้า&lt;/h4&gt;
+&lt;h4 id=&#34;การจ-ดทำใบร-บรอง&#34;&gt;การจัดทำใบรับรอง&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;การจัดทำใบรับรองรายละเอียดของรถยนต์สำเร็จรูปนำเข้า&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page2-2.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page3-1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;ส-วนท-2-การตรวจสอบตามกระบวนการทางศ-ลกากร&#34;&gt;ส่วนที่ 2 การตรวจสอบตามกระบวนการทางศุลกากร&lt;/h3&gt;
+&lt;h3 id=&#34;การตรวจสอบ&#34;&gt;การตรวจสอบ&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;ส่วนที่ 2 การตรวจสอบตามกระบวนการทางศุลกากร&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page3-2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;ส-วนท-3-การตรวจสอบรถยนต-สำเร-จร-ปกรณ-ม-เหต-อ-นควรสงส-ย&#34;&gt;ส่วนที่ 3 การตรวจสอบรถยนต์สำเร็จรูปกรณีมีเหตุอันควรสงสัย&lt;/h3&gt;
+&lt;h3 id=&#34;การตรวจสอบ-1&#34;&gt;การตรวจสอบ&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;ส่วนที่ 3 การตรวจสอบรถยนต์สำเร็จรูปกรณีมีเหตุอันควรสงสัย&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page3-3.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page4-1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;ส-วนท-4-การเช-อมโยงใบขนส-นค-าขาเข-าก-บกรมการขนส-งทางบก&#34;&gt;ส่วนที่ 4 การเชื่อมโยงใบขนสินค้าขาเข้ากับกรมการขนส่งทางบก&lt;/h3&gt;
+&lt;h3 id=&#34;การเช-อมโยงข-อม-ล&#34;&gt;การเชื่อมโยงข้อมูล&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;ส่วนที่ 4 การเชื่อมโยงใบขนสินค้าขาเข้ากับกรมการขนส่งทางบก&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page4-2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
@@ -1454,25 +1438,102 @@
     </item>
     
     <item>
-      <title>กลับไปเมนูหลัก  พิธีการศุลกากร</title>
+      <title>การปฏิบัติพิธีการศุลกากรกรณีผู้นำของเข้าแจ้งความสงวนสิทธิขอคืนอากร</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/reverve/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/reverve/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;การปฏิบัติพิธีการศุลกากรกรณีผู้นำของเข้าแจ้งความสงวนสิทธิขอคืนอากรและการวางประกันเกี่ยวกับ ปัญหาพิกัดศุลกากร&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;เนื่องจากภายหลังพระราชบัญญัติศุลกากร พ.ศ. 2560 มีผลบังคับ กรมศุลกากรยังไม่มีประกาศแนวทางปฏิบัติ สำหรับกรณีที่ผู้นำของเข้าไม่แน่ใจ ในประเภทพิกัดที่จะสำแดง จึงขอวางประกัน/แจ้งความสงวนสิทธิคืนอากร เพื่อขอให้กรมศุลกากรพิจำรณาว่าจัดเข้าพิกัดใด แต่ปัจจุบันยังไม่มีแนวทางปฏิบัติให้ผู้ประกอบการ และเจ้าหน้าที่ดำเนินการ แนวทางการแก้ไขปัญหา กรมศุลกากรจึงกำหนดแนวทางให้หน่วยงานที่เกี่ยวข้องไปดำเนินการกำหนดแนวทางการปฏิบัติ และออกเป็นประกาศกรมศุลกากร สำหรับเรื่องดังกล่าว&lt;/p&gt;
+
+&lt;p&gt;ในระหว่างที่ยังดำเนินการออกประกาศไม่แล้วเสร็จ ให้ทุกหน่วยงานรับปฏิบัติพิธีการศุลกากรไป พลางก่อน จนกว่าจะมีประกาศกรมฯ และคำสั่งทั่วไปกรมฯ ให้มีผลบังคับใช้ โดยให้พนักงานศุลกากรที่ ทำหน้าที่ตรวจปล่อยสินค้าชักตัวอย่างตามระเบียบที่กำหนด และจัดส่งให้คณะทำงานพิจารณาปัญหาพิกัดอัตรา ศุลกากรประจำสำนักงานฯ ที่มีผู้แทนของสำนักพิกัดอัตราศุลกากรร่วมเป็นคณะทำงาน พิจารณาดำเนินการต่อไป&lt;/p&gt;
+
+&lt;p&gt;กรมศุลกากรได้แจ้งทุกหน่วยงาน ตามหนังสือที่ กค 0501/247 ลว. 8 มกราคม 2562 (e-13051)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;สรุปประเด็นพิจารณาในที่ประชุม คณะทำงานร่วมภาครัฐและภาคเอกชนเพื่ออำนวยความสะดวกในการนำเข้าส่งออก (ครอ.) ครั้งที่ 1 /2561&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/library/raw/master/img/request%20duty%20refunds-01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;สรุปประเด็นพิจารณาในที่ประชุม คณะทำงานร่วมภาครัฐและภาคเอกชนเพื่ออำนวยความสะดวกในการนำเข้าส่งออก (ครอ.) ครั้งที่ 3 /2562&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/library/raw/master/img/request%20duty%20refunds-02.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://th.customs.go.th/list_strc_download.php?ini_content=business_190117_01_01&amp;amp;ini_menu=menu_business_160421_04&amp;amp;order_by=co_priority&amp;amp;sort_type=0&amp;amp;lang=th&amp;amp;left_menu=menu_business_160421_04_01&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ของตกค้าง</title>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/overtime/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/overtime/</guid>
+      <description>
+
+&lt;p&gt;เนื่องจากในปัจจุบันมีใบขนสินค้าผ่านแดน ที่ส่งข้อมูลหลังจากวันนำเข้า&lt;em&gt;เกิน 60 วัน&lt;/em&gt; ทำให้ระบบกรมศุลกากรได้ Lock ไม่ให้ส่งข้อมูลใบขนสินค้าผ่านแดน ทำให้มีคำถามกลับเข้ามาถึงกฎหมายที่เกี่ยวข้อง และขั้นตอนการปฏิบัติพิธีการศุลกากร สำหร้ับเรื่องดังกล่าว ในส่วนของโปรแกรม เราจำเป็นต้องทราบว่าระบบหลังบ้านกรมศุลกากร จะทำการตรวจสอบและ lock สินค้าที่อยู่ในอารักขาของศุลกากร&lt;em&gt;เกิน 60 วัน&lt;/em&gt; นับแต่วันที่นําเข้า โดย&lt;em&gt;ไม่มีการยื่นใบขนสินค้า&lt;/em&gt; หรือ &lt;em&gt;ไม่ได้เสียอากรหรือวางประกันค่าอากรที่ศุลกากรเรียกเก็บ&lt;/em&gt; ไม่สามารถส่งข้อมูลทางอิเล็กทรอนิกส์ได้ เราจึงรวบรวมข้อกฎหมายและขั้นตอนการปฏิบัติของหน่วยงานต่าง ๆ ที่เกี่ยวข้องกับของตกค้าง เพื่อใช้ประกอบทำความเข้าใจ และใช้เป็นแนวทางในการแก้ปัญหาในเรื่องดังกล่าวดังนี้&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/remainder-01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ตามประกาศกรมศุลกากรที่ 142/ 2560 เรื่อง พิธีการศุลกากรว่าด้วยของตกค้าง &lt;a href=&#34;http://www.ratchakitcha.soc.go.th/DATA/PDF/2560/E/276/56.PDF&#34;&gt;&lt;strong&gt;(ดาวน์โหลดประกาศ)&lt;/strong&gt;&lt;/a&gt; ได้นิยามความหมายและหลักเกณฑ์ไว้ดังนี้&lt;/p&gt;
+
+&lt;h2 id=&#34;ความหมาย&#34;&gt;ความหมาย&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;“ของตกค้าง”&lt;/strong&gt; หมายถึง ของที่อยู่ในอารักขาของศุลกากรในลักษณะใดลักษณะหนึ่ง ดังต่อไปนี้&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;ของนําเข้าที่เป็น &lt;em&gt;สินค้าอันตราย&lt;/em&gt; ตามชนิด หรือประเภทที่กําหนดตามมาตรา 5 (5) แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 ที่ผู้นําของเข้ายังมิได้นําของออกไปจากเขตศุลกากร &lt;em&gt;ภายใน 5 วัน&lt;/em&gt; สําหรับของที่&lt;em&gt;ขนถ่ายข้างลํา (OVERSIDE)&lt;/em&gt; และ &lt;em&gt;ภายใน 7 วัน&lt;/em&gt; สําหรับกรณีอื่นนับแต่สินค้าอันตรายอยู่ในอารักขาของศุลกากร&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ของนําเข้าอื่นใดนอกจากข้อ (1) ที่อยู่ในอารักขาของศุลกากร&lt;em&gt;เกิน 30 วัน&lt;/em&gt; นับแต่วันที่นําเข้า โดย&lt;em&gt;ไม่มีการยื่นใบขนสินค้า&lt;/em&gt; และไม่ได้เสียอากรหรือวางประกันค่าอากรที่พึงเรียกเก็บแก่ของนั้น ซึ่งอธิบดีมีหนังสือแจ้งไปยังตัวแทนของเรือที่นําของเข้ามา แต่ตัวแทนของเรือไม่ยอมดําเนินการให้ถูกต้อง ภายใน 15 วันนับแต่วันที่ได้รับหนังสือแจ้งจากอธิบดี&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ของนําเข้าอื่นใดนอกจากข้อ (1) ที่&lt;em&gt;ยื่นใบขนสินค้า&lt;/em&gt; และ&lt;em&gt;เสียอากรหรือ วางประกันค่าอากรไว้ไม่ครบถ้วน&lt;/em&gt; และไม่ได้นําออกไปจากอารักขาของศุลกากร ภายในกําหนด 30 วัน นับแต่วันที่ได้รับหนังสือแจ้งจากอธิบดี&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;ของสดของเสียได้&lt;/em&gt; ที่ยังมิได้รับมอบไปจากอารักขาของศุลกากร และเห็นได้ชัดว่ามีลักษณะบูดเน่า หรือเสียแล้ว ตามมาตรา 109 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;หล-กเกณฑ-ของการเป-นของตกค-าง&#34;&gt;หลักเกณฑ์ของการเป็นของตกค้าง&lt;/h2&gt;
+
+&lt;p&gt;ของที่อยู่ในอารักขาของศุลกากรที่มีลักษณะอย่างใดอย่างหนึ่งดังต่อไปนี้ เป็นของตกค้างตามมาตรา 107 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;ของนําเข้าที่เป็นสินค้าอันตรายตามชนิด หรือประเภทที่กําหนด ตามมาตรา 5 (5) แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 ซึ่งผู้นําของเข้ามิได้นําของออกไปจากเขตศุลกากรภายใน 5 วัน สําหรับของที่ขนถ่ายข้างลํา (OVERSIDE) และภายใน 7 วันสําหรับกรณีอื่น นับแต่สินค้าอันตรายอยู่ในอารักขาของศุลกากร ถ้าพ้นกําหนดแล้วสินค้าอันตรายนั้นจะตกเป็นของตกค้างโดยผลของกฎหมาย&lt;/li&gt;
+&lt;li&gt;ของนําเข้าอื่นนอกจากข้อ (1) จะตกเป็นของตกค้าง มี 2 ประเภทได้แก่
+
+&lt;ul&gt;
+&lt;li&gt;ของที่อยู่ในอารักขาของศุลกากรเกินเวลา 30 วัน นับแต่วันนําเข้าสําเร็จ จะตกเป็นของตกค้าง ต้องประกอบด้วยหลักเกณฑ์ดังต่อไปนี้
+
+&lt;ul&gt;
+&lt;li&gt;เป็นของที่ไม่มีการยื่นใบขนสินค้าและไม่ได้เสียอากร หรือวางประกันค่าอากรที่พึงเรียกเก็บแก่ของนั้น&lt;/li&gt;
+&lt;li&gt;อธิบดีได้มีหนังสือแจ้งไปยังตัวแทนของเรือที่นําของเข้ามา แต่ตัวแทนของเรือไม่ยอมดําเนินการให้ถูกต้อง ภายใน 15 วันนับแต่วันที่ได้รับหนังสือแจ้งจากอธิบดี&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;ของนําเข้าที่ไม่ได้นําออกไปจากอารักขาของศุลกากร ภายในกําหนด 30 วันนับแต่วันที่ได้รับหนังสือแจ้งจากอธิบดี จะตกเป็นของตกค้าง ต้องประกอบด้วยหลักเกณฑ์ดังต่อไปนี้
+
+&lt;ul&gt;
+&lt;li&gt;เป็นของที่มีการยื่นใบขนสินค้าโดยไม่ได้เสียอากรหรือวางประกันอากร หรือ&lt;/li&gt;
+&lt;li&gt;เป็นของที่มีการยื่นใบขนสินค้าและเสียอากรหรือ วางประกันค่าอากรไว้ไม่ครบถ้วน&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;ในส่วนของประกาศกรมศุลกากรที่ 66/ 2561 เรื่อง การปฏิบัติพิธีการศุลกากร ณ เขตปลอดอากรท่าอากาศยานสุวรรณภูมิ &lt;a href=&#34;http://www.e-customs.co.th/ECS/wp-content/uploads/2018/03/21032018-02.pdf&#34;&gt;&lt;strong&gt;(ดาวน์โหลดประกาศ)&lt;/strong&gt;&lt;/a&gt; ได้มีแนวทางปฏิบัติพิธีการศุลกากร เกี่ยวกับของตกค้างทั้งในส่วนของเจ้าหน้าที่ และฝ่ายอื่น ๆ ที่เกี่ยวข้อง จึงขอยกข้อความเกี่ยวกับของตกค้างในประกาศฉบับดังกล่าว เพื่อให้ทราบถึงรายละเอียดในการปฏบัติเรื่องดังกล่าวมากขึ้นดังนี้&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/remainder-02.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/remainder-03.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/remainder-04.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/remainder-05.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>กลับไปเมนูหลัก  การนำเข้า-ส่งออกสินค้า</title>
       <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/direct_main/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/direct_main/</guid>
       <description>&lt;script&gt;
    var files = &#39;/knowledge-center/customs/customs/index.html&#39;
-   //document.location = files
-   location.replace(files)
-  &lt;/script&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/direct_guide/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/direct_guide/</guid>
-      <description>&lt;script&gt;
-   var files = &#39;../guide/index.html&#39;
    //document.location = files
    location.replace(files)
   &lt;/script&gt;
