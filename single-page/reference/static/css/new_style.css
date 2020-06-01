@@ -1,27 +1,31 @@
 @import url('https://fonts.googleapis.com/css?family=Kanit:300,300i,400,400i,500,700|Sarabun:300,400,400i,600,700&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Sarabun:300,300i,400,400i,500,700|Sarabun:300,400,400i,600,700&display=swap');
 
-@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css");
-@import url("https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap.min.css");
-@import url("https: //cdn.datatables.net/fixedheader/3.1.6/css/fixedHeader.bootstrap.min.css");
-@import url("https://cdn.datatables.net/responsive/2.2.3/css/responsive.bootstrap.min.css");
+/* @import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"); */
+@import url("https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css");
+/* @import url("https: //cdn.datatables.net/fixedheader/3.1.6/css/fixedHeader.bootstrap.min.css");*/
+/* @import url("https://cdn.datatables.net/responsive/2.2.3/css/responsive.bootstrap.min.css"); */
 
 body {
     font-family: "Sarabun", sans-serif;
     letter-spacing: .22px;
 }
 
-.table {
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
-}
+
 
 .logo_ecs {
     width: 7em;
     padding-top: 10px;
+    
 
-
+}
+.dataTables_length {
+    padding-top: 1.2em;
+    font-size: 1em;
+}
+.table-ref_filter {
+    padding-top: 0;
+    font-size: 1em;
 }
 
 .topleft {
@@ -33,8 +37,7 @@ body {
 
 .container-fluid {
     max-width: 95%;
-    margin-left: auto;
-    margin-right: auto;
+   
 
 }
 
@@ -50,11 +53,16 @@ thead th {
 
 th,
 td {
-    overflow: hidden;
-    /* this is what fixes the expansion */
-    text-overflow: ellipsis;
-    /* not supported in all browsers, but I accepted the tradeoff */
-    white-space: nowrap;
+    text-rendering: optimizeLegibility;
+  /* Ensure long words do not overflow into content. */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+
+  /* Add a hyphen where the word breaks (use `&shy;` to insert a soft-hyphen in a word). */
+  -webkit-hyphens: manual;
+  -ms-hyphens: manual;
+  hyphens: manual;
     padding: .8em;
 }
 
@@ -70,7 +78,7 @@ tr:hover {
 h2 {
     font-family: "Kanit", sans-serif;
     letter-spacing: .22px;
-    font-size: 2em;
+    font-size: 1.7em;
     font-weight: 500;
     color: #003366;
     text-align: center;
