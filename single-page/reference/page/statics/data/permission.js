@@ -100421,11 +100421,11 @@ $(document).ready(function () {
       { title: "คำอธิบายภาษาไทย" },
       { title: "คำอธิบายภาษาอังกฤษ" },
       { title: "วันที่เริ่มต้น" },
-    ],
+        ],
     responsive: true,
     scroller: true,
-    scrollY: 600,
-    scrollX: 700,
+     "scrollY": 650,
+      "scrollX": true
   });
 
   dataTable.FixedHeader(table);

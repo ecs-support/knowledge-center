@@ -3,33 +3,10 @@
 
 
 
-
-
 body {
     font-family: "Sarabun", sans-serif;
     letter-spacing: .22px;
 }
-
-#table-ref_paginate  {
-    display: inline-block;
-  }
-  
-  #table-ref_paginate  a {
-    color: black;
-    float: left;
-    padding: 8px 16px;
-    text-decoration: none;
-    transition: background-color .3s;
-  }
-  
-  #table-ref_paginate  a.active {
-    background-color: #4CAF50;
-    color: white;
-  }
-  
-  #table-ref_paginate  a:hover:not(.active) {background-color: #ddd;}
-
-
 
 .logo_ecs {
     width: 7em;
@@ -39,8 +16,8 @@ body {
 
 }
 .dataTables_length {
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: .5em;
+    margin-bottom: .5em;
     font-size: 1.2em;
 }
 .table-ref_filter {
@@ -57,7 +34,7 @@ body {
 
 .container-fluid {
     max-width: 95%;
-    margin-top: 1.5em;
+    margin-top: 1em;
    
    
 
@@ -77,9 +54,10 @@ th,
 td {
     text-rendering: optimizeLegibility;
   /* Ensure long words do not overflow into content. */
-  overflow-wrap: break-word;
+  overflow-wrap: anywhere;
   word-wrap: break-word;
   word-break: break-word;
+  
 
   /* Add a hyphen where the word breaks (use `&shy;` to insert a soft-hyphen in a word). */
   -webkit-hyphens: manual;
