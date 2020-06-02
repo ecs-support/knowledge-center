@@ -5,7 +5,11 @@
     <link>https://ecs-support.github.io/knowledge-center/customs/author/sarawut-wongsanga/</link>
       <atom:link href="https://ecs-support.github.io/knowledge-center/customs/author/sarawut-wongsanga/index.xml" rel="self" type="application/rss+xml" />
     <description>Sarawut Wongsanga</description>
+<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+>>>>>>> 32baf9ac14bc0906b71485c4eb58fcee32a789fc
     <image>
       <url>https://ecs-support.github.io/knowledge-center/customs/author/sarawut-wongsanga/avatar_hu9c0cdb97929754257117a119e95d28a3_5619_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Sarawut Wongsanga</title>
@@ -13,6 +17,7 @@
     </image>
     
     <item>
+<<<<<<< HEAD
       <title>การเพิ่มประสิทธิภาพในการควบคุมการเคลื่อนย้ายสินค้าระหว่างเขตพื้นที่รับผิดชอบของด่านศุลกากร</title>
       <link>https://ecs-support.github.io/knowledge-center/customs/post/controlling-goods-movement/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
@@ -34,6 +39,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> 32baf9ac14bc0906b71485c4eb58fcee32a789fc
       <title>การใช้ใบรับรองถิ่นกำเนิดอิเล็กทรอนิกส์เพื่อรองรับการขยายตัวการใช้สิทธิพิเศษความตกลงการค้าเสรี</title>
       <link>https://ecs-support.github.io/knowledge-center/customs/post/certificate-of-origin-fta/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>

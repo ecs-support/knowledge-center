@@ -7,7 +7,11 @@
     <description>การนำเข้าสินค้า (Import)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
+<<<<<<< HEAD
       <url>https://ecs-support.github.io/knowledge-center/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_300x300_fit_lanczos_2.png</url>
+=======
+      <url>https://ecs-support.github.io/knowledge-center/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+>>>>>>> 32baf9ac14bc0906b71485c4eb58fcee32a789fc
       <title>การนำเข้าสินค้า (Import)</title>
       <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/</link>
     </image>
