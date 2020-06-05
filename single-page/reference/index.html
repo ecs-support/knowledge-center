@@ -13,8 +13,7 @@
     <style>
         body,
         html {
-            height: 100%;
-            margin: 0;
+            
 
         }
 
@@ -25,6 +24,8 @@
 
             /* Full height */
             height: 100%;
+            margin:0;
+            top: 0;
 
             /* Center and scale the image nicely */
             background-position: center;
@@ -91,8 +92,6 @@
 
 <body>
     <div class="bg responsive">
-
-
         <img src="static/img/ECS_Logo_2020.png" class="float-left logo_ecs" id="logo" onclick="newDoc()">
 
         <!-- Masthead -->
@@ -104,34 +103,28 @@
                         <h1 class="mb-5">Reference data:</h1>
                     </div>
                     <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
-
                         <form>
                             <div class="form-row">
                                 <div class="col-12 col-md-9 mb-2 mb-md-0">
-
                                     <select class="custom-select custom-select-lg custom-select-danger border-danger"
                                         id="select" name="select_ref">
                                         <option value="#" selected>Select reference data</option>
                                         <option value="exchange_rate">อัตราแลกเปลี่ยนกรมศุลกากร</option>
-                                        <option value="permission">พิกัดอัตราศุลกากร และรหัสสถิติที่ต้องมีใบอนุญาต
+                                        <option value="permission_new">พิกัดอัตราศุลกากร และรหัสสถิติที่ต้องมีใบอนุญาต
                                         </option>
                                         <option value="exampt">รหัสยกเว้นไม่ต้องมีใบอนุญาต/ใบรับรอง</option>
                                         <option value="unit_code">รหัสหน่วยสินค้า (Unit Code)</option>
                                         <option value="package_code">รหัสลักษณะหีบห่อ (Package Unit Code)</option>
                                         <option value="area_code">รหัสสถานที่กรมศุลกากร</option>
+                                        <option value="port_code">รหัสท่า (ISO Port Code)</option>
                                         <option value="part4_code">พิกัดศุลกากรภาค 4 (ของที่ได้รับการยกเว้นอากร)
                                         </option>
                                         <option value="privilege_code">รหัสสิทธิพิเศษ (Privilege Code)</option>
                                         <option value="export_duty_rate">พิกัดอัตราอากรขาออก</option>
-
-
-พิกัดอัตราอากรขาออก
                                         <option value="country_code">รหัสประเทศ (Country Code)</option>
                                         <option value="container_size">ขนาดและประเภทตู้สินค้า</option>
                                         <option value="cartype_code">รหัสประเภทรถ (Car Type)</option>
                                         <option value="province_code">รหัสจังหวัด (Province Code)</option>
-
-
                                     </select>
                                 </div>
                                 <div class="col-12 col-md-3">
@@ -144,7 +137,6 @@
                 </div>
             </div>
         </header>
-
     </div>
 
     <script>
