@@ -11,9 +11,8 @@ body {
     letter-spacing: .22px;    
 }
 .table {
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+       table-layout: auto;
+       width: 100%;
 }
  .logo_ecs {
      width: 7em;
