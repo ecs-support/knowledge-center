@@ -100414,11 +100414,11 @@ $(document).ready(function () {
   $("#table-ref").DataTable({
     data: dataSet,
     columns: [
-      { title: "พิกัดศุลกากร" },
+      { title: "พิกัด" },
       { title: "รหัสสถิติ" },
       { title: "ประเภท" },
       { title: "หน่วยงาน" },
-      { title: "คำอธิบายภาษาไทย" },
+      { title: "คำอธิบาย" },
       { title: "คำอธิบายภาษาอังกฤษ" },
       { title: "วันที่เริ่มต้น" },
         ],

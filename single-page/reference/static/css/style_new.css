@@ -13,7 +13,7 @@ body {
       
 }
 .table {
-    table-layout: fixed;
+    table-layout: auto;
     width: 100%;
 }
 .dataTables_length {
@@ -21,10 +21,7 @@ body {
     margin-bottom: .5em;
     font-size: 1.2em;
 }
-.table-ref_filter {
-    margin-top: 1.2em;
-    font-size: 1.2em;
-}
+
 
 .topleft {
     position: absolute;
@@ -55,18 +52,27 @@ body {
 
 }
 
+table .table {
+    
+}
+
 thead th {
-    font-size: 1.1em;
+    vertical-align: middle;
+    font-size: 1em;
     font-weight: 500;
     background-color: #003366;
     color: white;
     text-align: center;
+    
+    }
+    
 
-}
+
 
 
 th,
 td {
+    vertical-align: middle;
 
     text-rendering: optimizeLegibility;
   /* Ensure long words do not overflow into content. */
@@ -85,6 +91,7 @@ td {
 
 tr {
     font-size: 1em;
+    vertical-align: middle;
 }
 
 tr:hover {
