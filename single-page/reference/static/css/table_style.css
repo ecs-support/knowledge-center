@@ -47,12 +47,13 @@ thead th {
  
    th,
    td {
-       overflow: hidden;
+      /* overflow: hidden;  */
        /* this is what fixes the expansion */
        text-overflow: ellipsis;
        /* not supported in all browsers, but I accepted the tradeoff */
-       white-space: nowrap;
+      /* white-space: nowrap; */
        padding: .8em;
+       word-break: keep-all;
    }
 
 
