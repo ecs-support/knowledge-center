@@ -54356,15 +54356,7 @@ var dataSet = [
     "- - - Smoked",
     "20150901",
   ],
-  [
-    "03072110",
-    "000",
-    "นำเข้า",
-    "สำนักงานคณะกรรมการอาหารและยา",
-    "หอยเชลล์ และหอยควีนสแกลลอปของตระกูลเพกเตน คลามิส หรือพลาโคเพกเตน มีชีวิต",
-    "Live of  Scallops, including queen scallops, of the genera Pecten, Chlamys or Placopecten",
-    "20200406",
-  ],
+
   [
     "03072120",
     "000",
@@ -54842,15 +54834,7 @@ var dataSet = [
     "- - - Smoked",
     "20150901",
   ],
-  [
-    "03082110",
-    "000",
-    "นำเข้า",
-    "สำนักงานคณะกรรมการอาหารและยา",
-    "เม่นทะเล (ชนิดสตรองจิโลเซนโทรทัส พาราเซนโทรทัสลิวิดัส โลซีคินัสอัลบัส เอคไคนัสเอสคูเลนทัส) มีชีวิต",
-    "Sea urchins (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echinus esculentus), Live",
-    "20200406",
-  ],
+
   [
     "03082120",
     "000",
@@ -100163,18 +100147,18 @@ $(document).ready(function () {
   $("#table-ref").DataTable({
     data: dataSet,
     columns: [
-      { title: "พิกัด" },
-      { title: "รหัสสถิติ" },
+      { title: "พิกัด", className: "txt-center" },
+      { title: "รหัสสถิติ", className: "txt-center" },
       { title: "ประเภท" },
       { title: "หน่วยงาน" },
       { title: "คำอธิบาย" },
       { title: "คำอธิบายภาษาอังกฤษ" },
-      { title: "วันที่เริ่มต้น" },
-        ],
+      { title: "วันที่เริ่มต้น", className: "txt-center" },
+    ],
     responsive: true,
     scroller: true,
-     "scrollY": 650,
-      "scrollX": true
+    scrollY: 650,
+    scrollX: true,
   });
 
   dataTable.FixedHeader(table);
